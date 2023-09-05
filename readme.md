@@ -13,7 +13,7 @@
 - Do not query reads too often, going past 90hz for one set of angles or 30hz for all three will slow down the USB communication.
 - The default controller follows the PID control, up to the current limit cap. 
 - Other controllers including velocity control or current control are supported as per the [motor manual](https://emanual.robotis.com/docs/en/dxl/x/xc330-m288/)
-- For Lite, keep the current limit around 350ma.
+- For Lite, keep the current limit around 300ma.
 - For Full, you can raise the current limit up to 550ma.
 - If facing a jittery hand, adjust the PID values down.
 - If the hand is too weak, adjust the PID values up.
@@ -22,6 +22,7 @@
 - If your motor is 90/180/270 Degrees off, the horn is mounted incorrectly on the motor.  Remount it.
 - If no motors show up, check that your serial port permissions are correct.
 - If some motors are missing, make sure they are IDed corrrectly and are connected to the U2D2.
+- If you get "overload error" and the motors are flashing red, then they have overloaded (self-collision etc). It should clear on a power cycle.  If it happens often, lower the current limits in the control code so that it does not happen as often.
 
 #### Coming Soon:
 - MANO to LEAP joint angle mapping.
