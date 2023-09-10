@@ -31,3 +31,12 @@
 - Please contact me at kshaw2@andrew.cmu.edu for any issues.
 - By using this code you agree to our CC BY-NC-SA Attribution-NonCommercial-ShareAlike license which allows you to use and build upon our work non-commercially.
 - LEAP Hand is provided as-is and without warranty.
+- If you use LEAP Hand in an academic setting, please cite our paper:
+```
+@article{shaw2023leaphand,
+  title={LEAP Hand: Low-Cost, Efficient, and Anthropomorphic Hand for Robot Learning},
+  author={Shaw, Kenneth and Agarwal, Ananye and Pathak, Deepak},
+  journal={Robotics: Science and Systems (RSS)},
+  year={2023}
+}
+```
