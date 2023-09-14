@@ -7,15 +7,15 @@
 - `source test_env/bin/activate`
 #### Install hardware drivers
 - `pip install dynamixel_sdk numpy`
-#### Create a [catkin_workspace](http://wiki.ros.org/catkin/Tutorials/create_a_workspace) named catkin_ws using instructions below.  (If you do not have one from your current project)
-- `mkdir -p ~/catkin_ws/src`
-- Copy the ros_module folder from this Github into src
+#### Add this to a [catkin_workspace](http://wiki.ros.org/catkin/Tutorials/create_a_workspace) named catkin_ws using instructions below.  
+- `mkdir -p ~/catkin_ws/src` (If you do not have a workspace from your current project)
+- Next, copy the ros_module folder from this Github into the newly created src folder.  Then:
 - `cd ~/catkin_ws/`
 - `pip install empy catkin_pkg pyyaml rospkg` 
 - `catkin_make`
 #### Source Bashrc
-- echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
-- source ~/.bashrc
+- `echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc`
+- `source ~/.bashrc`
 #### To Launch
 - First see our example.launch for an example launch script
 - cd ~/catkin_ws/src/ros_module
