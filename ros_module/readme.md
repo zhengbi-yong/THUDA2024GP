@@ -11,10 +11,15 @@
 - `mkdir -p ~/catkin_ws/src`
 - Copy the ros_module folder from this Github into src
 - `cd ~/catkin_ws/`
-- `pip install empy catkin_pkg pyyaml`
+- `pip install empy catkin_pkg pyyaml rospkg` 
 - `catkin_make`
 #### Source Bashrc
 - echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 - source ~/.bashrc
+#### To Launch
+- First see our example.launch for an example launch script
+- cd ~/catkin_ws/src/ros_module
+- `chmod +x leaphand_node.py`
+- `roslaunch example.launch`
 
 Please see ros_example.py and leaphand_node.py for further details.  It should be easy to read.  :)
