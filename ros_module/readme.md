@@ -11,7 +11,7 @@
 - `cd ~/catkin_ws/`
 - `pip install empy catkin_pkg pyyaml rospkg` 
 - `catkin_make`
-#### Source Bashrc
+#### Setup Bashrc
 - `echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc`
 - `source ~/.bashrc`
 #### First time preparation
