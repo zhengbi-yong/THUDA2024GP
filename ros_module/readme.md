@@ -1,7 +1,7 @@
 ## Welcome to the LEAP Hand Python SDK
 
 ### On Ubuntu
-- Install [ROS 1 Noetic](http://wiki.ros.org/ROS/Installation) normally first.
+- Install [ROS 1 Noetic](http://wiki.ros.org/ROS/Installation) normally first on Ubuntu 20.04.
 #### If you need an environment (venv is slightly less buggy than conda with ROS)
 - `python -m venv test_env`
 - `source test_env/bin/activate`
