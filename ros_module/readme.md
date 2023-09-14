@@ -24,4 +24,4 @@
 - Find the USB port using [Dynamixel Wizard](https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_wizard2/)
 - `roslaunch example.launch`
 - This is an example Launch script for just LEAP Hand.  The Hand should come to life.  You can query the services to receive data and publish to command the hand.
-Please see ros_example.py and leaphand_node.py for further details.  It should be easy to read.  :)
+Please see ros_example.py for example code that uses this module and leaphand_node.py, the actual ros module, for further details.  It should be easy to read.  :)
