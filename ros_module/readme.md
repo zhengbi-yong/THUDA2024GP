@@ -11,7 +11,7 @@
 - `mkdir -p ~/catkin_ws/src`
 - Copy the ros_module folder from this Github into src
 - `cd ~/catkin_ws/`
-- `pip install empycatkin_pkg`
+- `pip install empy catkin_pkg pyyaml`
 - `catkin_make`
 #### Source Bashrc
 - echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
