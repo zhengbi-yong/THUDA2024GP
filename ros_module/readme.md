@@ -23,5 +23,5 @@
 - Connect the Micro USB cable to the hand (Do not use too many USB extensions)
 - Find the USB port using [Dynamixel Wizard](https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_wizard2/)
 - `roslaunch example.launch`
-- This is an example Launch script for just LEAP Hand.  The Hand should come to life.  You can query the services to receive data and publish to command the hand.
+- This is an example Launch script for just LEAP Hand.  The hand should have made topics you can publish to and services. You publish to command the hand and query the services to receive data.
 Please see ros_example.py for example code that uses this module and leaphand_node.py, the actual ros module, for further details.  It should be easy to read.  :)
