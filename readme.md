@@ -1,5 +1,5 @@
 ## Welcome to the LEAP Hand SDK
-
+- Please visit [our website](http://leaphand.com/) for more information about LEAP hand.
 #### Software Setup
 - Please see the [Python API](https://github.com/leap-hand/LEAP_Hand_API/tree/main/python) and the [ROS API](https://github.com/leap-hand/LEAP_Hand_API/tree/main/ros_module) folders for software specific details.
 
