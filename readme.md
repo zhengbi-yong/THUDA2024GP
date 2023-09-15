@@ -1,5 +1,8 @@
 ## Welcome to the LEAP Hand SDK
 
+#### Software Setup
+- Please see the [Python API](https://github.com/leap-hand/LEAP_Hand_API/tree/main/python) and the [ROS API](https://github.com/leap-hand/LEAP_Hand_API/tree/main/ros_module) folders for software specific details.
+
 #### Hardware Setup
 - Connect 5v power to the hand (the dynamixels should light up during boot up.)
 - Connect the Micro USB cable to the hand (Do not use too many USB extensions)
@@ -29,7 +32,8 @@
 
 #### Support:
 - Please contact me at kshaw2@andrew.cmu.edu for any issues.
-- By using this code you agree to our CC BY-NC-SA Attribution-NonCommercial-ShareAlike license which allows you to use and build upon our work non-commercially.
+- This code is made available using an MIT License.
+- The CAD files are provided with a CC BY-NC-SA Attribution-NonCommercial-ShareAlike license which allows you to use and build upon our work non-commercially.
 - LEAP Hand is provided as-is and without warranty.
 - If you use LEAP Hand in an academic setting, please cite our paper:
 ```
