@@ -39,6 +39,7 @@ class HandModel:
             self.mesh[link.name] = {}
             # load collision mesh
             collision = link.collision
+            print(f"collision.geometry:{collision.geometry}")
             if type(collision.geometry) == Sphere:
                 link_mesh = tm.primitives.Sphere(radius=collision.geometry.radius)
                 self.mesh[link.name]['radius'] = collision.geometry.radius
