@@ -1,0 +1,37 @@
+{
+  "palm_lower": [],
+  "mcp_joint": [],
+  "pip": [0, 0, 0.024],
+  "dip": [
+    [0, 0, 0],
+    [0, 0, 0.025]
+  ],
+  "fingertip": [0, 0, 0.024],
+  "mcp_joint_2": [],
+  "pip_2": [0, 0, 0.024],
+  "dip_2": [
+    [0, 0, 0],
+    [0, 0, 0.025]
+  ],
+  "fingertip_2": [0, 0, 0.024],
+  "mcp_joint_3": [],
+  "pip_3": [0, 0, 0.024],
+  "dip_3": [
+    [0, 0, 0],
+    [0, 0, 0.025]
+  ],
+  "fingertip_3": [0, 0, 0.024],
+  "pip_4": [],
+  "thumb_pip": [],
+  "thumb_dip": [0, 0, 0.024],
+  "thumb_fingertip": [
+    [0, 0, 0],
+    [0, 0, 0.025]
+  ],
+  "robot0:lfdistal_child": [0, 0, 0.024],
+  "robot0:thbase_child": [],
+  "robot0:thproximal_child": [0, 0, 0.038],
+  "robot0:thhub_child": [],
+  "robot0:thmiddle_child": [0, 0, 0.032],
+  "robot0:thdistal_child": [0, 0, 0.026]
+}
