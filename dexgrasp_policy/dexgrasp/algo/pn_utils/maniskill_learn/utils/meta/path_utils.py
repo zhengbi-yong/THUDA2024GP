@@ -19,27 +19,27 @@ def get_dirname(x):
 
 
 def get_filename_suffix(x):
-    return get_filename(x).split('.')[-1]
+    return get_filename(x).split(".")[-1]
 
 
 def is_filepath(x):
     return is_str(x) or isinstance(x, Path)
 
 
-def add_suffix_to_filename(x, suffix=''):
+def add_suffix_to_filename(x, suffix=""):
     dirname = get_dirname(x)
     filename = get_filename(x)
-    dot_split = filename.split('.')
-    dot_split[-2] += f'_{suffix}'
-    return osp.join(dirname, '.'.join(dot_split))
+    dot_split = filename.split(".")
+    dot_split[-2] += f"_{suffix}"
+    return osp.join(dirname, ".".join(dot_split))
 
 
-def replace_suffix(x, suffix=''):
+def replace_suffix(x, suffix=""):
     dirname = get_dirname(x)
     filename = get_filename(x)
-    name_split = filename.split('.')
+    name_split = filename.split(".")
     name_split[-1] = suffix
-    return osp.join(dirname, '.'.join(name_split))
+    return osp.join(dirname, ".".join(name_split))
 
 
 def fopen(filepath, *args, **kwargs):
@@ -47,7 +47,7 @@ def fopen(filepath, *args, **kwargs):
         return open(filepath, *args, **kwargs)
     elif isinstance(filepath, Path):
         return filepath.open(*args, **kwargs)
-    raise ValueError('`filepath` should be a string or a Path')
+    raise ValueError("`filepath` should be a string or a Path")
 
 
 def check_file_exist(filename, msg_tmpl='file "{}" does not exist'):
@@ -56,7 +56,7 @@ def check_file_exist(filename, msg_tmpl='file "{}" does not exist'):
 
 
 def mkdir_or_exist(dir_name, mode=0o777):
-    if dir_name == '':
+    if dir_name == "":
         return
     dir_name = osp.expanduser(dir_name)
     os.makedirs(dir_name, mode=mode, exist_ok=True)
@@ -69,7 +69,7 @@ def symlink(src, dst, overwrite=True, **kwargs):
 
 
 def copy_folder(from_path, to_path, overwrite=True):
-    print(f'Copy files from {from_path} to {to_path}')
+    print(f"Copy files from {from_path} to {to_path}")
     from_path = str(from_path)
     to_path = str(to_path)
     if os.path.exists(to_path) and overwrite:
@@ -78,7 +78,7 @@ def copy_folder(from_path, to_path, overwrite=True):
 
 
 def copy_folders(source_dir, folder_list, target_dir, overwrite=True):
-    assert all(['/' not in _ for _ in folder_list])
+    assert all(["/" not in _ for _ in folder_list])
     for i in folder_list:
         copy_folder(osp.join(source_dir, i), osp.join(target_dir, i), overwrite)
 
@@ -105,7 +105,7 @@ def scandir(dir_path, suffix=None, recursive=False):
 
     def _scandir(dir_path, suffix, recursive):
         for entry in os.scandir(dir_path):
-            if not entry.name.startswith('.') and entry.is_file():
+            if not entry.name.startswith(".") and entry.is_file():
                 rel_path = osp.relpath(entry.path, root)
                 if suffix is None:
                     yield rel_path
@@ -120,7 +120,7 @@ def scandir(dir_path, suffix=None, recursive=False):
     return _scandir(dir_path, suffix=suffix, recursive=recursive)
 
 
-def find_vcs_root(path, markers=('.git',)):
+def find_vcs_root(path, markers=(".git",)):
     """Finds the root directory (including itself) of specified markers.
     Args:
         path (str): Path of directory or file.

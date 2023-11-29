@@ -1,9 +1,9 @@
 defaults:
-    - _self_
-    - model: ipdf
-    - dataset: ipdf_data
-    - override hydra/hydra_logging: none
-    - override hydra/job_logging: none
+  - _self_
+  - model: ipdf
+  - dataset: ipdf_data
+  - override hydra/hydra_logging: none
+  - override hydra/job_logging: none
 
 network_type: ipdf
 use_DFCData: True
@@ -14,14 +14,14 @@ exp_dir: ./runs/exp_tmp
 
 # wandb
 wandb_offline: True
-wandb_debug_mode: True  # and only program error will be reported
+wandb_debug_mode: True # and only program error will be reported
 
 # frequency
 freq:
-    step_epoch: 100
-    save: 10000  # per iter
-    plot: 100  # per iter
-    test: 75000 # per iter
+  step_epoch: 100
+  save: 10000 # per iter
+  plot: 100 # per iter
+  test: 75000 # per iter
 
 # optimization options
 optimizer: Adam
@@ -35,7 +35,7 @@ lr_clip: 0.00001 # min lr
 # bn momentum adjustment
 momentum_original: 0.1
 momentum_decay: 0.5
-momentum_step_size: 20  # = lr_step_size
+momentum_step_size: 20 # = lr_step_size
 momentum_min: 0.01
 
 # training options
@@ -52,4 +52,4 @@ batch_size: 16
 
 # hydra
 hydra:
-    output_subdir: null
+  output_subdir: null

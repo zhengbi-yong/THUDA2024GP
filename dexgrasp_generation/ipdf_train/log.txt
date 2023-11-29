@@ -1,0 +1,2074 @@
+2023-11-06 20:47:27,335 - TrainModel - INFO - Initialize from 0
+2023-11-06 20:49:03,093 - TrainModel - INFO - Initialize from 0
+2023-11-06 20:49:54,436 - TrainModel - INFO - Train nll is 0.6745433044433594
+2023-11-06 20:49:54,436 - TrainModel - INFO - Train total_loss is 0.6745433044433594
+2023-11-06 20:49:54,436 - TrainModel - INFO - Train mean_probability is 0.707381591796875
+2023-11-06 20:49:54,437 - TrainModel - INFO - Epoch 2/250, learning rate = 0.001000
+2023-11-06 20:49:54,437 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-06 20:50:44,562 - TrainModel - INFO - Train nll is 0.3973863983154297
+2023-11-06 20:50:44,562 - TrainModel - INFO - Train total_loss is 0.3973863983154297
+2023-11-06 20:50:44,562 - TrainModel - INFO - Train mean_probability is 0.908007583618164
+2023-11-06 20:50:44,563 - TrainModel - INFO - Epoch 3/250, learning rate = 0.001000
+2023-11-06 20:50:44,563 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-06 20:51:17,893 - TrainModel - INFO - Saving model at epoch 3, path ./ipdf_train/ckpt/model_000003.pt
+2023-11-07 15:37:58,317 - TrainModel - INFO - Resume from epoch 3
+2023-11-07 15:38:15,953 - TrainModel - INFO - Train nll is 0.3406076150781968
+2023-11-07 15:38:15,953 - TrainModel - INFO - Train total_loss is 0.3406076150781968
+2023-11-07 15:38:15,953 - TrainModel - INFO - Train mean_probability is 0.9879897622501149
+2023-11-07 15:38:15,954 - TrainModel - INFO - Epoch 4/250, learning rate = 0.001000
+2023-11-07 15:38:15,954 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-07 15:39:06,524 - TrainModel - INFO - Train nll is 0.32335357666015624
+2023-11-07 15:39:06,524 - TrainModel - INFO - Train total_loss is 0.32335357666015624
+2023-11-07 15:39:06,524 - TrainModel - INFO - Train mean_probability is 1.0063776397705078
+2023-11-07 15:39:06,525 - TrainModel - INFO - Epoch 5/250, learning rate = 0.001000
+2023-11-07 15:39:06,525 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-07 15:39:56,401 - TrainModel - INFO - Train nll is 0.30598936080932615
+2023-11-07 15:39:56,401 - TrainModel - INFO - Train total_loss is 0.30598936080932615
+2023-11-07 15:39:56,401 - TrainModel - INFO - Train mean_probability is 1.0440003204345703
+2023-11-07 15:39:56,401 - TrainModel - INFO - Epoch 6/250, learning rate = 0.001000
+2023-11-07 15:39:56,401 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-07 15:40:45,891 - TrainModel - INFO - Train nll is 0.2776520347595215
+2023-11-07 15:40:45,891 - TrainModel - INFO - Train total_loss is 0.2776520347595215
+2023-11-07 15:40:45,892 - TrainModel - INFO - Train mean_probability is 1.0792587280273438
+2023-11-07 15:40:45,892 - TrainModel - INFO - Epoch 7/250, learning rate = 0.001000
+2023-11-07 15:40:45,892 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-07 15:41:35,167 - TrainModel - INFO - Train nll is 0.2940509796142578
+2023-11-07 15:41:35,167 - TrainModel - INFO - Train total_loss is 0.2940509796142578
+2023-11-07 15:41:35,167 - TrainModel - INFO - Train mean_probability is 1.0839364624023438
+2023-11-07 15:41:35,168 - TrainModel - INFO - Epoch 8/250, learning rate = 0.001000
+2023-11-07 15:41:35,168 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-07 15:42:24,610 - TrainModel - INFO - Train nll is 0.30872652053833005
+2023-11-07 15:42:24,610 - TrainModel - INFO - Train total_loss is 0.30872652053833005
+2023-11-07 15:42:24,610 - TrainModel - INFO - Train mean_probability is 1.0480741119384767
+2023-11-07 15:42:24,611 - TrainModel - INFO - Epoch 9/250, learning rate = 0.001000
+2023-11-07 15:42:24,611 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-07 15:43:13,960 - TrainModel - INFO - Train nll is 0.2964396095275879
+2023-11-07 15:43:13,960 - TrainModel - INFO - Train total_loss is 0.2964396095275879
+2023-11-07 15:43:13,960 - TrainModel - INFO - Train mean_probability is 1.0477967834472657
+2023-11-07 15:43:13,961 - TrainModel - INFO - Epoch 10/250, learning rate = 0.001000
+2023-11-07 15:43:13,961 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-07 15:44:03,309 - TrainModel - INFO - Train nll is 0.2594464874267578
+2023-11-07 15:44:03,309 - TrainModel - INFO - Train total_loss is 0.2594464874267578
+2023-11-07 15:44:03,309 - TrainModel - INFO - Train mean_probability is 1.1196409606933593
+2023-11-07 15:44:03,309 - TrainModel - INFO - Epoch 11/250, learning rate = 0.001000
+2023-11-07 15:44:03,309 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-07 15:44:52,603 - TrainModel - INFO - Train nll is 0.235972900390625
+2023-11-07 15:44:52,604 - TrainModel - INFO - Train total_loss is 0.235972900390625
+2023-11-07 15:44:52,604 - TrainModel - INFO - Train mean_probability is 1.1306593322753906
+2023-11-07 15:44:52,604 - TrainModel - INFO - Epoch 12/250, learning rate = 0.001000
+2023-11-07 15:44:52,604 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-07 15:45:41,761 - TrainModel - INFO - Train nll is 0.25411340713500974
+2023-11-07 15:45:41,761 - TrainModel - INFO - Train total_loss is 0.25411340713500974
+2023-11-07 15:45:41,761 - TrainModel - INFO - Train mean_probability is 1.113031463623047
+2023-11-07 15:45:41,761 - TrainModel - INFO - Epoch 13/250, learning rate = 0.001000
+2023-11-07 15:45:41,761 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-07 15:46:30,654 - TrainModel - INFO - Train nll is 0.2620817565917969
+2023-11-07 15:46:30,654 - TrainModel - INFO - Train total_loss is 0.2620817565917969
+2023-11-07 15:46:30,654 - TrainModel - INFO - Train mean_probability is 1.1052769470214843
+2023-11-07 15:46:30,654 - TrainModel - INFO - Epoch 14/250, learning rate = 0.001000
+2023-11-07 15:46:30,654 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-07 15:47:20,052 - TrainModel - INFO - Train nll is 0.2838466644287109
+2023-11-07 15:47:20,052 - TrainModel - INFO - Train total_loss is 0.2838466644287109
+2023-11-07 15:47:20,052 - TrainModel - INFO - Train mean_probability is 1.0615882110595702
+2023-11-07 15:47:20,052 - TrainModel - INFO - Epoch 15/250, learning rate = 0.001000
+2023-11-07 15:47:20,052 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-07 15:48:09,300 - TrainModel - INFO - Train nll is 0.244697265625
+2023-11-07 15:48:09,300 - TrainModel - INFO - Train total_loss is 0.244697265625
+2023-11-07 15:48:09,300 - TrainModel - INFO - Train mean_probability is 1.149198989868164
+2023-11-07 15:48:09,301 - TrainModel - INFO - Epoch 16/250, learning rate = 0.001000
+2023-11-07 15:48:09,301 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-07 15:48:58,559 - TrainModel - INFO - Train nll is 0.17502351760864257
+2023-11-07 15:48:58,559 - TrainModel - INFO - Train total_loss is 0.17502351760864257
+2023-11-07 15:48:58,559 - TrainModel - INFO - Train mean_probability is 1.2007730865478516
+2023-11-07 15:48:58,560 - TrainModel - INFO - Epoch 17/250, learning rate = 0.001000
+2023-11-07 15:48:58,560 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-07 15:49:47,600 - TrainModel - INFO - Train nll is 0.23407052993774413
+2023-11-07 15:49:47,600 - TrainModel - INFO - Train total_loss is 0.23407052993774413
+2023-11-07 15:49:47,600 - TrainModel - INFO - Train mean_probability is 1.142059555053711
+2023-11-07 15:49:47,600 - TrainModel - INFO - Epoch 18/250, learning rate = 0.001000
+2023-11-07 15:49:47,600 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-07 15:50:36,564 - TrainModel - INFO - Train nll is 0.21979061126708985
+2023-11-07 15:50:36,564 - TrainModel - INFO - Train total_loss is 0.21979061126708985
+2023-11-07 15:50:36,564 - TrainModel - INFO - Train mean_probability is 1.1446891021728516
+2023-11-07 15:50:36,564 - TrainModel - INFO - Epoch 19/250, learning rate = 0.001000
+2023-11-07 15:50:36,564 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-07 15:51:25,505 - TrainModel - INFO - Train nll is 0.2122480583190918
+2023-11-07 15:51:25,505 - TrainModel - INFO - Train total_loss is 0.2122480583190918
+2023-11-07 15:51:25,506 - TrainModel - INFO - Train mean_probability is 1.156090316772461
+2023-11-07 15:51:25,506 - TrainModel - INFO - Epoch 20/250, learning rate = 0.001000
+2023-11-07 15:51:25,506 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 15:52:14,487 - TrainModel - INFO - Train nll is 0.19394716262817382
+2023-11-07 15:52:14,487 - TrainModel - INFO - Train total_loss is 0.19394716262817382
+2023-11-07 15:52:14,487 - TrainModel - INFO - Train mean_probability is 1.2200574493408203
+2023-11-07 15:52:14,487 - TrainModel - INFO - Epoch 21/250, learning rate = 0.001000
+2023-11-07 15:52:14,487 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 15:53:03,413 - TrainModel - INFO - Train nll is 0.21783716201782227
+2023-11-07 15:53:03,413 - TrainModel - INFO - Train total_loss is 0.21783716201782227
+2023-11-07 15:53:03,413 - TrainModel - INFO - Train mean_probability is 1.1406616973876953
+2023-11-07 15:53:03,414 - TrainModel - INFO - Epoch 22/250, learning rate = 0.001000
+2023-11-07 15:53:03,414 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 15:53:52,333 - TrainModel - INFO - Train nll is 0.2258134651184082
+2023-11-07 15:53:52,333 - TrainModel - INFO - Train total_loss is 0.2258134651184082
+2023-11-07 15:53:52,333 - TrainModel - INFO - Train mean_probability is 1.1241464233398437
+2023-11-07 15:53:52,333 - TrainModel - INFO - Epoch 23/250, learning rate = 0.001000
+2023-11-07 15:53:52,333 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 15:54:41,228 - TrainModel - INFO - Train nll is 0.22485818862915039
+2023-11-07 15:54:41,228 - TrainModel - INFO - Train total_loss is 0.22485818862915039
+2023-11-07 15:54:41,228 - TrainModel - INFO - Train mean_probability is 1.1493521881103517
+2023-11-07 15:54:41,229 - TrainModel - INFO - Epoch 24/250, learning rate = 0.001000
+2023-11-07 15:54:41,229 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 15:55:30,145 - TrainModel - INFO - Train nll is 0.22824493408203125
+2023-11-07 15:55:30,145 - TrainModel - INFO - Train total_loss is 0.22824493408203125
+2023-11-07 15:55:30,145 - TrainModel - INFO - Train mean_probability is 1.148883056640625
+2023-11-07 15:55:30,146 - TrainModel - INFO - Epoch 25/250, learning rate = 0.001000
+2023-11-07 15:55:30,146 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 15:56:19,204 - TrainModel - INFO - Train nll is 0.2378469467163086
+2023-11-07 15:56:19,205 - TrainModel - INFO - Train total_loss is 0.2378469467163086
+2023-11-07 15:56:19,205 - TrainModel - INFO - Train mean_probability is 1.127380599975586
+2023-11-07 15:56:19,205 - TrainModel - INFO - Epoch 26/250, learning rate = 0.001000
+2023-11-07 15:56:19,205 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 15:57:08,158 - TrainModel - INFO - Train nll is 0.2754602813720703
+2023-11-07 15:57:08,158 - TrainModel - INFO - Train total_loss is 0.2754602813720703
+2023-11-07 15:57:08,158 - TrainModel - INFO - Train mean_probability is 1.0724951934814453
+2023-11-07 15:57:08,159 - TrainModel - INFO - Epoch 27/250, learning rate = 0.001000
+2023-11-07 15:57:08,159 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 15:57:57,105 - TrainModel - INFO - Train nll is 0.2617852401733398
+2023-11-07 15:57:57,105 - TrainModel - INFO - Train total_loss is 0.2617852401733398
+2023-11-07 15:57:57,105 - TrainModel - INFO - Train mean_probability is 1.0776214599609375
+2023-11-07 15:57:57,105 - TrainModel - INFO - Epoch 28/250, learning rate = 0.001000
+2023-11-07 15:57:57,105 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 15:58:46,244 - TrainModel - INFO - Train nll is 0.24902938842773437
+2023-11-07 15:58:46,245 - TrainModel - INFO - Train total_loss is 0.24902938842773437
+2023-11-07 15:58:46,245 - TrainModel - INFO - Train mean_probability is 1.1051278686523438
+2023-11-07 15:58:46,245 - TrainModel - INFO - Epoch 29/250, learning rate = 0.001000
+2023-11-07 15:58:46,245 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 15:59:35,195 - TrainModel - INFO - Train nll is 0.22991947174072266
+2023-11-07 15:59:35,195 - TrainModel - INFO - Train total_loss is 0.22991947174072266
+2023-11-07 15:59:35,195 - TrainModel - INFO - Train mean_probability is 1.1352918243408203
+2023-11-07 15:59:35,195 - TrainModel - INFO - Epoch 30/250, learning rate = 0.001000
+2023-11-07 15:59:35,195 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 16:00:24,253 - TrainModel - INFO - Train nll is 0.2620906639099121
+2023-11-07 16:00:24,253 - TrainModel - INFO - Train total_loss is 0.2620906639099121
+2023-11-07 16:00:24,253 - TrainModel - INFO - Train mean_probability is 1.1045339965820313
+2023-11-07 16:00:24,253 - TrainModel - INFO - Epoch 31/250, learning rate = 0.001000
+2023-11-07 16:00:24,253 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 16:01:13,293 - TrainModel - INFO - Train nll is 0.1641497802734375
+2023-11-07 16:01:13,293 - TrainModel - INFO - Train total_loss is 0.1641497802734375
+2023-11-07 16:01:13,293 - TrainModel - INFO - Train mean_probability is 1.2335218048095704
+2023-11-07 16:01:13,293 - TrainModel - INFO - Epoch 32/250, learning rate = 0.001000
+2023-11-07 16:01:13,293 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 16:02:02,176 - TrainModel - INFO - Train nll is 0.21307216644287108
+2023-11-07 16:02:02,176 - TrainModel - INFO - Train total_loss is 0.21307216644287108
+2023-11-07 16:02:02,176 - TrainModel - INFO - Train mean_probability is 1.149307403564453
+2023-11-07 16:02:02,176 - TrainModel - INFO - Epoch 33/250, learning rate = 0.001000
+2023-11-07 16:02:02,176 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 16:02:51,026 - TrainModel - INFO - Train nll is 0.20676950454711915
+2023-11-07 16:02:51,026 - TrainModel - INFO - Train total_loss is 0.20676950454711915
+2023-11-07 16:02:51,026 - TrainModel - INFO - Train mean_probability is 1.1529280853271484
+2023-11-07 16:02:51,027 - TrainModel - INFO - Epoch 34/250, learning rate = 0.001000
+2023-11-07 16:02:51,027 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 16:03:39,931 - TrainModel - INFO - Train nll is 0.24678583145141603
+2023-11-07 16:03:39,931 - TrainModel - INFO - Train total_loss is 0.24678583145141603
+2023-11-07 16:03:39,931 - TrainModel - INFO - Train mean_probability is 1.1040365600585937
+2023-11-07 16:03:39,932 - TrainModel - INFO - Epoch 35/250, learning rate = 0.001000
+2023-11-07 16:03:39,932 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 16:04:28,982 - TrainModel - INFO - Train nll is 0.24398080825805665
+2023-11-07 16:04:28,982 - TrainModel - INFO - Train total_loss is 0.24398080825805665
+2023-11-07 16:04:28,982 - TrainModel - INFO - Train mean_probability is 1.0882125091552735
+2023-11-07 16:04:28,982 - TrainModel - INFO - Epoch 36/250, learning rate = 0.001000
+2023-11-07 16:04:28,982 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 16:05:18,027 - TrainModel - INFO - Train nll is 0.20718252182006835
+2023-11-07 16:05:18,027 - TrainModel - INFO - Train total_loss is 0.20718252182006835
+2023-11-07 16:05:18,027 - TrainModel - INFO - Train mean_probability is 1.1829370880126953
+2023-11-07 16:05:18,027 - TrainModel - INFO - Epoch 37/250, learning rate = 0.001000
+2023-11-07 16:05:18,028 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 16:06:07,165 - TrainModel - INFO - Train nll is 0.2558438682556152
+2023-11-07 16:06:07,165 - TrainModel - INFO - Train total_loss is 0.2558438682556152
+2023-11-07 16:06:07,165 - TrainModel - INFO - Train mean_probability is 1.0960113525390625
+2023-11-07 16:06:07,166 - TrainModel - INFO - Epoch 38/250, learning rate = 0.001000
+2023-11-07 16:06:07,166 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 16:06:56,247 - TrainModel - INFO - Train nll is 0.2250157928466797
+2023-11-07 16:06:56,247 - TrainModel - INFO - Train total_loss is 0.2250157928466797
+2023-11-07 16:06:56,247 - TrainModel - INFO - Train mean_probability is 1.156043243408203
+2023-11-07 16:06:56,248 - TrainModel - INFO - Epoch 39/250, learning rate = 0.000500
+2023-11-07 16:06:56,248 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-07 16:07:45,258 - TrainModel - INFO - Train nll is 0.17404169082641602
+2023-11-07 16:07:45,258 - TrainModel - INFO - Train total_loss is 0.17404169082641602
+2023-11-07 16:07:45,258 - TrainModel - INFO - Train mean_probability is 1.2178449249267578
+2023-11-07 16:07:45,258 - TrainModel - INFO - Epoch 40/250, learning rate = 0.000500
+2023-11-07 16:07:45,258 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:08:34,078 - TrainModel - INFO - Train nll is 0.1535148239135742
+2023-11-07 16:08:34,078 - TrainModel - INFO - Train total_loss is 0.1535148239135742
+2023-11-07 16:08:34,078 - TrainModel - INFO - Train mean_probability is 1.2547962188720703
+2023-11-07 16:08:34,078 - TrainModel - INFO - Epoch 41/250, learning rate = 0.000500
+2023-11-07 16:08:34,078 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:09:22,954 - TrainModel - INFO - Train nll is 0.1577052116394043
+2023-11-07 16:09:22,954 - TrainModel - INFO - Train total_loss is 0.1577052116394043
+2023-11-07 16:09:22,954 - TrainModel - INFO - Train mean_probability is 1.2468153381347655
+2023-11-07 16:09:22,955 - TrainModel - INFO - Epoch 42/250, learning rate = 0.000500
+2023-11-07 16:09:22,955 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:10:11,849 - TrainModel - INFO - Train nll is 0.1600872039794922
+2023-11-07 16:10:11,849 - TrainModel - INFO - Train total_loss is 0.1600872039794922
+2023-11-07 16:10:11,849 - TrainModel - INFO - Train mean_probability is 1.246517105102539
+2023-11-07 16:10:11,850 - TrainModel - INFO - Epoch 43/250, learning rate = 0.000500
+2023-11-07 16:10:11,850 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:11:00,886 - TrainModel - INFO - Train nll is 0.1493388271331787
+2023-11-07 16:11:00,886 - TrainModel - INFO - Train total_loss is 0.1493388271331787
+2023-11-07 16:11:00,886 - TrainModel - INFO - Train mean_probability is 1.25959228515625
+2023-11-07 16:11:00,886 - TrainModel - INFO - Epoch 44/250, learning rate = 0.000500
+2023-11-07 16:11:00,887 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:11:50,092 - TrainModel - INFO - Train nll is 0.11968905448913575
+2023-11-07 16:11:50,092 - TrainModel - INFO - Train total_loss is 0.11968905448913575
+2023-11-07 16:11:50,092 - TrainModel - INFO - Train mean_probability is 1.3369851684570313
+2023-11-07 16:11:50,093 - TrainModel - INFO - Epoch 45/250, learning rate = 0.000500
+2023-11-07 16:11:50,093 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:12:39,003 - TrainModel - INFO - Train nll is 0.11410588264465332
+2023-11-07 16:12:39,003 - TrainModel - INFO - Train total_loss is 0.11410588264465332
+2023-11-07 16:12:39,003 - TrainModel - INFO - Train mean_probability is 1.310443115234375
+2023-11-07 16:12:39,004 - TrainModel - INFO - Epoch 46/250, learning rate = 0.000500
+2023-11-07 16:12:39,004 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:13:27,868 - TrainModel - INFO - Train nll is 0.13986173629760743
+2023-11-07 16:13:27,868 - TrainModel - INFO - Train total_loss is 0.13986173629760743
+2023-11-07 16:13:27,868 - TrainModel - INFO - Train mean_probability is 1.2742994689941407
+2023-11-07 16:13:27,869 - TrainModel - INFO - Epoch 47/250, learning rate = 0.000500
+2023-11-07 16:13:27,869 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:14:17,017 - TrainModel - INFO - Train nll is 0.12714226722717284
+2023-11-07 16:14:17,017 - TrainModel - INFO - Train total_loss is 0.12714226722717284
+2023-11-07 16:14:17,017 - TrainModel - INFO - Train mean_probability is 1.3126805114746094
+2023-11-07 16:14:17,017 - TrainModel - INFO - Epoch 48/250, learning rate = 0.000500
+2023-11-07 16:14:17,017 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:15:05,998 - TrainModel - INFO - Train nll is 0.04711939334869385
+2023-11-07 16:15:05,999 - TrainModel - INFO - Train total_loss is 0.04711939334869385
+2023-11-07 16:15:05,999 - TrainModel - INFO - Train mean_probability is 1.4473037719726562
+2023-11-07 16:15:05,999 - TrainModel - INFO - Epoch 49/250, learning rate = 0.000500
+2023-11-07 16:15:05,999 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:15:54,826 - TrainModel - INFO - Train nll is 0.09418044090270997
+2023-11-07 16:15:54,826 - TrainModel - INFO - Train total_loss is 0.09418044090270997
+2023-11-07 16:15:54,826 - TrainModel - INFO - Train mean_probability is 1.3777296447753906
+2023-11-07 16:15:54,827 - TrainModel - INFO - Epoch 50/250, learning rate = 0.000500
+2023-11-07 16:15:54,827 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:16:43,765 - TrainModel - INFO - Train nll is 0.05298215389251709
+2023-11-07 16:16:43,765 - TrainModel - INFO - Train total_loss is 0.05298215389251709
+2023-11-07 16:16:43,765 - TrainModel - INFO - Train mean_probability is 1.4640765380859375
+2023-11-07 16:16:43,766 - TrainModel - INFO - Epoch 51/250, learning rate = 0.000500
+2023-11-07 16:16:43,766 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:17:32,692 - TrainModel - INFO - Train nll is 0.07324919700622559
+2023-11-07 16:17:32,692 - TrainModel - INFO - Train total_loss is 0.07324919700622559
+2023-11-07 16:17:32,692 - TrainModel - INFO - Train mean_probability is 1.474625244140625
+2023-11-07 16:17:32,693 - TrainModel - INFO - Epoch 52/250, learning rate = 0.000500
+2023-11-07 16:17:32,693 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:18:21,686 - TrainModel - INFO - Train nll is 0.07418203353881836
+2023-11-07 16:18:21,686 - TrainModel - INFO - Train total_loss is 0.07418203353881836
+2023-11-07 16:18:21,686 - TrainModel - INFO - Train mean_probability is 1.4266513061523438
+2023-11-07 16:18:21,686 - TrainModel - INFO - Epoch 53/250, learning rate = 0.000500
+2023-11-07 16:18:21,686 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:19:10,492 - TrainModel - INFO - Train nll is 0.04874149799346924
+2023-11-07 16:19:10,492 - TrainModel - INFO - Train total_loss is 0.04874149799346924
+2023-11-07 16:19:10,492 - TrainModel - INFO - Train mean_probability is 1.422888946533203
+2023-11-07 16:19:10,492 - TrainModel - INFO - Epoch 54/250, learning rate = 0.000500
+2023-11-07 16:19:10,492 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:19:59,421 - TrainModel - INFO - Train nll is 0.04796232223510742
+2023-11-07 16:19:59,421 - TrainModel - INFO - Train total_loss is 0.04796232223510742
+2023-11-07 16:19:59,421 - TrainModel - INFO - Train mean_probability is 1.4331936645507812
+2023-11-07 16:19:59,422 - TrainModel - INFO - Epoch 55/250, learning rate = 0.000500
+2023-11-07 16:19:59,422 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:20:48,340 - TrainModel - INFO - Train nll is 0.023833200931549073
+2023-11-07 16:20:48,340 - TrainModel - INFO - Train total_loss is 0.023833200931549073
+2023-11-07 16:20:48,340 - TrainModel - INFO - Train mean_probability is 1.5584312438964845
+2023-11-07 16:20:48,340 - TrainModel - INFO - Epoch 56/250, learning rate = 0.000500
+2023-11-07 16:20:48,340 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:21:37,367 - TrainModel - INFO - Train nll is -0.014918785095214843
+2023-11-07 16:21:37,367 - TrainModel - INFO - Train total_loss is -0.014918785095214843
+2023-11-07 16:21:37,367 - TrainModel - INFO - Train mean_probability is 1.647323760986328
+2023-11-07 16:21:37,368 - TrainModel - INFO - Epoch 57/250, learning rate = 0.000500
+2023-11-07 16:21:37,368 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:22:26,370 - TrainModel - INFO - Train nll is 0.02874500513076782
+2023-11-07 16:22:26,370 - TrainModel - INFO - Train total_loss is 0.02874500513076782
+2023-11-07 16:22:26,370 - TrainModel - INFO - Train mean_probability is 1.511950225830078
+2023-11-07 16:22:26,370 - TrainModel - INFO - Epoch 58/250, learning rate = 0.000500
+2023-11-07 16:22:26,370 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:23:15,256 - TrainModel - INFO - Train nll is -0.025818281173706055
+2023-11-07 16:23:15,256 - TrainModel - INFO - Train total_loss is -0.025818281173706055
+2023-11-07 16:23:15,256 - TrainModel - INFO - Train mean_probability is 1.6317231750488281
+2023-11-07 16:23:15,256 - TrainModel - INFO - Epoch 59/250, learning rate = 0.000500
+2023-11-07 16:23:15,256 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-07 16:24:04,204 - TrainModel - INFO - Train nll is 0.06732944011688233
+2023-11-07 16:24:04,204 - TrainModel - INFO - Train total_loss is 0.06732944011688233
+2023-11-07 16:24:04,204 - TrainModel - INFO - Train mean_probability is 1.471847686767578
+2023-11-07 16:24:04,205 - TrainModel - INFO - Epoch 60/250, learning rate = 0.000500
+2023-11-07 16:24:04,205 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:24:53,124 - TrainModel - INFO - Train nll is 0.037973501682281495
+2023-11-07 16:24:53,124 - TrainModel - INFO - Train total_loss is 0.037973501682281495
+2023-11-07 16:24:53,124 - TrainModel - INFO - Train mean_probability is 1.5904216003417968
+2023-11-07 16:24:53,125 - TrainModel - INFO - Epoch 61/250, learning rate = 0.000500
+2023-11-07 16:24:53,125 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:25:42,139 - TrainModel - INFO - Train nll is 0.03313424348831177
+2023-11-07 16:25:42,139 - TrainModel - INFO - Train total_loss is 0.03313424348831177
+2023-11-07 16:25:42,139 - TrainModel - INFO - Train mean_probability is 1.5820695495605468
+2023-11-07 16:25:42,140 - TrainModel - INFO - Epoch 62/250, learning rate = 0.000500
+2023-11-07 16:25:42,140 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:26:31,016 - TrainModel - INFO - Train nll is 0.02689849376678467
+2023-11-07 16:26:31,016 - TrainModel - INFO - Train total_loss is 0.02689849376678467
+2023-11-07 16:26:31,016 - TrainModel - INFO - Train mean_probability is 1.5952555847167968
+2023-11-07 16:26:31,016 - TrainModel - INFO - Epoch 63/250, learning rate = 0.000500
+2023-11-07 16:26:31,016 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:27:19,908 - TrainModel - INFO - Train nll is -0.011724812984466553
+2023-11-07 16:27:19,909 - TrainModel - INFO - Train total_loss is -0.011724812984466553
+2023-11-07 16:27:19,909 - TrainModel - INFO - Train mean_probability is 1.666945343017578
+2023-11-07 16:27:19,909 - TrainModel - INFO - Epoch 64/250, learning rate = 0.000500
+2023-11-07 16:27:19,909 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:28:08,867 - TrainModel - INFO - Train nll is 0.08656567573547364
+2023-11-07 16:28:08,867 - TrainModel - INFO - Train total_loss is 0.08656567573547364
+2023-11-07 16:28:08,867 - TrainModel - INFO - Train mean_probability is 1.4776730346679687
+2023-11-07 16:28:08,867 - TrainModel - INFO - Epoch 65/250, learning rate = 0.000500
+2023-11-07 16:28:08,867 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:28:57,852 - TrainModel - INFO - Train nll is 0.02018554210662842
+2023-11-07 16:28:57,852 - TrainModel - INFO - Train total_loss is 0.02018554210662842
+2023-11-07 16:28:57,852 - TrainModel - INFO - Train mean_probability is 1.5879962158203125
+2023-11-07 16:28:57,853 - TrainModel - INFO - Epoch 66/250, learning rate = 0.000500
+2023-11-07 16:28:57,853 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:29:46,956 - TrainModel - INFO - Train nll is 0.07810091018676758
+2023-11-07 16:29:46,957 - TrainModel - INFO - Train total_loss is 0.07810091018676758
+2023-11-07 16:29:46,957 - TrainModel - INFO - Train mean_probability is 1.5024427795410156
+2023-11-07 16:29:46,957 - TrainModel - INFO - Epoch 67/250, learning rate = 0.000500
+2023-11-07 16:29:46,957 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:30:36,110 - TrainModel - INFO - Train nll is 0.0820238208770752
+2023-11-07 16:30:36,110 - TrainModel - INFO - Train total_loss is 0.0820238208770752
+2023-11-07 16:30:36,110 - TrainModel - INFO - Train mean_probability is 1.5173664855957032
+2023-11-07 16:30:36,111 - TrainModel - INFO - Epoch 68/250, learning rate = 0.000500
+2023-11-07 16:30:36,111 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:31:25,209 - TrainModel - INFO - Train nll is 0.025890026092529297
+2023-11-07 16:31:25,209 - TrainModel - INFO - Train total_loss is 0.025890026092529297
+2023-11-07 16:31:25,209 - TrainModel - INFO - Train mean_probability is 1.5459291076660155
+2023-11-07 16:31:25,210 - TrainModel - INFO - Epoch 69/250, learning rate = 0.000500
+2023-11-07 16:31:25,210 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:32:14,311 - TrainModel - INFO - Train nll is -0.00939584791660309
+2023-11-07 16:32:14,311 - TrainModel - INFO - Train total_loss is -0.00939584791660309
+2023-11-07 16:32:14,311 - TrainModel - INFO - Train mean_probability is 1.681097412109375
+2023-11-07 16:32:14,312 - TrainModel - INFO - Epoch 70/250, learning rate = 0.000500
+2023-11-07 16:32:14,312 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:33:03,228 - TrainModel - INFO - Train nll is -0.044852919578552246
+2023-11-07 16:33:03,228 - TrainModel - INFO - Train total_loss is -0.044852919578552246
+2023-11-07 16:33:03,228 - TrainModel - INFO - Train mean_probability is 1.740625
+2023-11-07 16:33:03,229 - TrainModel - INFO - Epoch 71/250, learning rate = 0.000500
+2023-11-07 16:33:03,229 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:33:52,373 - TrainModel - INFO - Train nll is -0.05182644367218017
+2023-11-07 16:33:52,373 - TrainModel - INFO - Train total_loss is -0.05182644367218017
+2023-11-07 16:33:52,373 - TrainModel - INFO - Train mean_probability is 1.777135772705078
+2023-11-07 16:33:52,374 - TrainModel - INFO - Epoch 72/250, learning rate = 0.000500
+2023-11-07 16:33:52,374 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:34:41,586 - TrainModel - INFO - Train nll is -0.0024171191453933715
+2023-11-07 16:34:41,586 - TrainModel - INFO - Train total_loss is -0.0024171191453933715
+2023-11-07 16:34:41,586 - TrainModel - INFO - Train mean_probability is 1.70867919921875
+2023-11-07 16:34:41,587 - TrainModel - INFO - Epoch 73/250, learning rate = 0.000500
+2023-11-07 16:34:41,587 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:35:30,647 - TrainModel - INFO - Train nll is -0.017155407667160033
+2023-11-07 16:35:30,647 - TrainModel - INFO - Train total_loss is -0.017155407667160033
+2023-11-07 16:35:30,647 - TrainModel - INFO - Train mean_probability is 1.6540419006347655
+2023-11-07 16:35:30,647 - TrainModel - INFO - Epoch 74/250, learning rate = 0.000500
+2023-11-07 16:35:30,647 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:36:19,713 - TrainModel - INFO - Train nll is -0.03192749500274658
+2023-11-07 16:36:19,714 - TrainModel - INFO - Train total_loss is -0.03192749500274658
+2023-11-07 16:36:19,714 - TrainModel - INFO - Train mean_probability is 1.7246978759765625
+2023-11-07 16:36:19,714 - TrainModel - INFO - Epoch 75/250, learning rate = 0.000500
+2023-11-07 16:36:19,714 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:37:08,738 - TrainModel - INFO - Train nll is -0.0194799280166626
+2023-11-07 16:37:08,739 - TrainModel - INFO - Train total_loss is -0.0194799280166626
+2023-11-07 16:37:08,739 - TrainModel - INFO - Train mean_probability is 1.6620388793945313
+2023-11-07 16:37:08,739 - TrainModel - INFO - Epoch 76/250, learning rate = 0.000500
+2023-11-07 16:37:08,739 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:37:57,706 - TrainModel - INFO - Train nll is -0.034715139865875246
+2023-11-07 16:37:57,707 - TrainModel - INFO - Train total_loss is -0.034715139865875246
+2023-11-07 16:37:57,707 - TrainModel - INFO - Train mean_probability is 1.6666879272460937
+2023-11-07 16:37:57,707 - TrainModel - INFO - Epoch 77/250, learning rate = 0.000500
+2023-11-07 16:37:57,707 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:38:46,618 - TrainModel - INFO - Train nll is -0.02332477331161499
+2023-11-07 16:38:46,618 - TrainModel - INFO - Train total_loss is -0.02332477331161499
+2023-11-07 16:38:46,618 - TrainModel - INFO - Train mean_probability is 1.740789794921875
+2023-11-07 16:38:46,619 - TrainModel - INFO - Epoch 78/250, learning rate = 0.000500
+2023-11-07 16:38:46,619 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:39:35,693 - TrainModel - INFO - Train nll is -0.036820111274719236
+2023-11-07 16:39:35,693 - TrainModel - INFO - Train total_loss is -0.036820111274719236
+2023-11-07 16:39:35,693 - TrainModel - INFO - Train mean_probability is 1.8608941650390625
+2023-11-07 16:39:35,693 - TrainModel - INFO - Epoch 79/250, learning rate = 0.000250
+2023-11-07 16:39:35,693 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-07 16:40:24,766 - TrainModel - INFO - Train nll is -0.10548751831054687
+2023-11-07 16:40:24,766 - TrainModel - INFO - Train total_loss is -0.10548751831054687
+2023-11-07 16:40:24,766 - TrainModel - INFO - Train mean_probability is 2.026815643310547
+2023-11-07 16:40:24,766 - TrainModel - INFO - Epoch 80/250, learning rate = 0.000250
+2023-11-07 16:40:24,767 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:41:13,733 - TrainModel - INFO - Train nll is -0.12374212265014649
+2023-11-07 16:41:13,733 - TrainModel - INFO - Train total_loss is -0.12374212265014649
+2023-11-07 16:41:13,733 - TrainModel - INFO - Train mean_probability is 2.143291168212891
+2023-11-07 16:41:13,734 - TrainModel - INFO - Epoch 81/250, learning rate = 0.000250
+2023-11-07 16:41:13,734 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:42:02,709 - TrainModel - INFO - Train nll is -0.10691446304321289
+2023-11-07 16:42:02,709 - TrainModel - INFO - Train total_loss is -0.10691446304321289
+2023-11-07 16:42:02,709 - TrainModel - INFO - Train mean_probability is 2.0728182983398438
+2023-11-07 16:42:02,709 - TrainModel - INFO - Epoch 82/250, learning rate = 0.000250
+2023-11-07 16:42:02,709 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:42:51,649 - TrainModel - INFO - Train nll is -0.15931087493896484
+2023-11-07 16:42:51,649 - TrainModel - INFO - Train total_loss is -0.15931087493896484
+2023-11-07 16:42:51,649 - TrainModel - INFO - Train mean_probability is 2.3762815856933592
+2023-11-07 16:42:51,650 - TrainModel - INFO - Epoch 83/250, learning rate = 0.000250
+2023-11-07 16:42:51,650 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:43:41,042 - TrainModel - INFO - Train nll is -0.14318346977233887
+2023-11-07 16:43:41,042 - TrainModel - INFO - Train total_loss is -0.14318346977233887
+2023-11-07 16:43:41,042 - TrainModel - INFO - Train mean_probability is 2.1401759338378907
+2023-11-07 16:43:41,043 - TrainModel - INFO - Epoch 84/250, learning rate = 0.000250
+2023-11-07 16:43:41,043 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:44:30,393 - TrainModel - INFO - Train nll is -0.09341909408569336
+2023-11-07 16:44:30,393 - TrainModel - INFO - Train total_loss is -0.09341909408569336
+2023-11-07 16:44:30,393 - TrainModel - INFO - Train mean_probability is 2.113172607421875
+2023-11-07 16:44:30,393 - TrainModel - INFO - Epoch 85/250, learning rate = 0.000250
+2023-11-07 16:44:30,394 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:45:20,007 - TrainModel - INFO - Train nll is -0.2259140968322754
+2023-11-07 16:45:20,007 - TrainModel - INFO - Train total_loss is -0.2259140968322754
+2023-11-07 16:45:20,007 - TrainModel - INFO - Train mean_probability is 2.6678396606445314
+2023-11-07 16:45:20,008 - TrainModel - INFO - Epoch 86/250, learning rate = 0.000250
+2023-11-07 16:45:20,008 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:46:09,466 - TrainModel - INFO - Train nll is -0.15884907722473143
+2023-11-07 16:46:09,466 - TrainModel - INFO - Train total_loss is -0.15884907722473143
+2023-11-07 16:46:09,466 - TrainModel - INFO - Train mean_probability is 2.5127597045898438
+2023-11-07 16:46:09,467 - TrainModel - INFO - Epoch 87/250, learning rate = 0.000250
+2023-11-07 16:46:09,467 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:46:58,622 - TrainModel - INFO - Train nll is -0.1349500846862793
+2023-11-07 16:46:58,622 - TrainModel - INFO - Train total_loss is -0.1349500846862793
+2023-11-07 16:46:58,622 - TrainModel - INFO - Train mean_probability is 2.417397003173828
+2023-11-07 16:46:58,623 - TrainModel - INFO - Epoch 88/250, learning rate = 0.000250
+2023-11-07 16:46:58,623 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:47:47,868 - TrainModel - INFO - Train nll is -0.14818951606750488
+2023-11-07 16:47:47,869 - TrainModel - INFO - Train total_loss is -0.14818951606750488
+2023-11-07 16:47:47,869 - TrainModel - INFO - Train mean_probability is 2.412783660888672
+2023-11-07 16:47:47,869 - TrainModel - INFO - Epoch 89/250, learning rate = 0.000250
+2023-11-07 16:47:47,869 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:48:36,911 - TrainModel - INFO - Train nll is -0.09562057495117188
+2023-11-07 16:48:36,911 - TrainModel - INFO - Train total_loss is -0.09562057495117188
+2023-11-07 16:48:36,911 - TrainModel - INFO - Train mean_probability is 2.2357749938964844
+2023-11-07 16:48:36,912 - TrainModel - INFO - Epoch 90/250, learning rate = 0.000250
+2023-11-07 16:48:36,912 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:49:25,817 - TrainModel - INFO - Train nll is -0.15832470893859862
+2023-11-07 16:49:25,817 - TrainModel - INFO - Train total_loss is -0.15832470893859862
+2023-11-07 16:49:25,817 - TrainModel - INFO - Train mean_probability is 2.399505615234375
+2023-11-07 16:49:25,817 - TrainModel - INFO - Epoch 91/250, learning rate = 0.000250
+2023-11-07 16:49:25,817 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:50:14,764 - TrainModel - INFO - Train nll is -0.14836886405944824
+2023-11-07 16:50:14,765 - TrainModel - INFO - Train total_loss is -0.14836886405944824
+2023-11-07 16:50:14,765 - TrainModel - INFO - Train mean_probability is 2.3736669921875
+2023-11-07 16:50:14,765 - TrainModel - INFO - Epoch 92/250, learning rate = 0.000250
+2023-11-07 16:50:14,765 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:51:03,693 - TrainModel - INFO - Train nll is -0.12997008323669434
+2023-11-07 16:51:03,693 - TrainModel - INFO - Train total_loss is -0.12997008323669434
+2023-11-07 16:51:03,693 - TrainModel - INFO - Train mean_probability is 2.463076629638672
+2023-11-07 16:51:03,693 - TrainModel - INFO - Epoch 93/250, learning rate = 0.000250
+2023-11-07 16:51:03,693 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:51:52,589 - TrainModel - INFO - Train nll is -0.09833722114562989
+2023-11-07 16:51:52,589 - TrainModel - INFO - Train total_loss is -0.09833722114562989
+2023-11-07 16:51:52,589 - TrainModel - INFO - Train mean_probability is 2.2600773620605468
+2023-11-07 16:51:52,589 - TrainModel - INFO - Epoch 94/250, learning rate = 0.000250
+2023-11-07 16:51:52,589 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:52:41,477 - TrainModel - INFO - Train nll is -0.10861949920654297
+2023-11-07 16:52:41,477 - TrainModel - INFO - Train total_loss is -0.10861949920654297
+2023-11-07 16:52:41,477 - TrainModel - INFO - Train mean_probability is 2.3058164978027342
+2023-11-07 16:52:41,477 - TrainModel - INFO - Epoch 95/250, learning rate = 0.000250
+2023-11-07 16:52:41,478 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:53:30,351 - TrainModel - INFO - Train nll is -0.22391618728637697
+2023-11-07 16:53:30,351 - TrainModel - INFO - Train total_loss is -0.22391618728637697
+2023-11-07 16:53:30,351 - TrainModel - INFO - Train mean_probability is 2.6648458862304687
+2023-11-07 16:53:30,351 - TrainModel - INFO - Epoch 96/250, learning rate = 0.000250
+2023-11-07 16:53:30,351 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:54:19,275 - TrainModel - INFO - Train nll is -0.1999299430847168
+2023-11-07 16:54:19,276 - TrainModel - INFO - Train total_loss is -0.1999299430847168
+2023-11-07 16:54:19,276 - TrainModel - INFO - Train mean_probability is 2.66290283203125
+2023-11-07 16:54:19,276 - TrainModel - INFO - Epoch 97/250, learning rate = 0.000250
+2023-11-07 16:54:19,276 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:55:08,368 - TrainModel - INFO - Train nll is -0.17952339172363282
+2023-11-07 16:55:08,368 - TrainModel - INFO - Train total_loss is -0.17952339172363282
+2023-11-07 16:55:08,368 - TrainModel - INFO - Train mean_probability is 2.759546813964844
+2023-11-07 16:55:08,369 - TrainModel - INFO - Epoch 98/250, learning rate = 0.000250
+2023-11-07 16:55:08,369 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:55:57,537 - TrainModel - INFO - Train nll is -0.1555512523651123
+2023-11-07 16:55:57,537 - TrainModel - INFO - Train total_loss is -0.1555512523651123
+2023-11-07 16:55:57,537 - TrainModel - INFO - Train mean_probability is 2.716524353027344
+2023-11-07 16:55:57,537 - TrainModel - INFO - Epoch 99/250, learning rate = 0.000250
+2023-11-07 16:55:57,537 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:56:46,327 - TrainModel - INFO - Train nll is -0.13662014961242674
+2023-11-07 16:56:46,327 - TrainModel - INFO - Train total_loss is -0.13662014961242674
+2023-11-07 16:56:46,327 - TrainModel - INFO - Train mean_probability is 2.513866119384766
+2023-11-07 16:56:46,328 - TrainModel - INFO - Epoch 100/250, learning rate = 0.000250
+2023-11-07 16:56:46,328 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:57:35,187 - TrainModel - INFO - Train nll is -0.1858488464355469
+2023-11-07 16:57:35,187 - TrainModel - INFO - Train total_loss is -0.1858488464355469
+2023-11-07 16:57:35,187 - TrainModel - INFO - Train mean_probability is 2.7617596435546874
+2023-11-07 16:57:35,187 - TrainModel - INFO - Epoch 101/250, learning rate = 0.000250
+2023-11-07 16:57:35,187 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:57:35,207 - TrainModel - INFO - Saving model at epoch 101, path ./ipdf_train/ckpt/model_000101.pt
+2023-11-07 16:58:24,029 - TrainModel - INFO - Train nll is -0.1815076446533203
+2023-11-07 16:58:24,029 - TrainModel - INFO - Train total_loss is -0.1815076446533203
+2023-11-07 16:58:24,029 - TrainModel - INFO - Train mean_probability is 2.6354046630859376
+2023-11-07 16:58:24,030 - TrainModel - INFO - Epoch 102/250, learning rate = 0.000250
+2023-11-07 16:58:24,030 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 16:59:12,944 - TrainModel - INFO - Train nll is -0.2018000602722168
+2023-11-07 16:59:12,944 - TrainModel - INFO - Train total_loss is -0.2018000602722168
+2023-11-07 16:59:12,944 - TrainModel - INFO - Train mean_probability is 2.75158203125
+2023-11-07 16:59:12,944 - TrainModel - INFO - Epoch 103/250, learning rate = 0.000250
+2023-11-07 16:59:12,945 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:00:01,971 - TrainModel - INFO - Train nll is -0.17089061737060546
+2023-11-07 17:00:01,971 - TrainModel - INFO - Train total_loss is -0.17089061737060546
+2023-11-07 17:00:01,971 - TrainModel - INFO - Train mean_probability is 2.62788330078125
+2023-11-07 17:00:01,971 - TrainModel - INFO - Epoch 104/250, learning rate = 0.000250
+2023-11-07 17:00:01,971 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:00:50,614 - TrainModel - INFO - Train nll is -0.1614128303527832
+2023-11-07 17:00:50,614 - TrainModel - INFO - Train total_loss is -0.1614128303527832
+2023-11-07 17:00:50,614 - TrainModel - INFO - Train mean_probability is 2.72438232421875
+2023-11-07 17:00:50,614 - TrainModel - INFO - Epoch 105/250, learning rate = 0.000250
+2023-11-07 17:00:50,614 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:01:39,657 - TrainModel - INFO - Train nll is -0.21305830001831055
+2023-11-07 17:01:39,657 - TrainModel - INFO - Train total_loss is -0.21305830001831055
+2023-11-07 17:01:39,657 - TrainModel - INFO - Train mean_probability is 2.8163638305664063
+2023-11-07 17:01:39,657 - TrainModel - INFO - Epoch 106/250, learning rate = 0.000250
+2023-11-07 17:01:39,657 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:02:28,580 - TrainModel - INFO - Train nll is -0.16176828384399414
+2023-11-07 17:02:28,580 - TrainModel - INFO - Train total_loss is -0.16176828384399414
+2023-11-07 17:02:28,580 - TrainModel - INFO - Train mean_probability is 2.6746392822265626
+2023-11-07 17:02:28,581 - TrainModel - INFO - Epoch 107/250, learning rate = 0.000250
+2023-11-07 17:02:28,581 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:03:17,483 - TrainModel - INFO - Train nll is -0.19078067779541016
+2023-11-07 17:03:17,483 - TrainModel - INFO - Train total_loss is -0.19078067779541016
+2023-11-07 17:03:17,483 - TrainModel - INFO - Train mean_probability is 2.701424255371094
+2023-11-07 17:03:17,484 - TrainModel - INFO - Epoch 108/250, learning rate = 0.000250
+2023-11-07 17:03:17,484 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:04:06,335 - TrainModel - INFO - Train nll is -0.26423748016357423
+2023-11-07 17:04:06,335 - TrainModel - INFO - Train total_loss is -0.26423748016357423
+2023-11-07 17:04:06,335 - TrainModel - INFO - Train mean_probability is 2.894222412109375
+2023-11-07 17:04:06,335 - TrainModel - INFO - Epoch 109/250, learning rate = 0.000250
+2023-11-07 17:04:06,335 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:04:55,287 - TrainModel - INFO - Train nll is -0.2307437515258789
+2023-11-07 17:04:55,287 - TrainModel - INFO - Train total_loss is -0.2307437515258789
+2023-11-07 17:04:55,287 - TrainModel - INFO - Train mean_probability is 2.830867919921875
+2023-11-07 17:04:55,287 - TrainModel - INFO - Epoch 110/250, learning rate = 0.000250
+2023-11-07 17:04:55,287 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:05:44,354 - TrainModel - INFO - Train nll is -0.2094855499267578
+2023-11-07 17:05:44,354 - TrainModel - INFO - Train total_loss is -0.2094855499267578
+2023-11-07 17:05:44,354 - TrainModel - INFO - Train mean_probability is 2.897084045410156
+2023-11-07 17:05:44,355 - TrainModel - INFO - Epoch 111/250, learning rate = 0.000250
+2023-11-07 17:05:44,355 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:06:33,337 - TrainModel - INFO - Train nll is -0.16965131759643554
+2023-11-07 17:06:33,337 - TrainModel - INFO - Train total_loss is -0.16965131759643554
+2023-11-07 17:06:33,337 - TrainModel - INFO - Train mean_probability is 2.769936828613281
+2023-11-07 17:06:33,338 - TrainModel - INFO - Epoch 112/250, learning rate = 0.000250
+2023-11-07 17:06:33,338 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:07:22,441 - TrainModel - INFO - Train nll is -0.17231859207153322
+2023-11-07 17:07:22,442 - TrainModel - INFO - Train total_loss is -0.17231859207153322
+2023-11-07 17:07:22,442 - TrainModel - INFO - Train mean_probability is 2.769573059082031
+2023-11-07 17:07:22,442 - TrainModel - INFO - Epoch 113/250, learning rate = 0.000250
+2023-11-07 17:07:22,442 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:08:11,434 - TrainModel - INFO - Train nll is -0.2288949394226074
+2023-11-07 17:08:11,434 - TrainModel - INFO - Train total_loss is -0.2288949394226074
+2023-11-07 17:08:11,434 - TrainModel - INFO - Train mean_probability is 3.205711669921875
+2023-11-07 17:08:11,435 - TrainModel - INFO - Epoch 114/250, learning rate = 0.000250
+2023-11-07 17:08:11,435 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:09:00,401 - TrainModel - INFO - Train nll is -0.27547245025634765
+2023-11-07 17:09:00,401 - TrainModel - INFO - Train total_loss is -0.27547245025634765
+2023-11-07 17:09:00,401 - TrainModel - INFO - Train mean_probability is 3.0782406616210936
+2023-11-07 17:09:00,402 - TrainModel - INFO - Epoch 115/250, learning rate = 0.000250
+2023-11-07 17:09:00,402 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:09:49,397 - TrainModel - INFO - Train nll is -0.19215938568115234
+2023-11-07 17:09:49,397 - TrainModel - INFO - Train total_loss is -0.19215938568115234
+2023-11-07 17:09:49,397 - TrainModel - INFO - Train mean_probability is 2.8617123413085936
+2023-11-07 17:09:49,397 - TrainModel - INFO - Epoch 116/250, learning rate = 0.000250
+2023-11-07 17:09:49,398 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:10:38,465 - TrainModel - INFO - Train nll is -0.1507449722290039
+2023-11-07 17:10:38,465 - TrainModel - INFO - Train total_loss is -0.1507449722290039
+2023-11-07 17:10:38,465 - TrainModel - INFO - Train mean_probability is 2.6287908935546875
+2023-11-07 17:10:38,466 - TrainModel - INFO - Epoch 117/250, learning rate = 0.000250
+2023-11-07 17:10:38,466 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:11:27,613 - TrainModel - INFO - Train nll is -0.13341882705688476
+2023-11-07 17:11:27,613 - TrainModel - INFO - Train total_loss is -0.13341882705688476
+2023-11-07 17:11:27,613 - TrainModel - INFO - Train mean_probability is 2.390563201904297
+2023-11-07 17:11:27,614 - TrainModel - INFO - Epoch 118/250, learning rate = 0.000250
+2023-11-07 17:11:27,614 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:12:16,503 - TrainModel - INFO - Train nll is -0.19604188919067383
+2023-11-07 17:12:16,504 - TrainModel - INFO - Train total_loss is -0.19604188919067383
+2023-11-07 17:12:16,504 - TrainModel - INFO - Train mean_probability is 2.6231097412109374
+2023-11-07 17:12:16,504 - TrainModel - INFO - Epoch 119/250, learning rate = 0.000125
+2023-11-07 17:12:16,504 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:13:05,518 - TrainModel - INFO - Train nll is -0.22630928039550782
+2023-11-07 17:13:05,518 - TrainModel - INFO - Train total_loss is -0.22630928039550782
+2023-11-07 17:13:05,518 - TrainModel - INFO - Train mean_probability is 2.80841796875
+2023-11-07 17:13:05,519 - TrainModel - INFO - Epoch 120/250, learning rate = 0.000125
+2023-11-07 17:13:05,519 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:13:54,420 - TrainModel - INFO - Train nll is -0.2000567626953125
+2023-11-07 17:13:54,420 - TrainModel - INFO - Train total_loss is -0.2000567626953125
+2023-11-07 17:13:54,420 - TrainModel - INFO - Train mean_probability is 2.825631103515625
+2023-11-07 17:13:54,420 - TrainModel - INFO - Epoch 121/250, learning rate = 0.000125
+2023-11-07 17:13:54,420 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:14:43,307 - TrainModel - INFO - Train nll is -0.1798375129699707
+2023-11-07 17:14:43,307 - TrainModel - INFO - Train total_loss is -0.1798375129699707
+2023-11-07 17:14:43,307 - TrainModel - INFO - Train mean_probability is 2.8656182861328126
+2023-11-07 17:14:43,308 - TrainModel - INFO - Epoch 122/250, learning rate = 0.000125
+2023-11-07 17:14:43,308 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:15:32,217 - TrainModel - INFO - Train nll is -0.1937282371520996
+2023-11-07 17:15:32,217 - TrainModel - INFO - Train total_loss is -0.1937282371520996
+2023-11-07 17:15:32,217 - TrainModel - INFO - Train mean_probability is 2.9826760864257813
+2023-11-07 17:15:32,218 - TrainModel - INFO - Epoch 123/250, learning rate = 0.000125
+2023-11-07 17:15:32,218 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:16:21,300 - TrainModel - INFO - Train nll is -0.16824159622192383
+2023-11-07 17:16:21,300 - TrainModel - INFO - Train total_loss is -0.16824159622192383
+2023-11-07 17:16:21,300 - TrainModel - INFO - Train mean_probability is 2.8641757202148437
+2023-11-07 17:16:21,301 - TrainModel - INFO - Epoch 124/250, learning rate = 0.000125
+2023-11-07 17:16:21,301 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:17:10,179 - TrainModel - INFO - Train nll is -0.2700043296813965
+2023-11-07 17:17:10,180 - TrainModel - INFO - Train total_loss is -0.2700043296813965
+2023-11-07 17:17:10,180 - TrainModel - INFO - Train mean_probability is 3.1371829223632814
+2023-11-07 17:17:10,180 - TrainModel - INFO - Epoch 125/250, learning rate = 0.000125
+2023-11-07 17:17:10,180 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:17:59,146 - TrainModel - INFO - Train nll is -0.26909746170043947
+2023-11-07 17:17:59,146 - TrainModel - INFO - Train total_loss is -0.26909746170043947
+2023-11-07 17:17:59,146 - TrainModel - INFO - Train mean_probability is 3.146846923828125
+2023-11-07 17:17:59,146 - TrainModel - INFO - Epoch 126/250, learning rate = 0.000125
+2023-11-07 17:17:59,146 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:18:48,071 - TrainModel - INFO - Train nll is -0.2482455825805664
+2023-11-07 17:18:48,071 - TrainModel - INFO - Train total_loss is -0.2482455825805664
+2023-11-07 17:18:48,071 - TrainModel - INFO - Train mean_probability is 3.2793508911132814
+2023-11-07 17:18:48,072 - TrainModel - INFO - Epoch 127/250, learning rate = 0.000125
+2023-11-07 17:18:48,072 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:19:37,223 - TrainModel - INFO - Train nll is -0.24602529525756836
+2023-11-07 17:19:37,223 - TrainModel - INFO - Train total_loss is -0.24602529525756836
+2023-11-07 17:19:37,223 - TrainModel - INFO - Train mean_probability is 3.0925653076171873
+2023-11-07 17:19:37,224 - TrainModel - INFO - Epoch 128/250, learning rate = 0.000125
+2023-11-07 17:19:37,224 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:20:26,227 - TrainModel - INFO - Train nll is -0.24745061874389648
+2023-11-07 17:20:26,228 - TrainModel - INFO - Train total_loss is -0.24745061874389648
+2023-11-07 17:20:26,228 - TrainModel - INFO - Train mean_probability is 3.2952389526367187
+2023-11-07 17:20:26,228 - TrainModel - INFO - Epoch 129/250, learning rate = 0.000125
+2023-11-07 17:20:26,228 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:21:15,171 - TrainModel - INFO - Train nll is -0.2760014533996582
+2023-11-07 17:21:15,171 - TrainModel - INFO - Train total_loss is -0.2760014533996582
+2023-11-07 17:21:15,171 - TrainModel - INFO - Train mean_probability is 3.408955383300781
+2023-11-07 17:21:15,172 - TrainModel - INFO - Epoch 130/250, learning rate = 0.000125
+2023-11-07 17:21:15,172 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:22:04,157 - TrainModel - INFO - Train nll is -0.2548173141479492
+2023-11-07 17:22:04,158 - TrainModel - INFO - Train total_loss is -0.2548173141479492
+2023-11-07 17:22:04,158 - TrainModel - INFO - Train mean_probability is 3.2286431884765623
+2023-11-07 17:22:04,158 - TrainModel - INFO - Epoch 131/250, learning rate = 0.000125
+2023-11-07 17:22:04,158 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:22:53,035 - TrainModel - INFO - Train nll is -0.27766353607177735
+2023-11-07 17:22:53,035 - TrainModel - INFO - Train total_loss is -0.27766353607177735
+2023-11-07 17:22:53,035 - TrainModel - INFO - Train mean_probability is 3.6531881713867187
+2023-11-07 17:22:53,036 - TrainModel - INFO - Epoch 132/250, learning rate = 0.000125
+2023-11-07 17:22:53,036 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:23:41,998 - TrainModel - INFO - Train nll is -0.20791643142700195
+2023-11-07 17:23:41,998 - TrainModel - INFO - Train total_loss is -0.20791643142700195
+2023-11-07 17:23:41,998 - TrainModel - INFO - Train mean_probability is 3.109010009765625
+2023-11-07 17:23:41,999 - TrainModel - INFO - Epoch 133/250, learning rate = 0.000125
+2023-11-07 17:23:41,999 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:24:31,221 - TrainModel - INFO - Train nll is -0.2474415969848633
+2023-11-07 17:24:31,221 - TrainModel - INFO - Train total_loss is -0.2474415969848633
+2023-11-07 17:24:31,221 - TrainModel - INFO - Train mean_probability is 3.281695556640625
+2023-11-07 17:24:31,221 - TrainModel - INFO - Epoch 134/250, learning rate = 0.000125
+2023-11-07 17:24:31,221 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:25:20,853 - TrainModel - INFO - Train nll is -0.28075801849365234
+2023-11-07 17:25:20,853 - TrainModel - INFO - Train total_loss is -0.28075801849365234
+2023-11-07 17:25:20,853 - TrainModel - INFO - Train mean_probability is 3.427734680175781
+2023-11-07 17:25:20,854 - TrainModel - INFO - Epoch 135/250, learning rate = 0.000125
+2023-11-07 17:25:20,854 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:26:10,405 - TrainModel - INFO - Train nll is -0.26816837310791014
+2023-11-07 17:26:10,406 - TrainModel - INFO - Train total_loss is -0.26816837310791014
+2023-11-07 17:26:10,406 - TrainModel - INFO - Train mean_probability is 3.633079833984375
+2023-11-07 17:26:10,406 - TrainModel - INFO - Epoch 136/250, learning rate = 0.000125
+2023-11-07 17:26:10,406 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:26:59,521 - TrainModel - INFO - Train nll is -0.1939654541015625
+2023-11-07 17:26:59,521 - TrainModel - INFO - Train total_loss is -0.1939654541015625
+2023-11-07 17:26:59,521 - TrainModel - INFO - Train mean_probability is 3.212056884765625
+2023-11-07 17:26:59,522 - TrainModel - INFO - Epoch 137/250, learning rate = 0.000125
+2023-11-07 17:26:59,522 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:27:49,317 - TrainModel - INFO - Train nll is -0.2627317237854004
+2023-11-07 17:27:49,317 - TrainModel - INFO - Train total_loss is -0.2627317237854004
+2023-11-07 17:27:49,317 - TrainModel - INFO - Train mean_probability is 3.3565902709960938
+2023-11-07 17:27:49,318 - TrainModel - INFO - Epoch 138/250, learning rate = 0.000125
+2023-11-07 17:27:49,318 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:28:38,318 - TrainModel - INFO - Train nll is -0.33301368713378904
+2023-11-07 17:28:38,318 - TrainModel - INFO - Train total_loss is -0.33301368713378904
+2023-11-07 17:28:38,318 - TrainModel - INFO - Train mean_probability is 3.5272369384765625
+2023-11-07 17:28:38,318 - TrainModel - INFO - Epoch 139/250, learning rate = 0.000125
+2023-11-07 17:28:38,318 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:29:27,271 - TrainModel - INFO - Train nll is -0.30106359481811523
+2023-11-07 17:29:27,271 - TrainModel - INFO - Train total_loss is -0.30106359481811523
+2023-11-07 17:29:27,271 - TrainModel - INFO - Train mean_probability is 3.6026742553710935
+2023-11-07 17:29:27,272 - TrainModel - INFO - Epoch 140/250, learning rate = 0.000125
+2023-11-07 17:29:27,272 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:30:17,013 - TrainModel - INFO - Train nll is -0.23181974411010742
+2023-11-07 17:30:17,014 - TrainModel - INFO - Train total_loss is -0.23181974411010742
+2023-11-07 17:30:17,014 - TrainModel - INFO - Train mean_probability is 3.2038693237304687
+2023-11-07 17:30:17,014 - TrainModel - INFO - Epoch 141/250, learning rate = 0.000125
+2023-11-07 17:30:17,014 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:31:06,848 - TrainModel - INFO - Train nll is -0.228983154296875
+2023-11-07 17:31:06,848 - TrainModel - INFO - Train total_loss is -0.228983154296875
+2023-11-07 17:31:06,848 - TrainModel - INFO - Train mean_probability is 3.3499264526367187
+2023-11-07 17:31:06,849 - TrainModel - INFO - Epoch 142/250, learning rate = 0.000125
+2023-11-07 17:31:06,849 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:31:56,600 - TrainModel - INFO - Train nll is -0.21311840057373047
+2023-11-07 17:31:56,600 - TrainModel - INFO - Train total_loss is -0.21311840057373047
+2023-11-07 17:31:56,600 - TrainModel - INFO - Train mean_probability is 3.2925961303710936
+2023-11-07 17:31:56,601 - TrainModel - INFO - Epoch 143/250, learning rate = 0.000125
+2023-11-07 17:31:56,601 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:32:46,682 - TrainModel - INFO - Train nll is -0.2706498908996582
+2023-11-07 17:32:46,682 - TrainModel - INFO - Train total_loss is -0.2706498908996582
+2023-11-07 17:32:46,682 - TrainModel - INFO - Train mean_probability is 3.352261962890625
+2023-11-07 17:32:46,683 - TrainModel - INFO - Epoch 144/250, learning rate = 0.000125
+2023-11-07 17:32:46,683 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:33:38,765 - TrainModel - INFO - Train nll is -0.2357103157043457
+2023-11-07 17:33:38,766 - TrainModel - INFO - Train total_loss is -0.2357103157043457
+2023-11-07 17:33:38,766 - TrainModel - INFO - Train mean_probability is 3.2523422241210938
+2023-11-07 17:33:38,766 - TrainModel - INFO - Epoch 145/250, learning rate = 0.000125
+2023-11-07 17:33:38,767 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:34:29,195 - TrainModel - INFO - Train nll is -0.21483587265014648
+2023-11-07 17:34:29,195 - TrainModel - INFO - Train total_loss is -0.21483587265014648
+2023-11-07 17:34:29,195 - TrainModel - INFO - Train mean_probability is 3.3555252075195314
+2023-11-07 17:34:29,195 - TrainModel - INFO - Epoch 146/250, learning rate = 0.000125
+2023-11-07 17:34:29,195 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:35:19,335 - TrainModel - INFO - Train nll is -0.2426883125305176
+2023-11-07 17:35:19,335 - TrainModel - INFO - Train total_loss is -0.2426883125305176
+2023-11-07 17:35:19,335 - TrainModel - INFO - Train mean_probability is 3.1103585815429686
+2023-11-07 17:35:19,336 - TrainModel - INFO - Epoch 147/250, learning rate = 0.000125
+2023-11-07 17:35:19,336 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:36:09,292 - TrainModel - INFO - Train nll is -0.2858820343017578
+2023-11-07 17:36:09,293 - TrainModel - INFO - Train total_loss is -0.2858820343017578
+2023-11-07 17:36:09,293 - TrainModel - INFO - Train mean_probability is 3.6633160400390623
+2023-11-07 17:36:09,293 - TrainModel - INFO - Epoch 148/250, learning rate = 0.000125
+2023-11-07 17:36:09,293 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:36:59,161 - TrainModel - INFO - Train nll is -0.19775827407836913
+2023-11-07 17:36:59,161 - TrainModel - INFO - Train total_loss is -0.19775827407836913
+2023-11-07 17:36:59,161 - TrainModel - INFO - Train mean_probability is 3.09205078125
+2023-11-07 17:36:59,162 - TrainModel - INFO - Epoch 149/250, learning rate = 0.000125
+2023-11-07 17:36:59,162 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:37:48,763 - TrainModel - INFO - Train nll is -0.23860740661621094
+2023-11-07 17:37:48,763 - TrainModel - INFO - Train total_loss is -0.23860740661621094
+2023-11-07 17:37:48,763 - TrainModel - INFO - Train mean_probability is 3.1551068115234373
+2023-11-07 17:37:48,764 - TrainModel - INFO - Epoch 150/250, learning rate = 0.000125
+2023-11-07 17:37:48,764 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:38:38,330 - TrainModel - INFO - Train nll is -0.27532588958740234
+2023-11-07 17:38:38,330 - TrainModel - INFO - Train total_loss is -0.27532588958740234
+2023-11-07 17:38:38,330 - TrainModel - INFO - Train mean_probability is 3.3446319580078123
+2023-11-07 17:38:38,331 - TrainModel - INFO - Epoch 151/250, learning rate = 0.000125
+2023-11-07 17:38:38,331 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:39:29,745 - TrainModel - INFO - Train nll is -0.28731742858886716
+2023-11-07 17:39:29,745 - TrainModel - INFO - Train total_loss is -0.28731742858886716
+2023-11-07 17:39:29,745 - TrainModel - INFO - Train mean_probability is 3.34990234375
+2023-11-07 17:39:29,745 - TrainModel - INFO - Epoch 152/250, learning rate = 0.000125
+2023-11-07 17:39:29,746 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:40:20,666 - TrainModel - INFO - Train nll is -0.2647837066650391
+2023-11-07 17:40:20,666 - TrainModel - INFO - Train total_loss is -0.2647837066650391
+2023-11-07 17:40:20,666 - TrainModel - INFO - Train mean_probability is 3.4154449462890626
+2023-11-07 17:40:20,667 - TrainModel - INFO - Epoch 153/250, learning rate = 0.000125
+2023-11-07 17:40:20,667 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:41:11,730 - TrainModel - INFO - Train nll is -0.27874046325683594
+2023-11-07 17:41:11,730 - TrainModel - INFO - Train total_loss is -0.27874046325683594
+2023-11-07 17:41:11,730 - TrainModel - INFO - Train mean_probability is 3.440142822265625
+2023-11-07 17:41:11,730 - TrainModel - INFO - Epoch 154/250, learning rate = 0.000125
+2023-11-07 17:41:11,730 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:42:02,698 - TrainModel - INFO - Train nll is -0.20303314208984374
+2023-11-07 17:42:02,698 - TrainModel - INFO - Train total_loss is -0.20303314208984374
+2023-11-07 17:42:02,698 - TrainModel - INFO - Train mean_probability is 3.25254638671875
+2023-11-07 17:42:02,699 - TrainModel - INFO - Epoch 155/250, learning rate = 0.000125
+2023-11-07 17:42:02,699 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:42:53,249 - TrainModel - INFO - Train nll is -0.27829212188720703
+2023-11-07 17:42:53,249 - TrainModel - INFO - Train total_loss is -0.27829212188720703
+2023-11-07 17:42:53,249 - TrainModel - INFO - Train mean_probability is 3.2353973388671875
+2023-11-07 17:42:53,250 - TrainModel - INFO - Epoch 156/250, learning rate = 0.000125
+2023-11-07 17:42:53,250 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:43:43,890 - TrainModel - INFO - Train nll is -0.28989252090454104
+2023-11-07 17:43:43,890 - TrainModel - INFO - Train total_loss is -0.28989252090454104
+2023-11-07 17:43:43,890 - TrainModel - INFO - Train mean_probability is 3.3529058837890626
+2023-11-07 17:43:43,891 - TrainModel - INFO - Epoch 157/250, learning rate = 0.000125
+2023-11-07 17:43:43,891 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:44:34,308 - TrainModel - INFO - Train nll is -0.2590330123901367
+2023-11-07 17:44:34,308 - TrainModel - INFO - Train total_loss is -0.2590330123901367
+2023-11-07 17:44:34,308 - TrainModel - INFO - Train mean_probability is 3.5770513916015627
+2023-11-07 17:44:34,309 - TrainModel - INFO - Epoch 158/250, learning rate = 0.000125
+2023-11-07 17:44:34,309 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:45:24,421 - TrainModel - INFO - Train nll is -0.2854721450805664
+2023-11-07 17:45:24,421 - TrainModel - INFO - Train total_loss is -0.2854721450805664
+2023-11-07 17:45:24,421 - TrainModel - INFO - Train mean_probability is 3.576935119628906
+2023-11-07 17:45:24,422 - TrainModel - INFO - Epoch 159/250, learning rate = 0.000063
+2023-11-07 17:45:24,422 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:46:14,607 - TrainModel - INFO - Train nll is -0.2438202667236328
+2023-11-07 17:46:14,607 - TrainModel - INFO - Train total_loss is -0.2438202667236328
+2023-11-07 17:46:14,607 - TrainModel - INFO - Train mean_probability is 3.461544189453125
+2023-11-07 17:46:14,608 - TrainModel - INFO - Epoch 160/250, learning rate = 0.000063
+2023-11-07 17:46:14,608 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:47:04,704 - TrainModel - INFO - Train nll is -0.2626702117919922
+2023-11-07 17:47:04,704 - TrainModel - INFO - Train total_loss is -0.2626702117919922
+2023-11-07 17:47:04,704 - TrainModel - INFO - Train mean_probability is 3.6066220092773436
+2023-11-07 17:47:04,705 - TrainModel - INFO - Epoch 161/250, learning rate = 0.000063
+2023-11-07 17:47:04,705 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:47:54,383 - TrainModel - INFO - Train nll is -0.2769188117980957
+2023-11-07 17:47:54,383 - TrainModel - INFO - Train total_loss is -0.2769188117980957
+2023-11-07 17:47:54,383 - TrainModel - INFO - Train mean_probability is 3.5362835693359376
+2023-11-07 17:47:54,384 - TrainModel - INFO - Epoch 162/250, learning rate = 0.000063
+2023-11-07 17:47:54,384 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:48:44,118 - TrainModel - INFO - Train nll is -0.3359858703613281
+2023-11-07 17:48:44,118 - TrainModel - INFO - Train total_loss is -0.3359858703613281
+2023-11-07 17:48:44,118 - TrainModel - INFO - Train mean_probability is 3.825654296875
+2023-11-07 17:48:44,118 - TrainModel - INFO - Epoch 163/250, learning rate = 0.000063
+2023-11-07 17:48:44,118 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:49:33,912 - TrainModel - INFO - Train nll is -0.3476894760131836
+2023-11-07 17:49:33,912 - TrainModel - INFO - Train total_loss is -0.3476894760131836
+2023-11-07 17:49:33,912 - TrainModel - INFO - Train mean_probability is 3.89133544921875
+2023-11-07 17:49:33,913 - TrainModel - INFO - Epoch 164/250, learning rate = 0.000063
+2023-11-07 17:49:33,913 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:50:23,793 - TrainModel - INFO - Train nll is -0.37886924743652345
+2023-11-07 17:50:23,793 - TrainModel - INFO - Train total_loss is -0.37886924743652345
+2023-11-07 17:50:23,793 - TrainModel - INFO - Train mean_probability is 4.762958068847656
+2023-11-07 17:50:23,794 - TrainModel - INFO - Epoch 165/250, learning rate = 0.000063
+2023-11-07 17:50:23,794 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:51:13,992 - TrainModel - INFO - Train nll is -0.3535230255126953
+2023-11-07 17:51:13,992 - TrainModel - INFO - Train total_loss is -0.3535230255126953
+2023-11-07 17:51:13,992 - TrainModel - INFO - Train mean_probability is 4.132144775390625
+2023-11-07 17:51:13,992 - TrainModel - INFO - Epoch 166/250, learning rate = 0.000063
+2023-11-07 17:51:13,993 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:52:04,547 - TrainModel - INFO - Train nll is -0.2713773536682129
+2023-11-07 17:52:04,547 - TrainModel - INFO - Train total_loss is -0.2713773536682129
+2023-11-07 17:52:04,547 - TrainModel - INFO - Train mean_probability is 3.847107238769531
+2023-11-07 17:52:04,547 - TrainModel - INFO - Epoch 167/250, learning rate = 0.000063
+2023-11-07 17:52:04,548 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:52:55,069 - TrainModel - INFO - Train nll is -0.24431882858276366
+2023-11-07 17:52:55,069 - TrainModel - INFO - Train total_loss is -0.24431882858276366
+2023-11-07 17:52:55,069 - TrainModel - INFO - Train mean_probability is 3.6429254150390626
+2023-11-07 17:52:55,069 - TrainModel - INFO - Epoch 168/250, learning rate = 0.000063
+2023-11-07 17:52:55,070 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:53:45,400 - TrainModel - INFO - Train nll is -0.30660327911376956
+2023-11-07 17:53:45,400 - TrainModel - INFO - Train total_loss is -0.30660327911376956
+2023-11-07 17:53:45,400 - TrainModel - INFO - Train mean_probability is 4.054898071289062
+2023-11-07 17:53:45,401 - TrainModel - INFO - Epoch 169/250, learning rate = 0.000063
+2023-11-07 17:53:45,401 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:54:35,632 - TrainModel - INFO - Train nll is -0.2375923538208008
+2023-11-07 17:54:35,632 - TrainModel - INFO - Train total_loss is -0.2375923538208008
+2023-11-07 17:54:35,632 - TrainModel - INFO - Train mean_probability is 3.6819989013671877
+2023-11-07 17:54:35,633 - TrainModel - INFO - Epoch 170/250, learning rate = 0.000063
+2023-11-07 17:54:35,633 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:55:26,027 - TrainModel - INFO - Train nll is -0.2596613311767578
+2023-11-07 17:55:26,027 - TrainModel - INFO - Train total_loss is -0.2596613311767578
+2023-11-07 17:55:26,027 - TrainModel - INFO - Train mean_probability is 3.681976623535156
+2023-11-07 17:55:26,027 - TrainModel - INFO - Epoch 171/250, learning rate = 0.000063
+2023-11-07 17:55:26,027 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:56:16,145 - TrainModel - INFO - Train nll is -0.29572372436523436
+2023-11-07 17:56:16,145 - TrainModel - INFO - Train total_loss is -0.29572372436523436
+2023-11-07 17:56:16,145 - TrainModel - INFO - Train mean_probability is 3.9760177612304686
+2023-11-07 17:56:16,145 - TrainModel - INFO - Epoch 172/250, learning rate = 0.000063
+2023-11-07 17:56:16,145 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:57:06,347 - TrainModel - INFO - Train nll is -0.3575804901123047
+2023-11-07 17:57:06,347 - TrainModel - INFO - Train total_loss is -0.3575804901123047
+2023-11-07 17:57:06,347 - TrainModel - INFO - Train mean_probability is 3.942349853515625
+2023-11-07 17:57:06,347 - TrainModel - INFO - Epoch 173/250, learning rate = 0.000063
+2023-11-07 17:57:06,348 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:57:56,572 - TrainModel - INFO - Train nll is -0.2924000549316406
+2023-11-07 17:57:56,572 - TrainModel - INFO - Train total_loss is -0.2924000549316406
+2023-11-07 17:57:56,572 - TrainModel - INFO - Train mean_probability is 3.8381802368164064
+2023-11-07 17:57:56,573 - TrainModel - INFO - Epoch 174/250, learning rate = 0.000063
+2023-11-07 17:57:56,573 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:58:46,730 - TrainModel - INFO - Train nll is -0.27807336807250976
+2023-11-07 17:58:46,730 - TrainModel - INFO - Train total_loss is -0.27807336807250976
+2023-11-07 17:58:46,730 - TrainModel - INFO - Train mean_probability is 3.8325537109375
+2023-11-07 17:58:46,731 - TrainModel - INFO - Epoch 175/250, learning rate = 0.000063
+2023-11-07 17:58:46,731 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 17:59:37,146 - TrainModel - INFO - Train nll is -0.3200576400756836
+2023-11-07 17:59:37,147 - TrainModel - INFO - Train total_loss is -0.3200576400756836
+2023-11-07 17:59:37,147 - TrainModel - INFO - Train mean_probability is 4.091471557617187
+2023-11-07 17:59:37,147 - TrainModel - INFO - Epoch 176/250, learning rate = 0.000063
+2023-11-07 17:59:37,147 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:00:27,634 - TrainModel - INFO - Train nll is -0.267010383605957
+2023-11-07 18:00:27,635 - TrainModel - INFO - Train total_loss is -0.267010383605957
+2023-11-07 18:00:27,635 - TrainModel - INFO - Train mean_probability is 3.649783020019531
+2023-11-07 18:00:27,635 - TrainModel - INFO - Epoch 177/250, learning rate = 0.000063
+2023-11-07 18:00:27,635 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:01:18,256 - TrainModel - INFO - Train nll is -0.3468818283081055
+2023-11-07 18:01:18,256 - TrainModel - INFO - Train total_loss is -0.3468818283081055
+2023-11-07 18:01:18,256 - TrainModel - INFO - Train mean_probability is 4.229613647460938
+2023-11-07 18:01:18,256 - TrainModel - INFO - Epoch 178/250, learning rate = 0.000063
+2023-11-07 18:01:18,256 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:02:08,752 - TrainModel - INFO - Train nll is -0.3477033233642578
+2023-11-07 18:02:08,753 - TrainModel - INFO - Train total_loss is -0.3477033233642578
+2023-11-07 18:02:08,753 - TrainModel - INFO - Train mean_probability is 4.624833068847656
+2023-11-07 18:02:08,753 - TrainModel - INFO - Epoch 179/250, learning rate = 0.000063
+2023-11-07 18:02:08,753 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:02:59,458 - TrainModel - INFO - Train nll is -0.2899606704711914
+2023-11-07 18:02:59,459 - TrainModel - INFO - Train total_loss is -0.2899606704711914
+2023-11-07 18:02:59,459 - TrainModel - INFO - Train mean_probability is 4.005625
+2023-11-07 18:02:59,459 - TrainModel - INFO - Epoch 180/250, learning rate = 0.000063
+2023-11-07 18:02:59,459 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:03:49,911 - TrainModel - INFO - Train nll is -0.253438777923584
+2023-11-07 18:03:49,911 - TrainModel - INFO - Train total_loss is -0.253438777923584
+2023-11-07 18:03:49,911 - TrainModel - INFO - Train mean_probability is 3.7253097534179687
+2023-11-07 18:03:49,912 - TrainModel - INFO - Epoch 181/250, learning rate = 0.000063
+2023-11-07 18:03:49,912 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:04:40,307 - TrainModel - INFO - Train nll is -0.30457359313964844
+2023-11-07 18:04:40,307 - TrainModel - INFO - Train total_loss is -0.30457359313964844
+2023-11-07 18:04:40,307 - TrainModel - INFO - Train mean_probability is 3.755029602050781
+2023-11-07 18:04:40,308 - TrainModel - INFO - Epoch 182/250, learning rate = 0.000063
+2023-11-07 18:04:40,308 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:05:30,865 - TrainModel - INFO - Train nll is -0.302299861907959
+2023-11-07 18:05:30,866 - TrainModel - INFO - Train total_loss is -0.302299861907959
+2023-11-07 18:05:30,866 - TrainModel - INFO - Train mean_probability is 4.0330047607421875
+2023-11-07 18:05:30,866 - TrainModel - INFO - Epoch 183/250, learning rate = 0.000063
+2023-11-07 18:05:30,866 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:06:21,369 - TrainModel - INFO - Train nll is -0.3686374282836914
+2023-11-07 18:06:21,369 - TrainModel - INFO - Train total_loss is -0.3686374282836914
+2023-11-07 18:06:21,369 - TrainModel - INFO - Train mean_probability is 4.334429626464844
+2023-11-07 18:06:21,369 - TrainModel - INFO - Epoch 184/250, learning rate = 0.000063
+2023-11-07 18:06:21,369 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:07:11,757 - TrainModel - INFO - Train nll is -0.3460823059082031
+2023-11-07 18:07:11,757 - TrainModel - INFO - Train total_loss is -0.3460823059082031
+2023-11-07 18:07:11,757 - TrainModel - INFO - Train mean_probability is 4.216847229003906
+2023-11-07 18:07:11,758 - TrainModel - INFO - Epoch 185/250, learning rate = 0.000063
+2023-11-07 18:07:11,758 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:08:02,333 - TrainModel - INFO - Train nll is -0.29930206298828127
+2023-11-07 18:08:02,333 - TrainModel - INFO - Train total_loss is -0.29930206298828127
+2023-11-07 18:08:02,333 - TrainModel - INFO - Train mean_probability is 3.9659548950195314
+2023-11-07 18:08:02,334 - TrainModel - INFO - Epoch 186/250, learning rate = 0.000063
+2023-11-07 18:08:02,334 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:08:53,168 - TrainModel - INFO - Train nll is -0.3186145210266113
+2023-11-07 18:08:53,168 - TrainModel - INFO - Train total_loss is -0.3186145210266113
+2023-11-07 18:08:53,168 - TrainModel - INFO - Train mean_probability is 4.103655700683594
+2023-11-07 18:08:53,168 - TrainModel - INFO - Epoch 187/250, learning rate = 0.000063
+2023-11-07 18:08:53,168 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:09:43,519 - TrainModel - INFO - Train nll is -0.3219308090209961
+2023-11-07 18:09:43,519 - TrainModel - INFO - Train total_loss is -0.3219308090209961
+2023-11-07 18:09:43,519 - TrainModel - INFO - Train mean_probability is 4.310650939941406
+2023-11-07 18:09:43,520 - TrainModel - INFO - Epoch 188/250, learning rate = 0.000063
+2023-11-07 18:09:43,520 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:10:33,808 - TrainModel - INFO - Train nll is -0.35167465209960935
+2023-11-07 18:10:33,809 - TrainModel - INFO - Train total_loss is -0.35167465209960935
+2023-11-07 18:10:33,809 - TrainModel - INFO - Train mean_probability is 4.634043884277344
+2023-11-07 18:10:33,809 - TrainModel - INFO - Epoch 189/250, learning rate = 0.000063
+2023-11-07 18:10:33,809 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:11:23,873 - TrainModel - INFO - Train nll is -0.3911072540283203
+2023-11-07 18:11:23,874 - TrainModel - INFO - Train total_loss is -0.3911072540283203
+2023-11-07 18:11:23,874 - TrainModel - INFO - Train mean_probability is 5.021777038574219
+2023-11-07 18:11:23,874 - TrainModel - INFO - Epoch 190/250, learning rate = 0.000063
+2023-11-07 18:11:23,874 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:12:14,591 - TrainModel - INFO - Train nll is -0.33197956085205077
+2023-11-07 18:12:14,591 - TrainModel - INFO - Train total_loss is -0.33197956085205077
+2023-11-07 18:12:14,591 - TrainModel - INFO - Train mean_probability is 4.346862182617188
+2023-11-07 18:12:14,592 - TrainModel - INFO - Epoch 191/250, learning rate = 0.000063
+2023-11-07 18:12:14,592 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:13:05,323 - TrainModel - INFO - Train nll is -0.2954463195800781
+2023-11-07 18:13:05,323 - TrainModel - INFO - Train total_loss is -0.2954463195800781
+2023-11-07 18:13:05,323 - TrainModel - INFO - Train mean_probability is 3.916982421875
+2023-11-07 18:13:05,323 - TrainModel - INFO - Epoch 192/250, learning rate = 0.000063
+2023-11-07 18:13:05,324 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:13:55,687 - TrainModel - INFO - Train nll is -0.36195465087890627
+2023-11-07 18:13:55,687 - TrainModel - INFO - Train total_loss is -0.36195465087890627
+2023-11-07 18:13:55,687 - TrainModel - INFO - Train mean_probability is 4.047019653320312
+2023-11-07 18:13:55,688 - TrainModel - INFO - Epoch 193/250, learning rate = 0.000063
+2023-11-07 18:13:55,688 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:14:46,199 - TrainModel - INFO - Train nll is -0.33300071716308594
+2023-11-07 18:14:46,199 - TrainModel - INFO - Train total_loss is -0.33300071716308594
+2023-11-07 18:14:46,199 - TrainModel - INFO - Train mean_probability is 4.172351379394531
+2023-11-07 18:14:46,200 - TrainModel - INFO - Epoch 194/250, learning rate = 0.000063
+2023-11-07 18:14:46,200 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:15:36,766 - TrainModel - INFO - Train nll is -0.31292291641235354
+2023-11-07 18:15:36,766 - TrainModel - INFO - Train total_loss is -0.31292291641235354
+2023-11-07 18:15:36,766 - TrainModel - INFO - Train mean_probability is 4.015860595703125
+2023-11-07 18:15:36,767 - TrainModel - INFO - Epoch 195/250, learning rate = 0.000063
+2023-11-07 18:15:36,767 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:16:27,316 - TrainModel - INFO - Train nll is -0.32432243347167966
+2023-11-07 18:16:27,316 - TrainModel - INFO - Train total_loss is -0.32432243347167966
+2023-11-07 18:16:27,316 - TrainModel - INFO - Train mean_probability is 4.029170837402344
+2023-11-07 18:16:27,317 - TrainModel - INFO - Epoch 196/250, learning rate = 0.000063
+2023-11-07 18:16:27,317 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:17:17,824 - TrainModel - INFO - Train nll is -0.29239597320556643
+2023-11-07 18:17:17,824 - TrainModel - INFO - Train total_loss is -0.29239597320556643
+2023-11-07 18:17:17,824 - TrainModel - INFO - Train mean_probability is 3.944970703125
+2023-11-07 18:17:17,825 - TrainModel - INFO - Epoch 197/250, learning rate = 0.000063
+2023-11-07 18:17:17,825 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:18:08,444 - TrainModel - INFO - Train nll is -0.3189846992492676
+2023-11-07 18:18:08,445 - TrainModel - INFO - Train total_loss is -0.3189846992492676
+2023-11-07 18:18:08,445 - TrainModel - INFO - Train mean_probability is 4.353489990234375
+2023-11-07 18:18:08,445 - TrainModel - INFO - Epoch 198/250, learning rate = 0.000063
+2023-11-07 18:18:08,445 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:18:58,841 - TrainModel - INFO - Train nll is -0.32204273223876956
+2023-11-07 18:18:58,842 - TrainModel - INFO - Train total_loss is -0.32204273223876956
+2023-11-07 18:18:58,842 - TrainModel - INFO - Train mean_probability is 4.173291015625
+2023-11-07 18:18:58,842 - TrainModel - INFO - Epoch 199/250, learning rate = 0.000031
+2023-11-07 18:18:58,842 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:19:48,337 - TrainModel - INFO - Train nll is -0.31455808639526367
+2023-11-07 18:19:48,338 - TrainModel - INFO - Train total_loss is -0.31455808639526367
+2023-11-07 18:19:48,338 - TrainModel - INFO - Train mean_probability is 4.435894775390625
+2023-11-07 18:19:48,338 - TrainModel - INFO - Epoch 200/250, learning rate = 0.000031
+2023-11-07 18:19:48,338 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:20:37,449 - TrainModel - INFO - Train nll is -0.37436149597167967
+2023-11-07 18:20:37,449 - TrainModel - INFO - Train total_loss is -0.37436149597167967
+2023-11-07 18:20:37,449 - TrainModel - INFO - Train mean_probability is 4.261708679199219
+2023-11-07 18:20:37,449 - TrainModel - INFO - Epoch 201/250, learning rate = 0.000031
+2023-11-07 18:20:37,449 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:20:37,477 - TrainModel - INFO - Saving model at epoch 201, path ./ipdf_train/ckpt/model_000201.pt
+2023-11-07 18:21:26,666 - TrainModel - INFO - Train nll is -0.3672042465209961
+2023-11-07 18:21:26,666 - TrainModel - INFO - Train total_loss is -0.3672042465209961
+2023-11-07 18:21:26,666 - TrainModel - INFO - Train mean_probability is 4.762029418945312
+2023-11-07 18:21:26,666 - TrainModel - INFO - Epoch 202/250, learning rate = 0.000031
+2023-11-07 18:21:26,666 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:22:15,745 - TrainModel - INFO - Train nll is -0.39915969848632815
+2023-11-07 18:22:15,745 - TrainModel - INFO - Train total_loss is -0.39915969848632815
+2023-11-07 18:22:15,745 - TrainModel - INFO - Train mean_probability is 4.925264892578125
+2023-11-07 18:22:15,746 - TrainModel - INFO - Epoch 203/250, learning rate = 0.000031
+2023-11-07 18:22:15,746 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:23:04,714 - TrainModel - INFO - Train nll is -0.3275199508666992
+2023-11-07 18:23:04,714 - TrainModel - INFO - Train total_loss is -0.3275199508666992
+2023-11-07 18:23:04,714 - TrainModel - INFO - Train mean_probability is 4.378400268554688
+2023-11-07 18:23:04,715 - TrainModel - INFO - Epoch 204/250, learning rate = 0.000031
+2023-11-07 18:23:04,715 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:23:53,706 - TrainModel - INFO - Train nll is -0.32492599487304685
+2023-11-07 18:23:53,706 - TrainModel - INFO - Train total_loss is -0.32492599487304685
+2023-11-07 18:23:53,707 - TrainModel - INFO - Train mean_probability is 4.293618774414062
+2023-11-07 18:23:53,707 - TrainModel - INFO - Epoch 205/250, learning rate = 0.000031
+2023-11-07 18:23:53,707 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:24:42,662 - TrainModel - INFO - Train nll is -0.3895293426513672
+2023-11-07 18:24:42,663 - TrainModel - INFO - Train total_loss is -0.3895293426513672
+2023-11-07 18:24:42,663 - TrainModel - INFO - Train mean_probability is 4.6076171875
+2023-11-07 18:24:42,663 - TrainModel - INFO - Epoch 206/250, learning rate = 0.000031
+2023-11-07 18:24:42,663 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:25:31,636 - TrainModel - INFO - Train nll is -0.3180692481994629
+2023-11-07 18:25:31,637 - TrainModel - INFO - Train total_loss is -0.3180692481994629
+2023-11-07 18:25:31,637 - TrainModel - INFO - Train mean_probability is 4.215355529785156
+2023-11-07 18:25:31,637 - TrainModel - INFO - Epoch 207/250, learning rate = 0.000031
+2023-11-07 18:25:31,637 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:26:20,920 - TrainModel - INFO - Train nll is -0.3579204559326172
+2023-11-07 18:26:20,920 - TrainModel - INFO - Train total_loss is -0.3579204559326172
+2023-11-07 18:26:20,920 - TrainModel - INFO - Train mean_probability is 4.61837646484375
+2023-11-07 18:26:20,920 - TrainModel - INFO - Epoch 208/250, learning rate = 0.000031
+2023-11-07 18:26:20,920 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:27:10,044 - TrainModel - INFO - Train nll is -0.35958965301513673
+2023-11-07 18:27:10,044 - TrainModel - INFO - Train total_loss is -0.35958965301513673
+2023-11-07 18:27:10,044 - TrainModel - INFO - Train mean_probability is 4.646369934082031
+2023-11-07 18:27:10,045 - TrainModel - INFO - Epoch 209/250, learning rate = 0.000031
+2023-11-07 18:27:10,045 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:27:59,213 - TrainModel - INFO - Train nll is -0.31027612686157224
+2023-11-07 18:27:59,213 - TrainModel - INFO - Train total_loss is -0.31027612686157224
+2023-11-07 18:27:59,213 - TrainModel - INFO - Train mean_probability is 4.306686096191406
+2023-11-07 18:27:59,213 - TrainModel - INFO - Epoch 210/250, learning rate = 0.000031
+2023-11-07 18:27:59,213 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:28:48,449 - TrainModel - INFO - Train nll is -0.3297942352294922
+2023-11-07 18:28:48,449 - TrainModel - INFO - Train total_loss is -0.3297942352294922
+2023-11-07 18:28:48,449 - TrainModel - INFO - Train mean_probability is 4.615516052246094
+2023-11-07 18:28:48,449 - TrainModel - INFO - Epoch 211/250, learning rate = 0.000031
+2023-11-07 18:28:48,449 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:29:38,216 - TrainModel - INFO - Train nll is -0.3600469589233398
+2023-11-07 18:29:38,217 - TrainModel - INFO - Train total_loss is -0.3600469589233398
+2023-11-07 18:29:38,217 - TrainModel - INFO - Train mean_probability is 4.5928433227539065
+2023-11-07 18:29:38,217 - TrainModel - INFO - Epoch 212/250, learning rate = 0.000031
+2023-11-07 18:29:38,217 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:30:27,947 - TrainModel - INFO - Train nll is -0.3247299575805664
+2023-11-07 18:30:27,947 - TrainModel - INFO - Train total_loss is -0.3247299575805664
+2023-11-07 18:30:27,947 - TrainModel - INFO - Train mean_probability is 4.29195556640625
+2023-11-07 18:30:27,947 - TrainModel - INFO - Epoch 213/250, learning rate = 0.000031
+2023-11-07 18:30:27,948 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:31:17,060 - TrainModel - INFO - Train nll is -0.41387603759765623
+2023-11-07 18:31:17,061 - TrainModel - INFO - Train total_loss is -0.41387603759765623
+2023-11-07 18:31:17,061 - TrainModel - INFO - Train mean_probability is 5.175638427734375
+2023-11-07 18:31:17,061 - TrainModel - INFO - Epoch 214/250, learning rate = 0.000031
+2023-11-07 18:31:17,061 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:32:06,302 - TrainModel - INFO - Train nll is -0.31820035934448243
+2023-11-07 18:32:06,302 - TrainModel - INFO - Train total_loss is -0.31820035934448243
+2023-11-07 18:32:06,302 - TrainModel - INFO - Train mean_probability is 4.479179077148437
+2023-11-07 18:32:06,303 - TrainModel - INFO - Epoch 215/250, learning rate = 0.000031
+2023-11-07 18:32:06,303 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:32:55,618 - TrainModel - INFO - Train nll is -0.3487961578369141
+2023-11-07 18:32:55,618 - TrainModel - INFO - Train total_loss is -0.3487961578369141
+2023-11-07 18:32:55,618 - TrainModel - INFO - Train mean_probability is 4.651028747558594
+2023-11-07 18:32:55,619 - TrainModel - INFO - Epoch 216/250, learning rate = 0.000031
+2023-11-07 18:32:55,619 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:33:44,887 - TrainModel - INFO - Train nll is -0.36767578125
+2023-11-07 18:33:44,888 - TrainModel - INFO - Train total_loss is -0.36767578125
+2023-11-07 18:33:44,888 - TrainModel - INFO - Train mean_probability is 4.640448913574219
+2023-11-07 18:33:44,888 - TrainModel - INFO - Epoch 217/250, learning rate = 0.000031
+2023-11-07 18:33:44,888 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:34:34,133 - TrainModel - INFO - Train nll is -0.4046338653564453
+2023-11-07 18:34:34,133 - TrainModel - INFO - Train total_loss is -0.4046338653564453
+2023-11-07 18:34:34,133 - TrainModel - INFO - Train mean_probability is 4.889139709472656
+2023-11-07 18:34:34,133 - TrainModel - INFO - Epoch 218/250, learning rate = 0.000031
+2023-11-07 18:34:34,134 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:35:23,477 - TrainModel - INFO - Train nll is -0.3625929641723633
+2023-11-07 18:35:23,477 - TrainModel - INFO - Train total_loss is -0.3625929641723633
+2023-11-07 18:35:23,477 - TrainModel - INFO - Train mean_probability is 4.631984252929687
+2023-11-07 18:35:23,477 - TrainModel - INFO - Epoch 219/250, learning rate = 0.000031
+2023-11-07 18:35:23,477 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:36:12,824 - TrainModel - INFO - Train nll is -0.3814544677734375
+2023-11-07 18:36:12,824 - TrainModel - INFO - Train total_loss is -0.3814544677734375
+2023-11-07 18:36:12,824 - TrainModel - INFO - Train mean_probability is 4.787360534667969
+2023-11-07 18:36:12,824 - TrainModel - INFO - Epoch 220/250, learning rate = 0.000031
+2023-11-07 18:36:12,824 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:37:02,125 - TrainModel - INFO - Train nll is -0.3749509048461914
+2023-11-07 18:37:02,125 - TrainModel - INFO - Train total_loss is -0.3749509048461914
+2023-11-07 18:37:02,125 - TrainModel - INFO - Train mean_probability is 4.736485900878907
+2023-11-07 18:37:02,126 - TrainModel - INFO - Epoch 221/250, learning rate = 0.000031
+2023-11-07 18:37:02,126 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:37:51,558 - TrainModel - INFO - Train nll is -0.35042308807373046
+2023-11-07 18:37:51,558 - TrainModel - INFO - Train total_loss is -0.35042308807373046
+2023-11-07 18:37:51,558 - TrainModel - INFO - Train mean_probability is 4.666768493652344
+2023-11-07 18:37:51,559 - TrainModel - INFO - Epoch 222/250, learning rate = 0.000031
+2023-11-07 18:37:51,559 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:38:40,773 - TrainModel - INFO - Train nll is -0.4482730865478516
+2023-11-07 18:38:40,773 - TrainModel - INFO - Train total_loss is -0.4482730865478516
+2023-11-07 18:38:40,773 - TrainModel - INFO - Train mean_probability is 5.3408544921875
+2023-11-07 18:38:40,773 - TrainModel - INFO - Epoch 223/250, learning rate = 0.000031
+2023-11-07 18:38:40,773 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:39:29,956 - TrainModel - INFO - Train nll is -0.3032116508483887
+2023-11-07 18:39:29,956 - TrainModel - INFO - Train total_loss is -0.3032116508483887
+2023-11-07 18:39:29,956 - TrainModel - INFO - Train mean_probability is 4.33729736328125
+2023-11-07 18:39:29,956 - TrainModel - INFO - Epoch 224/250, learning rate = 0.000031
+2023-11-07 18:39:29,956 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:40:19,202 - TrainModel - INFO - Train nll is -0.3443992233276367
+2023-11-07 18:40:19,202 - TrainModel - INFO - Train total_loss is -0.3443992233276367
+2023-11-07 18:40:19,202 - TrainModel - INFO - Train mean_probability is 4.643915405273438
+2023-11-07 18:40:19,202 - TrainModel - INFO - Epoch 225/250, learning rate = 0.000031
+2023-11-07 18:40:19,203 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:41:08,395 - TrainModel - INFO - Train nll is -0.385531005859375
+2023-11-07 18:41:08,395 - TrainModel - INFO - Train total_loss is -0.385531005859375
+2023-11-07 18:41:08,395 - TrainModel - INFO - Train mean_probability is 4.897821350097656
+2023-11-07 18:41:08,395 - TrainModel - INFO - Epoch 226/250, learning rate = 0.000031
+2023-11-07 18:41:08,395 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:41:57,586 - TrainModel - INFO - Train nll is -0.3999837875366211
+2023-11-07 18:41:57,586 - TrainModel - INFO - Train total_loss is -0.3999837875366211
+2023-11-07 18:41:57,586 - TrainModel - INFO - Train mean_probability is 4.840234985351563
+2023-11-07 18:41:57,587 - TrainModel - INFO - Epoch 227/250, learning rate = 0.000031
+2023-11-07 18:41:57,587 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:42:46,783 - TrainModel - INFO - Train nll is -0.3047553253173828
+2023-11-07 18:42:46,783 - TrainModel - INFO - Train total_loss is -0.3047553253173828
+2023-11-07 18:42:46,783 - TrainModel - INFO - Train mean_probability is 4.6292352294921875
+2023-11-07 18:42:46,783 - TrainModel - INFO - Epoch 228/250, learning rate = 0.000031
+2023-11-07 18:42:46,783 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:43:35,995 - TrainModel - INFO - Train nll is -0.44874393463134765
+2023-11-07 18:43:35,995 - TrainModel - INFO - Train total_loss is -0.44874393463134765
+2023-11-07 18:43:35,995 - TrainModel - INFO - Train mean_probability is 5.112598571777344
+2023-11-07 18:43:35,995 - TrainModel - INFO - Epoch 229/250, learning rate = 0.000031
+2023-11-07 18:43:35,995 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:44:25,354 - TrainModel - INFO - Train nll is -0.34290035247802736
+2023-11-07 18:44:25,354 - TrainModel - INFO - Train total_loss is -0.34290035247802736
+2023-11-07 18:44:25,354 - TrainModel - INFO - Train mean_probability is 4.629985046386719
+2023-11-07 18:44:25,355 - TrainModel - INFO - Epoch 230/250, learning rate = 0.000031
+2023-11-07 18:44:25,355 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:45:14,613 - TrainModel - INFO - Train nll is -0.36727127075195315
+2023-11-07 18:45:14,613 - TrainModel - INFO - Train total_loss is -0.36727127075195315
+2023-11-07 18:45:14,613 - TrainModel - INFO - Train mean_probability is 5.243082275390625
+2023-11-07 18:45:14,614 - TrainModel - INFO - Epoch 231/250, learning rate = 0.000031
+2023-11-07 18:45:14,614 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:46:03,991 - TrainModel - INFO - Train nll is -0.43694225311279294
+2023-11-07 18:46:03,991 - TrainModel - INFO - Train total_loss is -0.43694225311279294
+2023-11-07 18:46:03,992 - TrainModel - INFO - Train mean_probability is 5.550504760742188
+2023-11-07 18:46:03,992 - TrainModel - INFO - Epoch 232/250, learning rate = 0.000031
+2023-11-07 18:46:03,992 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:46:53,131 - TrainModel - INFO - Train nll is -0.36318191528320315
+2023-11-07 18:46:53,131 - TrainModel - INFO - Train total_loss is -0.36318191528320315
+2023-11-07 18:46:53,131 - TrainModel - INFO - Train mean_probability is 4.914745178222656
+2023-11-07 18:46:53,132 - TrainModel - INFO - Epoch 233/250, learning rate = 0.000031
+2023-11-07 18:46:53,132 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:47:42,403 - TrainModel - INFO - Train nll is -0.38946525573730467
+2023-11-07 18:47:42,404 - TrainModel - INFO - Train total_loss is -0.38946525573730467
+2023-11-07 18:47:42,404 - TrainModel - INFO - Train mean_probability is 4.786936645507812
+2023-11-07 18:47:42,404 - TrainModel - INFO - Epoch 234/250, learning rate = 0.000031
+2023-11-07 18:47:42,404 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:48:31,751 - TrainModel - INFO - Train nll is -0.39505794525146487
+2023-11-07 18:48:31,751 - TrainModel - INFO - Train total_loss is -0.39505794525146487
+2023-11-07 18:48:31,751 - TrainModel - INFO - Train mean_probability is 5.014569091796875
+2023-11-07 18:48:31,752 - TrainModel - INFO - Epoch 235/250, learning rate = 0.000031
+2023-11-07 18:48:31,752 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:49:20,925 - TrainModel - INFO - Train nll is -0.3199469566345215
+2023-11-07 18:49:20,925 - TrainModel - INFO - Train total_loss is -0.3199469566345215
+2023-11-07 18:49:20,925 - TrainModel - INFO - Train mean_probability is 4.682534790039062
+2023-11-07 18:49:20,926 - TrainModel - INFO - Epoch 236/250, learning rate = 0.000031
+2023-11-07 18:49:20,926 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:50:10,008 - TrainModel - INFO - Train nll is -0.35317779541015626
+2023-11-07 18:50:10,008 - TrainModel - INFO - Train total_loss is -0.35317779541015626
+2023-11-07 18:50:10,008 - TrainModel - INFO - Train mean_probability is 4.410063781738281
+2023-11-07 18:50:10,009 - TrainModel - INFO - Epoch 237/250, learning rate = 0.000031
+2023-11-07 18:50:10,009 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:50:59,206 - TrainModel - INFO - Train nll is -0.38201030731201174
+2023-11-07 18:50:59,206 - TrainModel - INFO - Train total_loss is -0.38201030731201174
+2023-11-07 18:50:59,206 - TrainModel - INFO - Train mean_probability is 4.807961120605468
+2023-11-07 18:50:59,206 - TrainModel - INFO - Epoch 238/250, learning rate = 0.000031
+2023-11-07 18:50:59,206 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:51:48,577 - TrainModel - INFO - Train nll is -0.3257042694091797
+2023-11-07 18:51:48,577 - TrainModel - INFO - Train total_loss is -0.3257042694091797
+2023-11-07 18:51:48,577 - TrainModel - INFO - Train mean_probability is 4.5560980224609375
+2023-11-07 18:51:48,577 - TrainModel - INFO - Epoch 239/250, learning rate = 0.000016
+2023-11-07 18:51:48,578 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:52:37,711 - TrainModel - INFO - Train nll is -0.39259159088134765
+2023-11-07 18:52:37,711 - TrainModel - INFO - Train total_loss is -0.39259159088134765
+2023-11-07 18:52:37,711 - TrainModel - INFO - Train mean_probability is 4.767586059570313
+2023-11-07 18:52:37,711 - TrainModel - INFO - Epoch 240/250, learning rate = 0.000016
+2023-11-07 18:52:37,711 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:53:27,071 - TrainModel - INFO - Train nll is -0.3939168930053711
+2023-11-07 18:53:27,071 - TrainModel - INFO - Train total_loss is -0.3939168930053711
+2023-11-07 18:53:27,071 - TrainModel - INFO - Train mean_probability is 4.849312133789063
+2023-11-07 18:53:27,072 - TrainModel - INFO - Epoch 241/250, learning rate = 0.000016
+2023-11-07 18:53:27,072 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:54:16,326 - TrainModel - INFO - Train nll is -0.4447365951538086
+2023-11-07 18:54:16,326 - TrainModel - INFO - Train total_loss is -0.4447365951538086
+2023-11-07 18:54:16,326 - TrainModel - INFO - Train mean_probability is 5.093061828613282
+2023-11-07 18:54:16,326 - TrainModel - INFO - Epoch 242/250, learning rate = 0.000016
+2023-11-07 18:54:16,327 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:55:05,537 - TrainModel - INFO - Train nll is -0.3823780822753906
+2023-11-07 18:55:05,538 - TrainModel - INFO - Train total_loss is -0.3823780822753906
+2023-11-07 18:55:05,538 - TrainModel - INFO - Train mean_probability is 5.002970275878906
+2023-11-07 18:55:05,538 - TrainModel - INFO - Epoch 243/250, learning rate = 0.000016
+2023-11-07 18:55:05,538 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:55:54,721 - TrainModel - INFO - Train nll is -0.397469596862793
+2023-11-07 18:55:54,721 - TrainModel - INFO - Train total_loss is -0.397469596862793
+2023-11-07 18:55:54,721 - TrainModel - INFO - Train mean_probability is 5.0365087890625
+2023-11-07 18:55:54,722 - TrainModel - INFO - Epoch 244/250, learning rate = 0.000016
+2023-11-07 18:55:54,722 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:56:43,951 - TrainModel - INFO - Train nll is -0.38946582794189455
+2023-11-07 18:56:43,951 - TrainModel - INFO - Train total_loss is -0.38946582794189455
+2023-11-07 18:56:43,951 - TrainModel - INFO - Train mean_probability is 4.904651794433594
+2023-11-07 18:56:43,951 - TrainModel - INFO - Epoch 245/250, learning rate = 0.000016
+2023-11-07 18:56:43,951 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:57:33,255 - TrainModel - INFO - Train nll is -0.3298046112060547
+2023-11-07 18:57:33,255 - TrainModel - INFO - Train total_loss is -0.3298046112060547
+2023-11-07 18:57:33,255 - TrainModel - INFO - Train mean_probability is 4.668362121582032
+2023-11-07 18:57:33,256 - TrainModel - INFO - Epoch 246/250, learning rate = 0.000016
+2023-11-07 18:57:33,256 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:58:22,717 - TrainModel - INFO - Train nll is -0.41091209411621094
+2023-11-07 18:58:22,717 - TrainModel - INFO - Train total_loss is -0.41091209411621094
+2023-11-07 18:58:22,717 - TrainModel - INFO - Train mean_probability is 5.06632080078125
+2023-11-07 18:58:22,717 - TrainModel - INFO - Epoch 247/250, learning rate = 0.000016
+2023-11-07 18:58:22,717 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 18:59:12,177 - TrainModel - INFO - Train nll is -0.3846831512451172
+2023-11-07 18:59:12,177 - TrainModel - INFO - Train total_loss is -0.3846831512451172
+2023-11-07 18:59:12,177 - TrainModel - INFO - Train mean_probability is 5.598630981445313
+2023-11-07 18:59:12,177 - TrainModel - INFO - Epoch 248/250, learning rate = 0.000016
+2023-11-07 18:59:12,178 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:00:01,808 - TrainModel - INFO - Train nll is -0.3795008087158203
+2023-11-07 19:00:01,808 - TrainModel - INFO - Train total_loss is -0.3795008087158203
+2023-11-07 19:00:01,808 - TrainModel - INFO - Train mean_probability is 4.752721557617187
+2023-11-07 19:00:01,809 - TrainModel - INFO - Epoch 249/250, learning rate = 0.000016
+2023-11-07 19:00:01,809 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:00:51,092 - TrainModel - INFO - Train nll is -0.3985345077514648
+2023-11-07 19:00:51,092 - TrainModel - INFO - Train total_loss is -0.3985345077514648
+2023-11-07 19:00:51,092 - TrainModel - INFO - Train mean_probability is 5.0605075073242185
+2023-11-07 19:00:51,093 - TrainModel - INFO - Epoch 250/250, learning rate = 0.000016
+2023-11-07 19:00:51,093 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:01:40,382 - TrainModel - INFO - Train nll is -0.34060714721679686
+2023-11-07 19:01:40,382 - TrainModel - INFO - Train total_loss is -0.34060714721679686
+2023-11-07 19:01:40,382 - TrainModel - INFO - Train mean_probability is 4.699192810058594
+2023-11-07 19:01:40,382 - TrainModel - INFO - Epoch 251/250, learning rate = 0.000016
+2023-11-07 19:01:40,382 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:02:29,812 - TrainModel - INFO - Train nll is -0.40968299865722657
+2023-11-07 19:02:29,812 - TrainModel - INFO - Train total_loss is -0.40968299865722657
+2023-11-07 19:02:29,813 - TrainModel - INFO - Train mean_probability is 4.883247680664063
+2023-11-07 19:02:29,813 - TrainModel - INFO - Epoch 252/250, learning rate = 0.000016
+2023-11-07 19:02:29,813 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:03:19,217 - TrainModel - INFO - Train nll is -0.38216342926025393
+2023-11-07 19:03:19,217 - TrainModel - INFO - Train total_loss is -0.38216342926025393
+2023-11-07 19:03:19,217 - TrainModel - INFO - Train mean_probability is 5.15659423828125
+2023-11-07 19:03:19,218 - TrainModel - INFO - Epoch 253/250, learning rate = 0.000016
+2023-11-07 19:03:19,218 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:04:08,430 - TrainModel - INFO - Train nll is -0.36588096618652344
+2023-11-07 19:04:08,430 - TrainModel - INFO - Train total_loss is -0.36588096618652344
+2023-11-07 19:04:08,430 - TrainModel - INFO - Train mean_probability is 4.797669372558594
+2023-11-07 19:04:08,431 - TrainModel - INFO - Epoch 254/250, learning rate = 0.000016
+2023-11-07 19:04:08,431 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:04:57,702 - TrainModel - INFO - Train nll is -0.38026920318603513
+2023-11-07 19:04:57,702 - TrainModel - INFO - Train total_loss is -0.38026920318603513
+2023-11-07 19:04:57,702 - TrainModel - INFO - Train mean_probability is 4.827006530761719
+2023-11-07 19:04:57,702 - TrainModel - INFO - Epoch 255/250, learning rate = 0.000016
+2023-11-07 19:04:57,702 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:05:47,041 - TrainModel - INFO - Train nll is -0.4140973663330078
+2023-11-07 19:05:47,041 - TrainModel - INFO - Train total_loss is -0.4140973663330078
+2023-11-07 19:05:47,041 - TrainModel - INFO - Train mean_probability is 5.164383544921875
+2023-11-07 19:05:47,042 - TrainModel - INFO - Epoch 256/250, learning rate = 0.000016
+2023-11-07 19:05:47,042 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:06:36,310 - TrainModel - INFO - Train nll is -0.3721077346801758
+2023-11-07 19:06:36,310 - TrainModel - INFO - Train total_loss is -0.3721077346801758
+2023-11-07 19:06:36,310 - TrainModel - INFO - Train mean_probability is 5.048410034179687
+2023-11-07 19:06:36,311 - TrainModel - INFO - Epoch 257/250, learning rate = 0.000016
+2023-11-07 19:06:36,311 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:07:25,881 - TrainModel - INFO - Train nll is -0.3042047119140625
+2023-11-07 19:07:25,881 - TrainModel - INFO - Train total_loss is -0.3042047119140625
+2023-11-07 19:07:25,881 - TrainModel - INFO - Train mean_probability is 4.329028625488281
+2023-11-07 19:07:25,881 - TrainModel - INFO - Epoch 258/250, learning rate = 0.000016
+2023-11-07 19:07:25,881 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:08:15,106 - TrainModel - INFO - Train nll is -0.4451580810546875
+2023-11-07 19:08:15,106 - TrainModel - INFO - Train total_loss is -0.4451580810546875
+2023-11-07 19:08:15,107 - TrainModel - INFO - Train mean_probability is 5.060682373046875
+2023-11-07 19:08:15,107 - TrainModel - INFO - Epoch 259/250, learning rate = 0.000016
+2023-11-07 19:08:15,107 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:09:04,278 - TrainModel - INFO - Train nll is -0.33605979919433593
+2023-11-07 19:09:04,278 - TrainModel - INFO - Train total_loss is -0.33605979919433593
+2023-11-07 19:09:04,278 - TrainModel - INFO - Train mean_probability is 4.6699853515625
+2023-11-07 19:09:04,279 - TrainModel - INFO - Epoch 260/250, learning rate = 0.000016
+2023-11-07 19:09:04,279 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:09:53,911 - TrainModel - INFO - Train nll is -0.3613006591796875
+2023-11-07 19:09:53,912 - TrainModel - INFO - Train total_loss is -0.3613006591796875
+2023-11-07 19:09:53,912 - TrainModel - INFO - Train mean_probability is 5.087535400390625
+2023-11-07 19:09:53,912 - TrainModel - INFO - Epoch 261/250, learning rate = 0.000016
+2023-11-07 19:09:53,912 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:10:43,434 - TrainModel - INFO - Train nll is -0.37955413818359374
+2023-11-07 19:10:43,434 - TrainModel - INFO - Train total_loss is -0.37955413818359374
+2023-11-07 19:10:43,434 - TrainModel - INFO - Train mean_probability is 5.002530212402344
+2023-11-07 19:10:43,435 - TrainModel - INFO - Epoch 262/250, learning rate = 0.000016
+2023-11-07 19:10:43,435 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:11:32,796 - TrainModel - INFO - Train nll is -0.40579574584960937
+2023-11-07 19:11:32,796 - TrainModel - INFO - Train total_loss is -0.40579574584960937
+2023-11-07 19:11:32,796 - TrainModel - INFO - Train mean_probability is 5.084931640625
+2023-11-07 19:11:32,797 - TrainModel - INFO - Epoch 263/250, learning rate = 0.000016
+2023-11-07 19:11:32,797 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:12:22,287 - TrainModel - INFO - Train nll is -0.3858733367919922
+2023-11-07 19:12:22,287 - TrainModel - INFO - Train total_loss is -0.3858733367919922
+2023-11-07 19:12:22,287 - TrainModel - INFO - Train mean_probability is 4.645568237304688
+2023-11-07 19:12:22,287 - TrainModel - INFO - Epoch 264/250, learning rate = 0.000016
+2023-11-07 19:12:22,287 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:13:12,283 - TrainModel - INFO - Train nll is -0.3905892181396484
+2023-11-07 19:13:12,283 - TrainModel - INFO - Train total_loss is -0.3905892181396484
+2023-11-07 19:13:12,283 - TrainModel - INFO - Train mean_probability is 5.057456970214844
+2023-11-07 19:13:12,283 - TrainModel - INFO - Epoch 265/250, learning rate = 0.000016
+2023-11-07 19:13:12,283 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:14:02,356 - TrainModel - INFO - Train nll is -0.4132659912109375
+2023-11-07 19:14:02,356 - TrainModel - INFO - Train total_loss is -0.4132659912109375
+2023-11-07 19:14:02,356 - TrainModel - INFO - Train mean_probability is 4.935325317382812
+2023-11-07 19:14:02,356 - TrainModel - INFO - Epoch 266/250, learning rate = 0.000016
+2023-11-07 19:14:02,356 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:14:52,514 - TrainModel - INFO - Train nll is -0.37322967529296874
+2023-11-07 19:14:52,515 - TrainModel - INFO - Train total_loss is -0.37322967529296874
+2023-11-07 19:14:52,515 - TrainModel - INFO - Train mean_probability is 5.116918334960937
+2023-11-07 19:14:52,515 - TrainModel - INFO - Epoch 267/250, learning rate = 0.000016
+2023-11-07 19:14:52,515 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:15:42,160 - TrainModel - INFO - Train nll is -0.4197972106933594
+2023-11-07 19:15:42,160 - TrainModel - INFO - Train total_loss is -0.4197972106933594
+2023-11-07 19:15:42,160 - TrainModel - INFO - Train mean_probability is 5.23810546875
+2023-11-07 19:15:42,161 - TrainModel - INFO - Epoch 268/250, learning rate = 0.000016
+2023-11-07 19:15:42,161 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:16:31,427 - TrainModel - INFO - Train nll is -0.36463714599609376
+2023-11-07 19:16:31,427 - TrainModel - INFO - Train total_loss is -0.36463714599609376
+2023-11-07 19:16:31,427 - TrainModel - INFO - Train mean_probability is 4.673779907226563
+2023-11-07 19:16:31,427 - TrainModel - INFO - Epoch 269/250, learning rate = 0.000016
+2023-11-07 19:16:31,427 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:17:20,706 - TrainModel - INFO - Train nll is -0.3584897994995117
+2023-11-07 19:17:20,706 - TrainModel - INFO - Train total_loss is -0.3584897994995117
+2023-11-07 19:17:20,706 - TrainModel - INFO - Train mean_probability is 4.932219848632813
+2023-11-07 19:17:20,707 - TrainModel - INFO - Epoch 270/250, learning rate = 0.000016
+2023-11-07 19:17:20,707 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:18:09,836 - TrainModel - INFO - Train nll is -0.32548812866210936
+2023-11-07 19:18:09,836 - TrainModel - INFO - Train total_loss is -0.32548812866210936
+2023-11-07 19:18:09,836 - TrainModel - INFO - Train mean_probability is 4.66774169921875
+2023-11-07 19:18:09,837 - TrainModel - INFO - Epoch 271/250, learning rate = 0.000016
+2023-11-07 19:18:09,837 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:18:59,253 - TrainModel - INFO - Train nll is -0.39380699157714844
+2023-11-07 19:18:59,253 - TrainModel - INFO - Train total_loss is -0.39380699157714844
+2023-11-07 19:18:59,253 - TrainModel - INFO - Train mean_probability is 5.286968994140625
+2023-11-07 19:18:59,254 - TrainModel - INFO - Epoch 272/250, learning rate = 0.000016
+2023-11-07 19:18:59,254 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:19:48,620 - TrainModel - INFO - Train nll is -0.39172245025634767
+2023-11-07 19:19:48,620 - TrainModel - INFO - Train total_loss is -0.39172245025634767
+2023-11-07 19:19:48,620 - TrainModel - INFO - Train mean_probability is 5.240247192382813
+2023-11-07 19:19:48,621 - TrainModel - INFO - Epoch 273/250, learning rate = 0.000016
+2023-11-07 19:19:48,621 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:20:38,059 - TrainModel - INFO - Train nll is -0.42647830963134764
+2023-11-07 19:20:38,059 - TrainModel - INFO - Train total_loss is -0.42647830963134764
+2023-11-07 19:20:38,059 - TrainModel - INFO - Train mean_probability is 5.281370849609375
+2023-11-07 19:20:38,060 - TrainModel - INFO - Epoch 274/250, learning rate = 0.000016
+2023-11-07 19:20:38,060 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:21:27,714 - TrainModel - INFO - Train nll is -0.42168487548828126
+2023-11-07 19:21:27,714 - TrainModel - INFO - Train total_loss is -0.42168487548828126
+2023-11-07 19:21:27,714 - TrainModel - INFO - Train mean_probability is 5.117855529785157
+2023-11-07 19:21:27,715 - TrainModel - INFO - Epoch 275/250, learning rate = 0.000016
+2023-11-07 19:21:27,715 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:22:16,876 - TrainModel - INFO - Train nll is -0.35230239868164065
+2023-11-07 19:22:16,876 - TrainModel - INFO - Train total_loss is -0.35230239868164065
+2023-11-07 19:22:16,876 - TrainModel - INFO - Train mean_probability is 4.798923950195313
+2023-11-07 19:22:16,877 - TrainModel - INFO - Epoch 276/250, learning rate = 0.000016
+2023-11-07 19:22:16,877 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:23:06,197 - TrainModel - INFO - Train nll is -0.40451156616210937
+2023-11-07 19:23:06,197 - TrainModel - INFO - Train total_loss is -0.40451156616210937
+2023-11-07 19:23:06,197 - TrainModel - INFO - Train mean_probability is 5.109324645996094
+2023-11-07 19:23:06,197 - TrainModel - INFO - Epoch 277/250, learning rate = 0.000016
+2023-11-07 19:23:06,197 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:23:55,464 - TrainModel - INFO - Train nll is -0.40229598999023436
+2023-11-07 19:23:55,464 - TrainModel - INFO - Train total_loss is -0.40229598999023436
+2023-11-07 19:23:55,464 - TrainModel - INFO - Train mean_probability is 4.806929321289062
+2023-11-07 19:23:55,465 - TrainModel - INFO - Epoch 278/250, learning rate = 0.000016
+2023-11-07 19:23:55,465 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:24:44,630 - TrainModel - INFO - Train nll is -0.3745614624023437
+2023-11-07 19:24:44,630 - TrainModel - INFO - Train total_loss is -0.3745614624023437
+2023-11-07 19:24:44,630 - TrainModel - INFO - Train mean_probability is 5.012038879394531
+2023-11-07 19:24:44,631 - TrainModel - INFO - Epoch 279/250, learning rate = 0.000008
+2023-11-07 19:24:44,631 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:25:33,915 - TrainModel - INFO - Train nll is -0.3096000671386719
+2023-11-07 19:25:33,915 - TrainModel - INFO - Train total_loss is -0.3096000671386719
+2023-11-07 19:25:33,915 - TrainModel - INFO - Train mean_probability is 4.565237121582031
+2023-11-07 19:25:33,915 - TrainModel - INFO - Epoch 280/250, learning rate = 0.000008
+2023-11-07 19:25:33,915 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:26:23,104 - TrainModel - INFO - Train nll is -0.4054115295410156
+2023-11-07 19:26:23,105 - TrainModel - INFO - Train total_loss is -0.4054115295410156
+2023-11-07 19:26:23,105 - TrainModel - INFO - Train mean_probability is 5.2553173828125
+2023-11-07 19:26:23,105 - TrainModel - INFO - Epoch 281/250, learning rate = 0.000008
+2023-11-07 19:26:23,105 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:27:12,365 - TrainModel - INFO - Train nll is -0.4464934539794922
+2023-11-07 19:27:12,365 - TrainModel - INFO - Train total_loss is -0.4464934539794922
+2023-11-07 19:27:12,365 - TrainModel - INFO - Train mean_probability is 5.305401611328125
+2023-11-07 19:27:12,366 - TrainModel - INFO - Epoch 282/250, learning rate = 0.000008
+2023-11-07 19:27:12,366 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:28:02,259 - TrainModel - INFO - Train nll is -0.48346748352050783
+2023-11-07 19:28:02,259 - TrainModel - INFO - Train total_loss is -0.48346748352050783
+2023-11-07 19:28:02,259 - TrainModel - INFO - Train mean_probability is 5.465447998046875
+2023-11-07 19:28:02,260 - TrainModel - INFO - Epoch 283/250, learning rate = 0.000008
+2023-11-07 19:28:02,260 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:28:52,511 - TrainModel - INFO - Train nll is -0.3605399322509766
+2023-11-07 19:28:52,511 - TrainModel - INFO - Train total_loss is -0.3605399322509766
+2023-11-07 19:28:52,511 - TrainModel - INFO - Train mean_probability is 4.701333618164062
+2023-11-07 19:28:52,512 - TrainModel - INFO - Epoch 284/250, learning rate = 0.000008
+2023-11-07 19:28:52,512 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:29:43,111 - TrainModel - INFO - Train nll is -0.4073765563964844
+2023-11-07 19:29:43,111 - TrainModel - INFO - Train total_loss is -0.4073765563964844
+2023-11-07 19:29:43,111 - TrainModel - INFO - Train mean_probability is 5.295614624023438
+2023-11-07 19:29:43,111 - TrainModel - INFO - Epoch 285/250, learning rate = 0.000008
+2023-11-07 19:29:43,111 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:30:32,749 - TrainModel - INFO - Train nll is -0.38115390777587893
+2023-11-07 19:30:32,749 - TrainModel - INFO - Train total_loss is -0.38115390777587893
+2023-11-07 19:30:32,749 - TrainModel - INFO - Train mean_probability is 4.735844116210938
+2023-11-07 19:30:32,749 - TrainModel - INFO - Epoch 286/250, learning rate = 0.000008
+2023-11-07 19:30:32,749 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:31:22,068 - TrainModel - INFO - Train nll is -0.4603934860229492
+2023-11-07 19:31:22,068 - TrainModel - INFO - Train total_loss is -0.4603934860229492
+2023-11-07 19:31:22,068 - TrainModel - INFO - Train mean_probability is 5.477916870117188
+2023-11-07 19:31:22,069 - TrainModel - INFO - Epoch 287/250, learning rate = 0.000008
+2023-11-07 19:31:22,069 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:32:11,379 - TrainModel - INFO - Train nll is -0.4765903472900391
+2023-11-07 19:32:11,379 - TrainModel - INFO - Train total_loss is -0.4765903472900391
+2023-11-07 19:32:11,379 - TrainModel - INFO - Train mean_probability is 5.928112182617188
+2023-11-07 19:32:11,380 - TrainModel - INFO - Epoch 288/250, learning rate = 0.000008
+2023-11-07 19:32:11,380 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:33:00,704 - TrainModel - INFO - Train nll is -0.3537347030639648
+2023-11-07 19:33:00,704 - TrainModel - INFO - Train total_loss is -0.3537347030639648
+2023-11-07 19:33:00,704 - TrainModel - INFO - Train mean_probability is 4.757328491210938
+2023-11-07 19:33:00,704 - TrainModel - INFO - Epoch 289/250, learning rate = 0.000008
+2023-11-07 19:33:00,704 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:33:49,955 - TrainModel - INFO - Train nll is -0.3974583435058594
+2023-11-07 19:33:49,955 - TrainModel - INFO - Train total_loss is -0.3974583435058594
+2023-11-07 19:33:49,955 - TrainModel - INFO - Train mean_probability is 5.113442077636718
+2023-11-07 19:33:49,955 - TrainModel - INFO - Epoch 290/250, learning rate = 0.000008
+2023-11-07 19:33:49,955 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:34:39,134 - TrainModel - INFO - Train nll is -0.367279052734375
+2023-11-07 19:34:39,134 - TrainModel - INFO - Train total_loss is -0.367279052734375
+2023-11-07 19:34:39,134 - TrainModel - INFO - Train mean_probability is 5.110004272460937
+2023-11-07 19:34:39,134 - TrainModel - INFO - Epoch 291/250, learning rate = 0.000008
+2023-11-07 19:34:39,134 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:35:28,421 - TrainModel - INFO - Train nll is -0.47233917236328127
+2023-11-07 19:35:28,421 - TrainModel - INFO - Train total_loss is -0.47233917236328127
+2023-11-07 19:35:28,421 - TrainModel - INFO - Train mean_probability is 5.7288525390625
+2023-11-07 19:35:28,422 - TrainModel - INFO - Epoch 292/250, learning rate = 0.000008
+2023-11-07 19:35:28,422 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:36:17,718 - TrainModel - INFO - Train nll is -0.46387367248535155
+2023-11-07 19:36:17,718 - TrainModel - INFO - Train total_loss is -0.46387367248535155
+2023-11-07 19:36:17,718 - TrainModel - INFO - Train mean_probability is 5.781842651367188
+2023-11-07 19:36:17,718 - TrainModel - INFO - Epoch 293/250, learning rate = 0.000008
+2023-11-07 19:36:17,718 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:37:06,782 - TrainModel - INFO - Train nll is -0.3466097640991211
+2023-11-07 19:37:06,782 - TrainModel - INFO - Train total_loss is -0.3466097640991211
+2023-11-07 19:37:06,782 - TrainModel - INFO - Train mean_probability is 5.037455444335937
+2023-11-07 19:37:06,783 - TrainModel - INFO - Epoch 294/250, learning rate = 0.000008
+2023-11-07 19:37:06,783 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:37:55,989 - TrainModel - INFO - Train nll is -0.46835617065429686
+2023-11-07 19:37:55,990 - TrainModel - INFO - Train total_loss is -0.46835617065429686
+2023-11-07 19:37:55,990 - TrainModel - INFO - Train mean_probability is 5.446791381835937
+2023-11-07 19:37:55,990 - TrainModel - INFO - Epoch 295/250, learning rate = 0.000008
+2023-11-07 19:37:55,990 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:38:45,191 - TrainModel - INFO - Train nll is -0.3941124725341797
+2023-11-07 19:38:45,192 - TrainModel - INFO - Train total_loss is -0.3941124725341797
+2023-11-07 19:38:45,192 - TrainModel - INFO - Train mean_probability is 5.096888122558593
+2023-11-07 19:38:45,192 - TrainModel - INFO - Epoch 296/250, learning rate = 0.000008
+2023-11-07 19:38:45,192 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:39:34,621 - TrainModel - INFO - Train nll is -0.4901469802856445
+2023-11-07 19:39:34,621 - TrainModel - INFO - Train total_loss is -0.4901469802856445
+2023-11-07 19:39:34,621 - TrainModel - INFO - Train mean_probability is 5.531348876953125
+2023-11-07 19:39:34,621 - TrainModel - INFO - Epoch 297/250, learning rate = 0.000008
+2023-11-07 19:39:34,621 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:40:23,738 - TrainModel - INFO - Train nll is -0.4145515823364258
+2023-11-07 19:40:23,738 - TrainModel - INFO - Train total_loss is -0.4145515823364258
+2023-11-07 19:40:23,738 - TrainModel - INFO - Train mean_probability is 5.34270751953125
+2023-11-07 19:40:23,739 - TrainModel - INFO - Epoch 298/250, learning rate = 0.000008
+2023-11-07 19:40:23,739 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:41:12,957 - TrainModel - INFO - Train nll is -0.45074073791503905
+2023-11-07 19:41:12,957 - TrainModel - INFO - Train total_loss is -0.45074073791503905
+2023-11-07 19:41:12,958 - TrainModel - INFO - Train mean_probability is 5.613663940429688
+2023-11-07 19:41:12,958 - TrainModel - INFO - Epoch 299/250, learning rate = 0.000008
+2023-11-07 19:41:12,958 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:42:02,053 - TrainModel - INFO - Train nll is -0.42871818542480467
+2023-11-07 19:42:02,053 - TrainModel - INFO - Train total_loss is -0.42871818542480467
+2023-11-07 19:42:02,053 - TrainModel - INFO - Train mean_probability is 5.109921264648437
+2023-11-07 19:42:02,054 - TrainModel - INFO - Epoch 300/250, learning rate = 0.000008
+2023-11-07 19:42:02,054 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:42:51,404 - TrainModel - INFO - Train nll is -0.4036261749267578
+2023-11-07 19:42:51,404 - TrainModel - INFO - Train total_loss is -0.4036261749267578
+2023-11-07 19:42:51,404 - TrainModel - INFO - Train mean_probability is 5.16856201171875
+2023-11-07 19:42:51,404 - TrainModel - INFO - Epoch 301/250, learning rate = 0.000008
+2023-11-07 19:42:51,404 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:42:51,422 - TrainModel - INFO - Saving model at epoch 301, path ./ipdf_train/ckpt/model_000301.pt
+2023-11-07 19:43:40,525 - TrainModel - INFO - Train nll is -0.34537956237792966
+2023-11-07 19:43:40,525 - TrainModel - INFO - Train total_loss is -0.34537956237792966
+2023-11-07 19:43:40,525 - TrainModel - INFO - Train mean_probability is 4.853804016113282
+2023-11-07 19:43:40,526 - TrainModel - INFO - Epoch 302/250, learning rate = 0.000008
+2023-11-07 19:43:40,526 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:44:29,553 - TrainModel - INFO - Train nll is -0.4325836181640625
+2023-11-07 19:44:29,553 - TrainModel - INFO - Train total_loss is -0.4325836181640625
+2023-11-07 19:44:29,553 - TrainModel - INFO - Train mean_probability is 5.145635986328125
+2023-11-07 19:44:29,554 - TrainModel - INFO - Epoch 303/250, learning rate = 0.000008
+2023-11-07 19:44:29,554 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:45:18,737 - TrainModel - INFO - Train nll is -0.3851026916503906
+2023-11-07 19:45:18,737 - TrainModel - INFO - Train total_loss is -0.3851026916503906
+2023-11-07 19:45:18,737 - TrainModel - INFO - Train mean_probability is 4.972059936523437
+2023-11-07 19:45:18,738 - TrainModel - INFO - Epoch 304/250, learning rate = 0.000008
+2023-11-07 19:45:18,738 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:46:08,332 - TrainModel - INFO - Train nll is -0.4526702880859375
+2023-11-07 19:46:08,332 - TrainModel - INFO - Train total_loss is -0.4526702880859375
+2023-11-07 19:46:08,332 - TrainModel - INFO - Train mean_probability is 5.445282592773437
+2023-11-07 19:46:08,333 - TrainModel - INFO - Epoch 305/250, learning rate = 0.000008
+2023-11-07 19:46:08,333 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:46:57,675 - TrainModel - INFO - Train nll is -0.4246537399291992
+2023-11-07 19:46:57,675 - TrainModel - INFO - Train total_loss is -0.4246537399291992
+2023-11-07 19:46:57,675 - TrainModel - INFO - Train mean_probability is 5.226633911132812
+2023-11-07 19:46:57,676 - TrainModel - INFO - Epoch 306/250, learning rate = 0.000008
+2023-11-07 19:46:57,676 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:47:46,890 - TrainModel - INFO - Train nll is -0.40829803466796877
+2023-11-07 19:47:46,890 - TrainModel - INFO - Train total_loss is -0.40829803466796877
+2023-11-07 19:47:46,890 - TrainModel - INFO - Train mean_probability is 5.127329711914062
+2023-11-07 19:47:46,890 - TrainModel - INFO - Epoch 307/250, learning rate = 0.000008
+2023-11-07 19:47:46,891 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:48:36,101 - TrainModel - INFO - Train nll is -0.32303752899169924
+2023-11-07 19:48:36,102 - TrainModel - INFO - Train total_loss is -0.32303752899169924
+2023-11-07 19:48:36,102 - TrainModel - INFO - Train mean_probability is 4.685645446777344
+2023-11-07 19:48:36,102 - TrainModel - INFO - Epoch 308/250, learning rate = 0.000008
+2023-11-07 19:48:36,102 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:49:25,158 - TrainModel - INFO - Train nll is -0.38840423583984374
+2023-11-07 19:49:25,158 - TrainModel - INFO - Train total_loss is -0.38840423583984374
+2023-11-07 19:49:25,158 - TrainModel - INFO - Train mean_probability is 5.160575561523437
+2023-11-07 19:49:25,158 - TrainModel - INFO - Epoch 309/250, learning rate = 0.000008
+2023-11-07 19:49:25,158 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:50:14,709 - TrainModel - INFO - Train nll is -0.37854930877685544
+2023-11-07 19:50:14,709 - TrainModel - INFO - Train total_loss is -0.37854930877685544
+2023-11-07 19:50:14,709 - TrainModel - INFO - Train mean_probability is 5.515059814453125
+2023-11-07 19:50:14,710 - TrainModel - INFO - Epoch 310/250, learning rate = 0.000008
+2023-11-07 19:50:14,710 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:51:04,139 - TrainModel - INFO - Train nll is -0.3251645278930664
+2023-11-07 19:51:04,139 - TrainModel - INFO - Train total_loss is -0.3251645278930664
+2023-11-07 19:51:04,139 - TrainModel - INFO - Train mean_probability is 4.809568481445313
+2023-11-07 19:51:04,139 - TrainModel - INFO - Epoch 311/250, learning rate = 0.000008
+2023-11-07 19:51:04,139 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:51:53,223 - TrainModel - INFO - Train nll is -0.39953323364257814
+2023-11-07 19:51:53,223 - TrainModel - INFO - Train total_loss is -0.39953323364257814
+2023-11-07 19:51:53,223 - TrainModel - INFO - Train mean_probability is 4.957486572265625
+2023-11-07 19:51:53,223 - TrainModel - INFO - Epoch 312/250, learning rate = 0.000008
+2023-11-07 19:51:53,223 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:52:42,430 - TrainModel - INFO - Train nll is -0.4046189498901367
+2023-11-07 19:52:42,430 - TrainModel - INFO - Train total_loss is -0.4046189498901367
+2023-11-07 19:52:42,430 - TrainModel - INFO - Train mean_probability is 5.057113037109375
+2023-11-07 19:52:42,431 - TrainModel - INFO - Epoch 313/250, learning rate = 0.000008
+2023-11-07 19:52:42,431 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:53:31,735 - TrainModel - INFO - Train nll is -0.36559574127197264
+2023-11-07 19:53:31,735 - TrainModel - INFO - Train total_loss is -0.36559574127197264
+2023-11-07 19:53:31,735 - TrainModel - INFO - Train mean_probability is 4.996218872070313
+2023-11-07 19:53:31,735 - TrainModel - INFO - Epoch 314/250, learning rate = 0.000008
+2023-11-07 19:53:31,735 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:54:21,014 - TrainModel - INFO - Train nll is -0.3657240295410156
+2023-11-07 19:54:21,014 - TrainModel - INFO - Train total_loss is -0.3657240295410156
+2023-11-07 19:54:21,014 - TrainModel - INFO - Train mean_probability is 4.795617370605469
+2023-11-07 19:54:21,015 - TrainModel - INFO - Epoch 315/250, learning rate = 0.000008
+2023-11-07 19:54:21,015 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:55:10,231 - TrainModel - INFO - Train nll is -0.3993334197998047
+2023-11-07 19:55:10,232 - TrainModel - INFO - Train total_loss is -0.3993334197998047
+2023-11-07 19:55:10,232 - TrainModel - INFO - Train mean_probability is 5.304634399414063
+2023-11-07 19:55:10,232 - TrainModel - INFO - Epoch 316/250, learning rate = 0.000008
+2023-11-07 19:55:10,232 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:55:59,273 - TrainModel - INFO - Train nll is -0.4034727096557617
+2023-11-07 19:55:59,273 - TrainModel - INFO - Train total_loss is -0.4034727096557617
+2023-11-07 19:55:59,273 - TrainModel - INFO - Train mean_probability is 5.19280029296875
+2023-11-07 19:55:59,273 - TrainModel - INFO - Epoch 317/250, learning rate = 0.000008
+2023-11-07 19:55:59,273 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:56:48,541 - TrainModel - INFO - Train nll is -0.45399070739746095
+2023-11-07 19:56:48,541 - TrainModel - INFO - Train total_loss is -0.45399070739746095
+2023-11-07 19:56:48,541 - TrainModel - INFO - Train mean_probability is 5.521441040039062
+2023-11-07 19:56:48,542 - TrainModel - INFO - Epoch 318/250, learning rate = 0.000008
+2023-11-07 19:56:48,542 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:57:37,563 - TrainModel - INFO - Train nll is -0.4010055160522461
+2023-11-07 19:57:37,563 - TrainModel - INFO - Train total_loss is -0.4010055160522461
+2023-11-07 19:57:37,563 - TrainModel - INFO - Train mean_probability is 5.149990844726562
+2023-11-07 19:57:37,563 - TrainModel - INFO - Epoch 319/250, learning rate = 0.000008
+2023-11-07 19:57:37,563 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:58:26,603 - TrainModel - INFO - Train nll is -0.3980522918701172
+2023-11-07 19:58:26,603 - TrainModel - INFO - Train total_loss is -0.3980522918701172
+2023-11-07 19:58:26,603 - TrainModel - INFO - Train mean_probability is 5.2272711181640625
+2023-11-07 19:58:26,603 - TrainModel - INFO - Epoch 320/250, learning rate = 0.000008
+2023-11-07 19:58:26,603 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 19:59:15,776 - TrainModel - INFO - Train nll is -0.39736202239990237
+2023-11-07 19:59:15,776 - TrainModel - INFO - Train total_loss is -0.39736202239990237
+2023-11-07 19:59:15,776 - TrainModel - INFO - Train mean_probability is 5.23371826171875
+2023-11-07 19:59:15,777 - TrainModel - INFO - Epoch 321/250, learning rate = 0.000008
+2023-11-07 19:59:15,777 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:00:05,039 - TrainModel - INFO - Train nll is -0.4162923049926758
+2023-11-07 20:00:05,039 - TrainModel - INFO - Train total_loss is -0.4162923049926758
+2023-11-07 20:00:05,039 - TrainModel - INFO - Train mean_probability is 5.0510342407226565
+2023-11-07 20:00:05,040 - TrainModel - INFO - Epoch 322/250, learning rate = 0.000008
+2023-11-07 20:00:05,040 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:00:54,123 - TrainModel - INFO - Train nll is -0.4127700424194336
+2023-11-07 20:00:54,123 - TrainModel - INFO - Train total_loss is -0.4127700424194336
+2023-11-07 20:00:54,123 - TrainModel - INFO - Train mean_probability is 5.421909790039063
+2023-11-07 20:00:54,123 - TrainModel - INFO - Epoch 323/250, learning rate = 0.000008
+2023-11-07 20:00:54,123 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:01:43,277 - TrainModel - INFO - Train nll is -0.4360115432739258
+2023-11-07 20:01:43,277 - TrainModel - INFO - Train total_loss is -0.4360115432739258
+2023-11-07 20:01:43,277 - TrainModel - INFO - Train mean_probability is 5.397901611328125
+2023-11-07 20:01:43,278 - TrainModel - INFO - Epoch 324/250, learning rate = 0.000008
+2023-11-07 20:01:43,278 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:02:32,534 - TrainModel - INFO - Train nll is -0.46805816650390625
+2023-11-07 20:02:32,534 - TrainModel - INFO - Train total_loss is -0.46805816650390625
+2023-11-07 20:02:32,534 - TrainModel - INFO - Train mean_probability is 5.661113891601563
+2023-11-07 20:02:32,535 - TrainModel - INFO - Epoch 325/250, learning rate = 0.000008
+2023-11-07 20:02:32,535 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:03:21,623 - TrainModel - INFO - Train nll is -0.37751834869384765
+2023-11-07 20:03:21,623 - TrainModel - INFO - Train total_loss is -0.37751834869384765
+2023-11-07 20:03:21,623 - TrainModel - INFO - Train mean_probability is 5.000252380371093
+2023-11-07 20:03:21,623 - TrainModel - INFO - Epoch 326/250, learning rate = 0.000008
+2023-11-07 20:03:21,623 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:04:10,820 - TrainModel - INFO - Train nll is -0.4245321273803711
+2023-11-07 20:04:10,820 - TrainModel - INFO - Train total_loss is -0.4245321273803711
+2023-11-07 20:04:10,820 - TrainModel - INFO - Train mean_probability is 5.221069946289062
+2023-11-07 20:04:10,821 - TrainModel - INFO - Epoch 327/250, learning rate = 0.000008
+2023-11-07 20:04:10,821 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:04:59,926 - TrainModel - INFO - Train nll is -0.4779567337036133
+2023-11-07 20:04:59,926 - TrainModel - INFO - Train total_loss is -0.4779567337036133
+2023-11-07 20:04:59,926 - TrainModel - INFO - Train mean_probability is 5.678907470703125
+2023-11-07 20:04:59,926 - TrainModel - INFO - Epoch 328/250, learning rate = 0.000008
+2023-11-07 20:04:59,926 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:05:48,982 - TrainModel - INFO - Train nll is -0.4421017456054688
+2023-11-07 20:05:48,982 - TrainModel - INFO - Train total_loss is -0.4421017456054688
+2023-11-07 20:05:48,982 - TrainModel - INFO - Train mean_probability is 5.859911499023437
+2023-11-07 20:05:48,982 - TrainModel - INFO - Epoch 329/250, learning rate = 0.000008
+2023-11-07 20:05:48,982 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:06:38,008 - TrainModel - INFO - Train nll is -0.4092578506469727
+2023-11-07 20:06:38,008 - TrainModel - INFO - Train total_loss is -0.4092578506469727
+2023-11-07 20:06:38,008 - TrainModel - INFO - Train mean_probability is 5.379881591796875
+2023-11-07 20:06:38,009 - TrainModel - INFO - Epoch 330/250, learning rate = 0.000008
+2023-11-07 20:06:38,009 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:07:27,062 - TrainModel - INFO - Train nll is -0.39069705963134765
+2023-11-07 20:07:27,062 - TrainModel - INFO - Train total_loss is -0.39069705963134765
+2023-11-07 20:07:27,062 - TrainModel - INFO - Train mean_probability is 5.112188415527344
+2023-11-07 20:07:27,063 - TrainModel - INFO - Epoch 331/250, learning rate = 0.000008
+2023-11-07 20:07:27,063 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:08:16,174 - TrainModel - INFO - Train nll is -0.4779890823364258
+2023-11-07 20:08:16,174 - TrainModel - INFO - Train total_loss is -0.4779890823364258
+2023-11-07 20:08:16,174 - TrainModel - INFO - Train mean_probability is 5.7266943359375
+2023-11-07 20:08:16,174 - TrainModel - INFO - Epoch 332/250, learning rate = 0.000008
+2023-11-07 20:08:16,174 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:09:05,352 - TrainModel - INFO - Train nll is -0.4576694869995117
+2023-11-07 20:09:05,352 - TrainModel - INFO - Train total_loss is -0.4576694869995117
+2023-11-07 20:09:05,352 - TrainModel - INFO - Train mean_probability is 5.555697631835938
+2023-11-07 20:09:05,352 - TrainModel - INFO - Epoch 333/250, learning rate = 0.000008
+2023-11-07 20:09:05,353 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:09:54,685 - TrainModel - INFO - Train nll is -0.4359138870239258
+2023-11-07 20:09:54,685 - TrainModel - INFO - Train total_loss is -0.4359138870239258
+2023-11-07 20:09:54,685 - TrainModel - INFO - Train mean_probability is 5.4202508544921875
+2023-11-07 20:09:54,686 - TrainModel - INFO - Epoch 334/250, learning rate = 0.000008
+2023-11-07 20:09:54,686 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:10:43,949 - TrainModel - INFO - Train nll is -0.3880794525146484
+2023-11-07 20:10:43,949 - TrainModel - INFO - Train total_loss is -0.3880794525146484
+2023-11-07 20:10:43,949 - TrainModel - INFO - Train mean_probability is 5.4420538330078125
+2023-11-07 20:10:43,949 - TrainModel - INFO - Epoch 335/250, learning rate = 0.000008
+2023-11-07 20:10:43,949 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:11:33,088 - TrainModel - INFO - Train nll is -0.4649197769165039
+2023-11-07 20:11:33,088 - TrainModel - INFO - Train total_loss is -0.4649197769165039
+2023-11-07 20:11:33,088 - TrainModel - INFO - Train mean_probability is 5.518535766601563
+2023-11-07 20:11:33,089 - TrainModel - INFO - Epoch 336/250, learning rate = 0.000008
+2023-11-07 20:11:33,089 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:12:22,053 - TrainModel - INFO - Train nll is -0.4282523727416992
+2023-11-07 20:12:22,053 - TrainModel - INFO - Train total_loss is -0.4282523727416992
+2023-11-07 20:12:22,053 - TrainModel - INFO - Train mean_probability is 5.936339721679688
+2023-11-07 20:12:22,054 - TrainModel - INFO - Epoch 337/250, learning rate = 0.000008
+2023-11-07 20:12:22,054 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:13:11,147 - TrainModel - INFO - Train nll is -0.41355148315429685
+2023-11-07 20:13:11,147 - TrainModel - INFO - Train total_loss is -0.41355148315429685
+2023-11-07 20:13:11,147 - TrainModel - INFO - Train mean_probability is 5.386327514648437
+2023-11-07 20:13:11,147 - TrainModel - INFO - Epoch 338/250, learning rate = 0.000008
+2023-11-07 20:13:11,147 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:14:00,293 - TrainModel - INFO - Train nll is -0.43288497924804686
+2023-11-07 20:14:00,293 - TrainModel - INFO - Train total_loss is -0.43288497924804686
+2023-11-07 20:14:00,293 - TrainModel - INFO - Train mean_probability is 5.650864868164063
+2023-11-07 20:14:00,294 - TrainModel - INFO - Epoch 339/250, learning rate = 0.000008
+2023-11-07 20:14:00,294 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:14:49,615 - TrainModel - INFO - Train nll is -0.4806546401977539
+2023-11-07 20:14:49,615 - TrainModel - INFO - Train total_loss is -0.4806546401977539
+2023-11-07 20:14:49,615 - TrainModel - INFO - Train mean_probability is 5.958079223632812
+2023-11-07 20:14:49,615 - TrainModel - INFO - Epoch 340/250, learning rate = 0.000008
+2023-11-07 20:14:49,615 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:15:38,882 - TrainModel - INFO - Train nll is -0.4300849914550781
+2023-11-07 20:15:38,882 - TrainModel - INFO - Train total_loss is -0.4300849914550781
+2023-11-07 20:15:38,882 - TrainModel - INFO - Train mean_probability is 5.629864501953125
+2023-11-07 20:15:38,882 - TrainModel - INFO - Epoch 341/250, learning rate = 0.000008
+2023-11-07 20:15:38,882 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:16:28,134 - TrainModel - INFO - Train nll is -0.41583160400390623
+2023-11-07 20:16:28,134 - TrainModel - INFO - Train total_loss is -0.41583160400390623
+2023-11-07 20:16:28,134 - TrainModel - INFO - Train mean_probability is 5.30146484375
+2023-11-07 20:16:28,135 - TrainModel - INFO - Epoch 342/250, learning rate = 0.000008
+2023-11-07 20:16:28,135 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:17:17,351 - TrainModel - INFO - Train nll is -0.4235148620605469
+2023-11-07 20:17:17,351 - TrainModel - INFO - Train total_loss is -0.4235148620605469
+2023-11-07 20:17:17,351 - TrainModel - INFO - Train mean_probability is 5.180451049804687
+2023-11-07 20:17:17,352 - TrainModel - INFO - Epoch 343/250, learning rate = 0.000008
+2023-11-07 20:17:17,352 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:18:06,663 - TrainModel - INFO - Train nll is -0.41017459869384765
+2023-11-07 20:18:06,664 - TrainModel - INFO - Train total_loss is -0.41017459869384765
+2023-11-07 20:18:06,664 - TrainModel - INFO - Train mean_probability is 5.14311279296875
+2023-11-07 20:18:06,664 - TrainModel - INFO - Epoch 344/250, learning rate = 0.000008
+2023-11-07 20:18:06,664 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:18:55,917 - TrainModel - INFO - Train nll is -0.41093852996826175
+2023-11-07 20:18:55,918 - TrainModel - INFO - Train total_loss is -0.41093852996826175
+2023-11-07 20:18:55,918 - TrainModel - INFO - Train mean_probability is 5.464283447265625
+2023-11-07 20:18:55,918 - TrainModel - INFO - Epoch 345/250, learning rate = 0.000008
+2023-11-07 20:18:55,918 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:19:45,125 - TrainModel - INFO - Train nll is -0.4738924026489258
+2023-11-07 20:19:45,125 - TrainModel - INFO - Train total_loss is -0.4738924026489258
+2023-11-07 20:19:45,125 - TrainModel - INFO - Train mean_probability is 6.104370727539062
+2023-11-07 20:19:45,126 - TrainModel - INFO - Epoch 346/250, learning rate = 0.000008
+2023-11-07 20:19:45,126 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:20:34,141 - TrainModel - INFO - Train nll is -0.45986217498779297
+2023-11-07 20:20:34,141 - TrainModel - INFO - Train total_loss is -0.45986217498779297
+2023-11-07 20:20:34,141 - TrainModel - INFO - Train mean_probability is 5.684996948242188
+2023-11-07 20:20:34,141 - TrainModel - INFO - Epoch 347/250, learning rate = 0.000008
+2023-11-07 20:20:34,141 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:21:23,230 - TrainModel - INFO - Train nll is -0.45211441040039063
+2023-11-07 20:21:23,230 - TrainModel - INFO - Train total_loss is -0.45211441040039063
+2023-11-07 20:21:23,230 - TrainModel - INFO - Train mean_probability is 5.468784790039063
+2023-11-07 20:21:23,231 - TrainModel - INFO - Epoch 348/250, learning rate = 0.000008
+2023-11-07 20:21:23,231 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:22:12,413 - TrainModel - INFO - Train nll is -0.46848209381103517
+2023-11-07 20:22:12,413 - TrainModel - INFO - Train total_loss is -0.46848209381103517
+2023-11-07 20:22:12,413 - TrainModel - INFO - Train mean_probability is 5.74278076171875
+2023-11-07 20:22:12,413 - TrainModel - INFO - Epoch 349/250, learning rate = 0.000008
+2023-11-07 20:22:12,413 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:23:01,596 - TrainModel - INFO - Train nll is -0.3685231399536133
+2023-11-07 20:23:01,596 - TrainModel - INFO - Train total_loss is -0.3685231399536133
+2023-11-07 20:23:01,596 - TrainModel - INFO - Train mean_probability is 5.158963012695312
+2023-11-07 20:23:01,596 - TrainModel - INFO - Epoch 350/250, learning rate = 0.000008
+2023-11-07 20:23:01,597 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:23:50,762 - TrainModel - INFO - Train nll is -0.43782279968261717
+2023-11-07 20:23:50,762 - TrainModel - INFO - Train total_loss is -0.43782279968261717
+2023-11-07 20:23:50,762 - TrainModel - INFO - Train mean_probability is 5.558117065429688
+2023-11-07 20:23:50,762 - TrainModel - INFO - Epoch 351/250, learning rate = 0.000008
+2023-11-07 20:23:50,763 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:24:40,046 - TrainModel - INFO - Train nll is -0.43544563293457034
+2023-11-07 20:24:40,046 - TrainModel - INFO - Train total_loss is -0.43544563293457034
+2023-11-07 20:24:40,046 - TrainModel - INFO - Train mean_probability is 5.77036376953125
+2023-11-07 20:24:40,047 - TrainModel - INFO - Epoch 352/250, learning rate = 0.000008
+2023-11-07 20:24:40,047 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:25:29,283 - TrainModel - INFO - Train nll is -0.4709103393554688
+2023-11-07 20:25:29,283 - TrainModel - INFO - Train total_loss is -0.4709103393554688
+2023-11-07 20:25:29,283 - TrainModel - INFO - Train mean_probability is 5.773333129882812
+2023-11-07 20:25:29,284 - TrainModel - INFO - Epoch 353/250, learning rate = 0.000008
+2023-11-07 20:25:29,284 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:26:18,349 - TrainModel - INFO - Train nll is -0.4235466766357422
+2023-11-07 20:26:18,350 - TrainModel - INFO - Train total_loss is -0.4235466766357422
+2023-11-07 20:26:18,350 - TrainModel - INFO - Train mean_probability is 5.655186157226563
+2023-11-07 20:26:18,350 - TrainModel - INFO - Epoch 354/250, learning rate = 0.000008
+2023-11-07 20:26:18,350 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:27:07,628 - TrainModel - INFO - Train nll is -0.3654591369628906
+2023-11-07 20:27:07,628 - TrainModel - INFO - Train total_loss is -0.3654591369628906
+2023-11-07 20:27:07,628 - TrainModel - INFO - Train mean_probability is 4.945726013183593
+2023-11-07 20:27:07,629 - TrainModel - INFO - Epoch 355/250, learning rate = 0.000008
+2023-11-07 20:27:07,629 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:27:56,735 - TrainModel - INFO - Train nll is -0.37454566955566404
+2023-11-07 20:27:56,736 - TrainModel - INFO - Train total_loss is -0.37454566955566404
+2023-11-07 20:27:56,736 - TrainModel - INFO - Train mean_probability is 5.464771118164062
+2023-11-07 20:27:56,736 - TrainModel - INFO - Epoch 356/250, learning rate = 0.000008
+2023-11-07 20:27:56,736 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:28:45,862 - TrainModel - INFO - Train nll is -0.4231395721435547
+2023-11-07 20:28:45,862 - TrainModel - INFO - Train total_loss is -0.4231395721435547
+2023-11-07 20:28:45,862 - TrainModel - INFO - Train mean_probability is 5.604911499023437
+2023-11-07 20:28:45,862 - TrainModel - INFO - Epoch 357/250, learning rate = 0.000008
+2023-11-07 20:28:45,862 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:29:34,932 - TrainModel - INFO - Train nll is -0.42877525329589844
+2023-11-07 20:29:34,932 - TrainModel - INFO - Train total_loss is -0.42877525329589844
+2023-11-07 20:29:34,932 - TrainModel - INFO - Train mean_probability is 5.2299462890625
+2023-11-07 20:29:34,933 - TrainModel - INFO - Epoch 358/250, learning rate = 0.000008
+2023-11-07 20:29:34,933 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:30:23,991 - TrainModel - INFO - Train nll is -0.4339622116088867
+2023-11-07 20:30:23,991 - TrainModel - INFO - Train total_loss is -0.4339622116088867
+2023-11-07 20:30:23,991 - TrainModel - INFO - Train mean_probability is 5.435306396484375
+2023-11-07 20:30:23,991 - TrainModel - INFO - Epoch 359/250, learning rate = 0.000008
+2023-11-07 20:30:23,991 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:31:13,134 - TrainModel - INFO - Train nll is -0.362738151550293
+2023-11-07 20:31:13,134 - TrainModel - INFO - Train total_loss is -0.362738151550293
+2023-11-07 20:31:13,134 - TrainModel - INFO - Train mean_probability is 5.0969091796875
+2023-11-07 20:31:13,135 - TrainModel - INFO - Epoch 360/250, learning rate = 0.000008
+2023-11-07 20:31:13,135 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:32:02,356 - TrainModel - INFO - Train nll is -0.4874547576904297
+2023-11-07 20:32:02,356 - TrainModel - INFO - Train total_loss is -0.4874547576904297
+2023-11-07 20:32:02,356 - TrainModel - INFO - Train mean_probability is 5.740162963867188
+2023-11-07 20:32:02,357 - TrainModel - INFO - Epoch 361/250, learning rate = 0.000008
+2023-11-07 20:32:02,357 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:32:51,449 - TrainModel - INFO - Train nll is -0.4210165023803711
+2023-11-07 20:32:51,449 - TrainModel - INFO - Train total_loss is -0.4210165023803711
+2023-11-07 20:32:51,449 - TrainModel - INFO - Train mean_probability is 5.071636047363281
+2023-11-07 20:32:51,450 - TrainModel - INFO - Epoch 362/250, learning rate = 0.000008
+2023-11-07 20:32:51,450 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:33:40,569 - TrainModel - INFO - Train nll is -0.4051951217651367
+2023-11-07 20:33:40,569 - TrainModel - INFO - Train total_loss is -0.4051951217651367
+2023-11-07 20:33:40,569 - TrainModel - INFO - Train mean_probability is 5.694450073242187
+2023-11-07 20:33:40,569 - TrainModel - INFO - Epoch 363/250, learning rate = 0.000008
+2023-11-07 20:33:40,569 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:34:29,819 - TrainModel - INFO - Train nll is -0.4420088958740234
+2023-11-07 20:34:29,819 - TrainModel - INFO - Train total_loss is -0.4420088958740234
+2023-11-07 20:34:29,819 - TrainModel - INFO - Train mean_probability is 5.82535888671875
+2023-11-07 20:34:29,820 - TrainModel - INFO - Epoch 364/250, learning rate = 0.000008
+2023-11-07 20:34:29,820 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:35:19,168 - TrainModel - INFO - Train nll is -0.4065886688232422
+2023-11-07 20:35:19,168 - TrainModel - INFO - Train total_loss is -0.4065886688232422
+2023-11-07 20:35:19,168 - TrainModel - INFO - Train mean_probability is 5.0327847290039065
+2023-11-07 20:35:19,169 - TrainModel - INFO - Epoch 365/250, learning rate = 0.000008
+2023-11-07 20:35:19,169 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:36:08,168 - TrainModel - INFO - Train nll is -0.44427101135253905
+2023-11-07 20:36:08,168 - TrainModel - INFO - Train total_loss is -0.44427101135253905
+2023-11-07 20:36:08,168 - TrainModel - INFO - Train mean_probability is 6.035758056640625
+2023-11-07 20:36:08,168 - TrainModel - INFO - Epoch 366/250, learning rate = 0.000008
+2023-11-07 20:36:08,168 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:36:57,286 - TrainModel - INFO - Train nll is -0.4011364364624023
+2023-11-07 20:36:57,286 - TrainModel - INFO - Train total_loss is -0.4011364364624023
+2023-11-07 20:36:57,286 - TrainModel - INFO - Train mean_probability is 5.37871826171875
+2023-11-07 20:36:57,287 - TrainModel - INFO - Epoch 367/250, learning rate = 0.000008
+2023-11-07 20:36:57,287 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:37:46,364 - TrainModel - INFO - Train nll is -0.3745408630371094
+2023-11-07 20:37:46,364 - TrainModel - INFO - Train total_loss is -0.3745408630371094
+2023-11-07 20:37:46,364 - TrainModel - INFO - Train mean_probability is 5.07562255859375
+2023-11-07 20:37:46,365 - TrainModel - INFO - Epoch 368/250, learning rate = 0.000008
+2023-11-07 20:37:46,365 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:38:35,385 - TrainModel - INFO - Train nll is -0.3892137908935547
+2023-11-07 20:38:35,385 - TrainModel - INFO - Train total_loss is -0.3892137908935547
+2023-11-07 20:38:35,385 - TrainModel - INFO - Train mean_probability is 5.501964111328125
+2023-11-07 20:38:35,386 - TrainModel - INFO - Epoch 369/250, learning rate = 0.000008
+2023-11-07 20:38:35,386 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:39:24,651 - TrainModel - INFO - Train nll is -0.42308788299560546
+2023-11-07 20:39:24,652 - TrainModel - INFO - Train total_loss is -0.42308788299560546
+2023-11-07 20:39:24,652 - TrainModel - INFO - Train mean_probability is 5.297861938476562
+2023-11-07 20:39:24,652 - TrainModel - INFO - Epoch 370/250, learning rate = 0.000008
+2023-11-07 20:39:24,652 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:40:13,904 - TrainModel - INFO - Train nll is -0.417021484375
+2023-11-07 20:40:13,904 - TrainModel - INFO - Train total_loss is -0.417021484375
+2023-11-07 20:40:13,904 - TrainModel - INFO - Train mean_probability is 5.6488409423828125
+2023-11-07 20:40:13,905 - TrainModel - INFO - Epoch 371/250, learning rate = 0.000008
+2023-11-07 20:40:13,905 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:41:03,155 - TrainModel - INFO - Train nll is -0.496968994140625
+2023-11-07 20:41:03,155 - TrainModel - INFO - Train total_loss is -0.496968994140625
+2023-11-07 20:41:03,155 - TrainModel - INFO - Train mean_probability is 5.908265991210937
+2023-11-07 20:41:03,156 - TrainModel - INFO - Epoch 372/250, learning rate = 0.000008
+2023-11-07 20:41:03,156 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:41:52,199 - TrainModel - INFO - Train nll is -0.4401226806640625
+2023-11-07 20:41:52,199 - TrainModel - INFO - Train total_loss is -0.4401226806640625
+2023-11-07 20:41:52,199 - TrainModel - INFO - Train mean_probability is 5.526771240234375
+2023-11-07 20:41:52,199 - TrainModel - INFO - Epoch 373/250, learning rate = 0.000008
+2023-11-07 20:41:52,199 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:42:41,336 - TrainModel - INFO - Train nll is -0.4310398864746094
+2023-11-07 20:42:41,336 - TrainModel - INFO - Train total_loss is -0.4310398864746094
+2023-11-07 20:42:41,336 - TrainModel - INFO - Train mean_probability is 5.524890747070312
+2023-11-07 20:42:41,337 - TrainModel - INFO - Epoch 374/250, learning rate = 0.000008
+2023-11-07 20:42:41,337 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:43:30,466 - TrainModel - INFO - Train nll is -0.4807514953613281
+2023-11-07 20:43:30,466 - TrainModel - INFO - Train total_loss is -0.4807514953613281
+2023-11-07 20:43:30,466 - TrainModel - INFO - Train mean_probability is 5.720000610351563
+2023-11-07 20:43:30,467 - TrainModel - INFO - Epoch 375/250, learning rate = 0.000008
+2023-11-07 20:43:30,467 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:44:19,651 - TrainModel - INFO - Train nll is -0.38500968933105467
+2023-11-07 20:44:19,651 - TrainModel - INFO - Train total_loss is -0.38500968933105467
+2023-11-07 20:44:19,651 - TrainModel - INFO - Train mean_probability is 5.096954956054687
+2023-11-07 20:44:19,651 - TrainModel - INFO - Epoch 376/250, learning rate = 0.000008
+2023-11-07 20:44:19,651 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:45:08,797 - TrainModel - INFO - Train nll is -0.42312015533447267
+2023-11-07 20:45:08,797 - TrainModel - INFO - Train total_loss is -0.42312015533447267
+2023-11-07 20:45:08,797 - TrainModel - INFO - Train mean_probability is 5.676265258789062
+2023-11-07 20:45:08,798 - TrainModel - INFO - Epoch 377/250, learning rate = 0.000008
+2023-11-07 20:45:08,798 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:45:58,112 - TrainModel - INFO - Train nll is -0.4245266342163086
+2023-11-07 20:45:58,112 - TrainModel - INFO - Train total_loss is -0.4245266342163086
+2023-11-07 20:45:58,112 - TrainModel - INFO - Train mean_probability is 5.384619140625
+2023-11-07 20:45:58,112 - TrainModel - INFO - Epoch 378/250, learning rate = 0.000008
+2023-11-07 20:45:58,112 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:46:47,818 - TrainModel - INFO - Train nll is -0.4000850677490234
+2023-11-07 20:46:47,818 - TrainModel - INFO - Train total_loss is -0.4000850677490234
+2023-11-07 20:46:47,818 - TrainModel - INFO - Train mean_probability is 5.778448486328125
+2023-11-07 20:46:47,819 - TrainModel - INFO - Epoch 379/250, learning rate = 0.000008
+2023-11-07 20:46:47,819 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:47:37,854 - TrainModel - INFO - Train nll is -0.43459774017333985
+2023-11-07 20:47:37,854 - TrainModel - INFO - Train total_loss is -0.43459774017333985
+2023-11-07 20:47:37,854 - TrainModel - INFO - Train mean_probability is 5.58354736328125
+2023-11-07 20:47:37,855 - TrainModel - INFO - Epoch 380/250, learning rate = 0.000008
+2023-11-07 20:47:37,855 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:48:27,423 - TrainModel - INFO - Train nll is -0.43920001983642576
+2023-11-07 20:48:27,424 - TrainModel - INFO - Train total_loss is -0.43920001983642576
+2023-11-07 20:48:27,424 - TrainModel - INFO - Train mean_probability is 6.123848266601563
+2023-11-07 20:48:27,424 - TrainModel - INFO - Epoch 381/250, learning rate = 0.000008
+2023-11-07 20:48:27,424 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:49:16,886 - TrainModel - INFO - Train nll is -0.432582893371582
+2023-11-07 20:49:16,887 - TrainModel - INFO - Train total_loss is -0.432582893371582
+2023-11-07 20:49:16,887 - TrainModel - INFO - Train mean_probability is 5.57927490234375
+2023-11-07 20:49:16,887 - TrainModel - INFO - Epoch 382/250, learning rate = 0.000008
+2023-11-07 20:49:16,887 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:50:06,325 - TrainModel - INFO - Train nll is -0.4607959747314453
+2023-11-07 20:50:06,325 - TrainModel - INFO - Train total_loss is -0.4607959747314453
+2023-11-07 20:50:06,325 - TrainModel - INFO - Train mean_probability is 5.460966796875
+2023-11-07 20:50:06,326 - TrainModel - INFO - Epoch 383/250, learning rate = 0.000008
+2023-11-07 20:50:06,326 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:50:55,629 - TrainModel - INFO - Train nll is -0.4728086853027344
+2023-11-07 20:50:55,629 - TrainModel - INFO - Train total_loss is -0.4728086853027344
+2023-11-07 20:50:55,629 - TrainModel - INFO - Train mean_probability is 5.738175659179688
+2023-11-07 20:50:55,630 - TrainModel - INFO - Epoch 384/250, learning rate = 0.000008
+2023-11-07 20:50:55,630 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:51:44,950 - TrainModel - INFO - Train nll is -0.43388832092285157
+2023-11-07 20:51:44,950 - TrainModel - INFO - Train total_loss is -0.43388832092285157
+2023-11-07 20:51:44,950 - TrainModel - INFO - Train mean_probability is 5.290439453125
+2023-11-07 20:51:44,951 - TrainModel - INFO - Epoch 385/250, learning rate = 0.000008
+2023-11-07 20:51:44,951 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:52:34,381 - TrainModel - INFO - Train nll is -0.4426657485961914
+2023-11-07 20:52:34,381 - TrainModel - INFO - Train total_loss is -0.4426657485961914
+2023-11-07 20:52:34,381 - TrainModel - INFO - Train mean_probability is 5.552479248046875
+2023-11-07 20:52:34,381 - TrainModel - INFO - Epoch 386/250, learning rate = 0.000008
+2023-11-07 20:52:34,381 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:53:24,038 - TrainModel - INFO - Train nll is -0.4503462600708008
+2023-11-07 20:53:24,038 - TrainModel - INFO - Train total_loss is -0.4503462600708008
+2023-11-07 20:53:24,038 - TrainModel - INFO - Train mean_probability is 5.22189208984375
+2023-11-07 20:53:24,039 - TrainModel - INFO - Epoch 387/250, learning rate = 0.000008
+2023-11-07 20:53:24,039 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:54:13,317 - TrainModel - INFO - Train nll is -0.4876668930053711
+2023-11-07 20:54:13,318 - TrainModel - INFO - Train total_loss is -0.4876668930053711
+2023-11-07 20:54:13,318 - TrainModel - INFO - Train mean_probability is 5.856318359375
+2023-11-07 20:54:13,318 - TrainModel - INFO - Epoch 388/250, learning rate = 0.000008
+2023-11-07 20:54:13,318 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:55:02,877 - TrainModel - INFO - Train nll is -0.4163812255859375
+2023-11-07 20:55:02,877 - TrainModel - INFO - Train total_loss is -0.4163812255859375
+2023-11-07 20:55:02,877 - TrainModel - INFO - Train mean_probability is 5.211092529296875
+2023-11-07 20:55:02,877 - TrainModel - INFO - Epoch 389/250, learning rate = 0.000008
+2023-11-07 20:55:02,877 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:55:52,456 - TrainModel - INFO - Train nll is -0.3346190643310547
+2023-11-07 20:55:52,456 - TrainModel - INFO - Train total_loss is -0.3346190643310547
+2023-11-07 20:55:52,456 - TrainModel - INFO - Train mean_probability is 4.89880859375
+2023-11-07 20:55:52,456 - TrainModel - INFO - Epoch 390/250, learning rate = 0.000008
+2023-11-07 20:55:52,457 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:56:41,887 - TrainModel - INFO - Train nll is -0.4612783050537109
+2023-11-07 20:56:41,887 - TrainModel - INFO - Train total_loss is -0.4612783050537109
+2023-11-07 20:56:41,887 - TrainModel - INFO - Train mean_probability is 5.562528076171875
+2023-11-07 20:56:41,887 - TrainModel - INFO - Epoch 391/250, learning rate = 0.000008
+2023-11-07 20:56:41,888 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:57:30,970 - TrainModel - INFO - Train nll is -0.38679492950439454
+2023-11-07 20:57:30,971 - TrainModel - INFO - Train total_loss is -0.38679492950439454
+2023-11-07 20:57:30,971 - TrainModel - INFO - Train mean_probability is 5.413489990234375
+2023-11-07 20:57:30,971 - TrainModel - INFO - Epoch 392/250, learning rate = 0.000008
+2023-11-07 20:57:30,971 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:58:20,020 - TrainModel - INFO - Train nll is -0.44449729919433595
+2023-11-07 20:58:20,020 - TrainModel - INFO - Train total_loss is -0.44449729919433595
+2023-11-07 20:58:20,020 - TrainModel - INFO - Train mean_probability is 5.201297607421875
+2023-11-07 20:58:20,020 - TrainModel - INFO - Epoch 393/250, learning rate = 0.000008
+2023-11-07 20:58:20,021 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:59:08,916 - TrainModel - INFO - Train nll is -0.49402095794677736
+2023-11-07 20:59:08,917 - TrainModel - INFO - Train total_loss is -0.49402095794677736
+2023-11-07 20:59:08,917 - TrainModel - INFO - Train mean_probability is 6.0280322265625
+2023-11-07 20:59:08,917 - TrainModel - INFO - Epoch 394/250, learning rate = 0.000008
+2023-11-07 20:59:08,917 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 20:59:57,892 - TrainModel - INFO - Train nll is -0.40762111663818357
+2023-11-07 20:59:57,892 - TrainModel - INFO - Train total_loss is -0.40762111663818357
+2023-11-07 20:59:57,892 - TrainModel - INFO - Train mean_probability is 5.7877264404296875
+2023-11-07 20:59:57,893 - TrainModel - INFO - Epoch 395/250, learning rate = 0.000008
+2023-11-07 20:59:57,893 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:00:46,887 - TrainModel - INFO - Train nll is -0.5084423828125
+2023-11-07 21:00:46,887 - TrainModel - INFO - Train total_loss is -0.5084423828125
+2023-11-07 21:00:46,887 - TrainModel - INFO - Train mean_probability is 5.823932495117187
+2023-11-07 21:00:46,888 - TrainModel - INFO - Epoch 396/250, learning rate = 0.000008
+2023-11-07 21:00:46,888 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:01:35,986 - TrainModel - INFO - Train nll is -0.4644754791259766
+2023-11-07 21:01:35,987 - TrainModel - INFO - Train total_loss is -0.4644754791259766
+2023-11-07 21:01:35,987 - TrainModel - INFO - Train mean_probability is 6.05594970703125
+2023-11-07 21:01:35,987 - TrainModel - INFO - Epoch 397/250, learning rate = 0.000008
+2023-11-07 21:01:35,987 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:02:24,922 - TrainModel - INFO - Train nll is -0.4412340927124023
+2023-11-07 21:02:24,922 - TrainModel - INFO - Train total_loss is -0.4412340927124023
+2023-11-07 21:02:24,922 - TrainModel - INFO - Train mean_probability is 5.349278564453125
+2023-11-07 21:02:24,923 - TrainModel - INFO - Epoch 398/250, learning rate = 0.000008
+2023-11-07 21:02:24,923 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:03:13,842 - TrainModel - INFO - Train nll is -0.4844833755493164
+2023-11-07 21:03:13,842 - TrainModel - INFO - Train total_loss is -0.4844833755493164
+2023-11-07 21:03:13,842 - TrainModel - INFO - Train mean_probability is 6.01476318359375
+2023-11-07 21:03:13,843 - TrainModel - INFO - Epoch 399/250, learning rate = 0.000008
+2023-11-07 21:03:13,843 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:04:02,871 - TrainModel - INFO - Train nll is -0.45096115112304686
+2023-11-07 21:04:02,871 - TrainModel - INFO - Train total_loss is -0.45096115112304686
+2023-11-07 21:04:02,871 - TrainModel - INFO - Train mean_probability is 5.66584716796875
+2023-11-07 21:04:02,872 - TrainModel - INFO - Epoch 400/250, learning rate = 0.000008
+2023-11-07 21:04:02,872 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:04:51,849 - TrainModel - INFO - Train nll is -0.4960677719116211
+2023-11-07 21:04:51,849 - TrainModel - INFO - Train total_loss is -0.4960677719116211
+2023-11-07 21:04:51,849 - TrainModel - INFO - Train mean_probability is 5.897922973632813
+2023-11-07 21:04:51,850 - TrainModel - INFO - Epoch 401/250, learning rate = 0.000008
+2023-11-07 21:04:51,850 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:04:51,868 - TrainModel - INFO - Saving model at epoch 401, path ./ipdf_train/ckpt/model_000401.pt
+2023-11-07 21:05:40,820 - TrainModel - INFO - Train nll is -0.40236934661865237
+2023-11-07 21:05:40,820 - TrainModel - INFO - Train total_loss is -0.40236934661865237
+2023-11-07 21:05:40,820 - TrainModel - INFO - Train mean_probability is 5.540523681640625
+2023-11-07 21:05:40,820 - TrainModel - INFO - Epoch 402/250, learning rate = 0.000008
+2023-11-07 21:05:40,820 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:06:29,870 - TrainModel - INFO - Train nll is -0.4320226669311523
+2023-11-07 21:06:29,870 - TrainModel - INFO - Train total_loss is -0.4320226669311523
+2023-11-07 21:06:29,870 - TrainModel - INFO - Train mean_probability is 5.256030883789062
+2023-11-07 21:06:29,871 - TrainModel - INFO - Epoch 403/250, learning rate = 0.000008
+2023-11-07 21:06:29,871 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:07:18,820 - TrainModel - INFO - Train nll is -0.4304547500610352
+2023-11-07 21:07:18,820 - TrainModel - INFO - Train total_loss is -0.4304547500610352
+2023-11-07 21:07:18,820 - TrainModel - INFO - Train mean_probability is 5.10228271484375
+2023-11-07 21:07:18,820 - TrainModel - INFO - Epoch 404/250, learning rate = 0.000008
+2023-11-07 21:07:18,820 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:08:07,825 - TrainModel - INFO - Train nll is -0.46981708526611327
+2023-11-07 21:08:07,825 - TrainModel - INFO - Train total_loss is -0.46981708526611327
+2023-11-07 21:08:07,825 - TrainModel - INFO - Train mean_probability is 5.5185308837890625
+2023-11-07 21:08:07,826 - TrainModel - INFO - Epoch 405/250, learning rate = 0.000008
+2023-11-07 21:08:07,826 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:08:56,786 - TrainModel - INFO - Train nll is -0.41008331298828127
+2023-11-07 21:08:56,786 - TrainModel - INFO - Train total_loss is -0.41008331298828127
+2023-11-07 21:08:56,786 - TrainModel - INFO - Train mean_probability is 5.645186767578125
+2023-11-07 21:08:56,787 - TrainModel - INFO - Epoch 406/250, learning rate = 0.000008
+2023-11-07 21:08:56,787 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:09:45,733 - TrainModel - INFO - Train nll is -0.4051560974121094
+2023-11-07 21:09:45,733 - TrainModel - INFO - Train total_loss is -0.4051560974121094
+2023-11-07 21:09:45,733 - TrainModel - INFO - Train mean_probability is 5.629899291992188
+2023-11-07 21:09:45,734 - TrainModel - INFO - Epoch 407/250, learning rate = 0.000008
+2023-11-07 21:09:45,734 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:10:34,668 - TrainModel - INFO - Train nll is -0.4277388763427734
+2023-11-07 21:10:34,668 - TrainModel - INFO - Train total_loss is -0.4277388763427734
+2023-11-07 21:10:34,668 - TrainModel - INFO - Train mean_probability is 5.50203369140625
+2023-11-07 21:10:34,668 - TrainModel - INFO - Epoch 408/250, learning rate = 0.000008
+2023-11-07 21:10:34,668 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:11:23,726 - TrainModel - INFO - Train nll is -0.4350734710693359
+2023-11-07 21:11:23,726 - TrainModel - INFO - Train total_loss is -0.4350734710693359
+2023-11-07 21:11:23,726 - TrainModel - INFO - Train mean_probability is 5.526978759765625
+2023-11-07 21:11:23,726 - TrainModel - INFO - Epoch 409/250, learning rate = 0.000008
+2023-11-07 21:11:23,726 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:12:12,717 - TrainModel - INFO - Train nll is -0.3946552276611328
+2023-11-07 21:12:12,717 - TrainModel - INFO - Train total_loss is -0.3946552276611328
+2023-11-07 21:12:12,717 - TrainModel - INFO - Train mean_probability is 5.470791625976562
+2023-11-07 21:12:12,717 - TrainModel - INFO - Epoch 410/250, learning rate = 0.000008
+2023-11-07 21:12:12,717 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:13:01,676 - TrainModel - INFO - Train nll is -0.4135594940185547
+2023-11-07 21:13:01,677 - TrainModel - INFO - Train total_loss is -0.4135594940185547
+2023-11-07 21:13:01,677 - TrainModel - INFO - Train mean_probability is 5.67021484375
+2023-11-07 21:13:01,677 - TrainModel - INFO - Epoch 411/250, learning rate = 0.000008
+2023-11-07 21:13:01,677 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:13:51,114 - TrainModel - INFO - Train nll is -0.38398525238037107
+2023-11-07 21:13:51,114 - TrainModel - INFO - Train total_loss is -0.38398525238037107
+2023-11-07 21:13:51,114 - TrainModel - INFO - Train mean_probability is 4.560642395019531
+2023-11-07 21:13:51,115 - TrainModel - INFO - Epoch 412/250, learning rate = 0.000008
+2023-11-07 21:13:51,115 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-07 21:14:13,528 - TrainModel - INFO - Saving model at epoch 412, path ./ipdf_train/ckpt/model_000412.pt
+2023-11-14 20:44:57,022 - TrainModel - INFO - Resume from epoch 412
+2023-11-14 20:44:57,085 - TrainModel - INFO - Saving model at epoch 412, path ./ipdf_train/ckpt/model_000412.pt
+2023-11-14 20:45:14,783 - TrainModel - INFO - Resume from epoch 412
+2023-11-14 20:45:14,823 - TrainModel - INFO - Saving model at epoch 412, path ./ipdf_train/ckpt/model_000412.pt
+2023-11-14 20:45:45,793 - TrainModel - INFO - Resume from epoch 412
+2023-11-14 20:45:45,829 - TrainModel - INFO - Saving model at epoch 412, path ./ipdf_train/ckpt/model_000412.pt
+2023-11-14 20:59:07,289 - TrainModel - INFO - Resume from epoch 412
+2023-11-14 20:59:18,321 - TrainModel - INFO - Saving model at epoch 412, path ./ipdf_train/ckpt/model_000412.pt
+2023-11-14 20:59:44,395 - TrainModel - INFO - Resume from epoch 412
+2023-11-14 20:59:44,420 - TrainModel - INFO - Saving model at epoch 412, path ./ipdf_train/ckpt/model_000412.pt

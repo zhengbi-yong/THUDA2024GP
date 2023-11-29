@@ -1,0 +1,2045 @@
+2023-11-06 20:51:37,165 - TrainModel - INFO - Initialize from 0
+2023-11-18 16:18:56,502 - TrainModel - INFO - Initialize from 0
+2023-11-18 16:23:20,969 - TrainModel - INFO - Initialize from 0
+2023-11-18 16:23:44,225 - TrainModel - INFO - Initialize from 0
+2023-11-18 16:23:57,374 - TrainModel - INFO - Train nll is 539.7077734375
+2023-11-18 16:23:57,374 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:23:57,374 - TrainModel - INFO - Train total_loss is 539.7077734375
+2023-11-18 16:23:57,375 - TrainModel - INFO - Epoch 2/250, learning rate = 0.001000
+2023-11-18 16:23:57,375 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:24:08,920 - TrainModel - INFO - Train nll is 369.1190625
+2023-11-18 16:24:08,921 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:24:08,921 - TrainModel - INFO - Train total_loss is 369.1190625
+2023-11-18 16:24:08,921 - TrainModel - INFO - Epoch 3/250, learning rate = 0.001000
+2023-11-18 16:24:08,921 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:24:20,533 - TrainModel - INFO - Train nll is 271.492890625
+2023-11-18 16:24:20,533 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:24:20,533 - TrainModel - INFO - Train total_loss is 271.492890625
+2023-11-18 16:24:20,534 - TrainModel - INFO - Epoch 4/250, learning rate = 0.001000
+2023-11-18 16:24:20,534 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:24:32,125 - TrainModel - INFO - Train nll is 191.30359375
+2023-11-18 16:24:32,125 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:24:32,125 - TrainModel - INFO - Train total_loss is 191.30359375
+2023-11-18 16:24:32,126 - TrainModel - INFO - Epoch 5/250, learning rate = 0.001000
+2023-11-18 16:24:32,126 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:24:43,761 - TrainModel - INFO - Train nll is 117.367255859375
+2023-11-18 16:24:43,761 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:24:43,761 - TrainModel - INFO - Train total_loss is 117.367255859375
+2023-11-18 16:24:43,761 - TrainModel - INFO - Epoch 6/250, learning rate = 0.001000
+2023-11-18 16:24:43,761 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:24:55,394 - TrainModel - INFO - Train nll is 58.9700634765625
+2023-11-18 16:24:55,394 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:24:55,394 - TrainModel - INFO - Train total_loss is 58.9700634765625
+2023-11-18 16:24:55,395 - TrainModel - INFO - Epoch 7/250, learning rate = 0.001000
+2023-11-18 16:24:55,395 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:25:06,966 - TrainModel - INFO - Train nll is 18.807626953125
+2023-11-18 16:25:06,966 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:25:06,966 - TrainModel - INFO - Train total_loss is 18.807626953125
+2023-11-18 16:25:06,966 - TrainModel - INFO - Epoch 8/250, learning rate = 0.001000
+2023-11-18 16:25:06,966 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:25:18,623 - TrainModel - INFO - Train nll is 2.6889474487304685
+2023-11-18 16:25:18,623 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:25:18,623 - TrainModel - INFO - Train total_loss is 2.6889474487304685
+2023-11-18 16:25:18,624 - TrainModel - INFO - Epoch 9/250, learning rate = 0.001000
+2023-11-18 16:25:18,624 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:25:30,431 - TrainModel - INFO - Train nll is -5.047444152832031
+2023-11-18 16:25:30,431 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:25:30,431 - TrainModel - INFO - Train total_loss is -5.047444152832031
+2023-11-18 16:25:30,431 - TrainModel - INFO - Epoch 10/250, learning rate = 0.001000
+2023-11-18 16:25:30,431 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:25:42,067 - TrainModel - INFO - Train nll is -7.2798919677734375
+2023-11-18 16:25:42,067 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:25:42,067 - TrainModel - INFO - Train total_loss is -7.2798919677734375
+2023-11-18 16:25:42,067 - TrainModel - INFO - Epoch 11/250, learning rate = 0.001000
+2023-11-18 16:25:42,068 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:25:53,747 - TrainModel - INFO - Train nll is -8.808899536132813
+2023-11-18 16:25:53,747 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:25:53,747 - TrainModel - INFO - Train total_loss is -8.808899536132813
+2023-11-18 16:25:53,748 - TrainModel - INFO - Epoch 12/250, learning rate = 0.001000
+2023-11-18 16:25:53,748 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:26:05,393 - TrainModel - INFO - Train nll is -11.327235107421876
+2023-11-18 16:26:05,393 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:26:05,393 - TrainModel - INFO - Train total_loss is -11.327235107421876
+2023-11-18 16:26:05,393 - TrainModel - INFO - Epoch 13/250, learning rate = 0.001000
+2023-11-18 16:26:05,393 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:26:17,071 - TrainModel - INFO - Train nll is -11.62409423828125
+2023-11-18 16:26:17,071 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:26:17,071 - TrainModel - INFO - Train total_loss is -11.62409423828125
+2023-11-18 16:26:17,072 - TrainModel - INFO - Epoch 14/250, learning rate = 0.001000
+2023-11-18 16:26:17,072 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:26:28,722 - TrainModel - INFO - Train nll is -12.081368408203126
+2023-11-18 16:26:28,722 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:26:28,722 - TrainModel - INFO - Train total_loss is -12.081368408203126
+2023-11-18 16:26:28,723 - TrainModel - INFO - Epoch 15/250, learning rate = 0.001000
+2023-11-18 16:26:28,723 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:26:40,557 - TrainModel - INFO - Train nll is -12.765804443359375
+2023-11-18 16:26:40,557 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:26:40,557 - TrainModel - INFO - Train total_loss is -12.765804443359375
+2023-11-18 16:26:40,558 - TrainModel - INFO - Epoch 16/250, learning rate = 0.001000
+2023-11-18 16:26:40,558 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:26:52,257 - TrainModel - INFO - Train nll is -12.8498388671875
+2023-11-18 16:26:52,257 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:26:52,257 - TrainModel - INFO - Train total_loss is -12.8498388671875
+2023-11-18 16:26:52,258 - TrainModel - INFO - Epoch 17/250, learning rate = 0.001000
+2023-11-18 16:26:52,258 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:27:03,944 - TrainModel - INFO - Train nll is -12.84190673828125
+2023-11-18 16:27:03,944 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:27:03,944 - TrainModel - INFO - Train total_loss is -12.84190673828125
+2023-11-18 16:27:03,944 - TrainModel - INFO - Epoch 18/250, learning rate = 0.001000
+2023-11-18 16:27:03,945 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:27:15,559 - TrainModel - INFO - Train nll is -13.25951904296875
+2023-11-18 16:27:15,559 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:27:15,559 - TrainModel - INFO - Train total_loss is -13.25951904296875
+2023-11-18 16:27:15,559 - TrainModel - INFO - Epoch 19/250, learning rate = 0.001000
+2023-11-18 16:27:15,559 - TrainModel - INFO - BN momentum updated to 0.100000
+2023-11-18 16:27:27,187 - TrainModel - INFO - Train nll is -14.09169677734375
+2023-11-18 16:27:27,187 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:27:27,187 - TrainModel - INFO - Train total_loss is -14.09169677734375
+2023-11-18 16:27:27,188 - TrainModel - INFO - Epoch 20/250, learning rate = 0.001000
+2023-11-18 16:27:27,188 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:27:38,806 - TrainModel - INFO - Train nll is -13.877569580078125
+2023-11-18 16:27:38,807 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:27:38,807 - TrainModel - INFO - Train total_loss is -13.877569580078125
+2023-11-18 16:27:38,807 - TrainModel - INFO - Epoch 21/250, learning rate = 0.001000
+2023-11-18 16:27:38,807 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:27:50,383 - TrainModel - INFO - Train nll is -12.978311767578125
+2023-11-18 16:27:50,384 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:27:50,384 - TrainModel - INFO - Train total_loss is -12.978311767578125
+2023-11-18 16:27:50,384 - TrainModel - INFO - Epoch 22/250, learning rate = 0.001000
+2023-11-18 16:27:50,384 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:28:01,987 - TrainModel - INFO - Train nll is -14.938414306640626
+2023-11-18 16:28:01,987 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:28:01,987 - TrainModel - INFO - Train total_loss is -14.938414306640626
+2023-11-18 16:28:01,988 - TrainModel - INFO - Epoch 23/250, learning rate = 0.001000
+2023-11-18 16:28:01,988 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:28:13,585 - TrainModel - INFO - Train nll is -15.07740478515625
+2023-11-18 16:28:13,585 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:28:13,585 - TrainModel - INFO - Train total_loss is -15.07740478515625
+2023-11-18 16:28:13,586 - TrainModel - INFO - Epoch 24/250, learning rate = 0.001000
+2023-11-18 16:28:13,586 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:28:25,201 - TrainModel - INFO - Train nll is -14.0758349609375
+2023-11-18 16:28:25,202 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:28:25,202 - TrainModel - INFO - Train total_loss is -14.0758349609375
+2023-11-18 16:28:25,202 - TrainModel - INFO - Epoch 25/250, learning rate = 0.001000
+2023-11-18 16:28:25,202 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:28:36,832 - TrainModel - INFO - Train nll is -15.58125244140625
+2023-11-18 16:28:36,832 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:28:36,832 - TrainModel - INFO - Train total_loss is -15.58125244140625
+2023-11-18 16:28:36,833 - TrainModel - INFO - Epoch 26/250, learning rate = 0.001000
+2023-11-18 16:28:36,833 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:28:48,361 - TrainModel - INFO - Train nll is -14.54647705078125
+2023-11-18 16:28:48,362 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:28:48,362 - TrainModel - INFO - Train total_loss is -14.54647705078125
+2023-11-18 16:28:48,362 - TrainModel - INFO - Epoch 27/250, learning rate = 0.001000
+2023-11-18 16:28:48,362 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:28:59,998 - TrainModel - INFO - Train nll is -15.196566162109375
+2023-11-18 16:28:59,998 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:28:59,999 - TrainModel - INFO - Train total_loss is -15.196566162109375
+2023-11-18 16:28:59,999 - TrainModel - INFO - Epoch 28/250, learning rate = 0.001000
+2023-11-18 16:28:59,999 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:29:11,585 - TrainModel - INFO - Train nll is -15.074239501953125
+2023-11-18 16:29:11,585 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:29:11,585 - TrainModel - INFO - Train total_loss is -15.074239501953125
+2023-11-18 16:29:11,586 - TrainModel - INFO - Epoch 29/250, learning rate = 0.001000
+2023-11-18 16:29:11,586 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:29:23,419 - TrainModel - INFO - Train nll is -15.4176708984375
+2023-11-18 16:29:23,420 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:29:23,420 - TrainModel - INFO - Train total_loss is -15.4176708984375
+2023-11-18 16:29:23,420 - TrainModel - INFO - Epoch 30/250, learning rate = 0.001000
+2023-11-18 16:29:23,420 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:29:35,475 - TrainModel - INFO - Train nll is -15.608194580078125
+2023-11-18 16:29:35,475 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:29:35,475 - TrainModel - INFO - Train total_loss is -15.608194580078125
+2023-11-18 16:29:35,475 - TrainModel - INFO - Epoch 31/250, learning rate = 0.001000
+2023-11-18 16:29:35,475 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:29:47,366 - TrainModel - INFO - Train nll is -15.52139404296875
+2023-11-18 16:29:47,366 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:29:47,366 - TrainModel - INFO - Train total_loss is -15.52139404296875
+2023-11-18 16:29:47,366 - TrainModel - INFO - Epoch 32/250, learning rate = 0.001000
+2023-11-18 16:29:47,366 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:29:59,408 - TrainModel - INFO - Train nll is -15.092822265625
+2023-11-18 16:29:59,408 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:29:59,408 - TrainModel - INFO - Train total_loss is -15.092822265625
+2023-11-18 16:29:59,409 - TrainModel - INFO - Epoch 33/250, learning rate = 0.001000
+2023-11-18 16:29:59,409 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:30:11,452 - TrainModel - INFO - Train nll is -16.126033935546875
+2023-11-18 16:30:11,452 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:30:11,452 - TrainModel - INFO - Train total_loss is -16.126033935546875
+2023-11-18 16:30:11,452 - TrainModel - INFO - Epoch 34/250, learning rate = 0.001000
+2023-11-18 16:30:11,452 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:30:23,468 - TrainModel - INFO - Train nll is -16.275372314453126
+2023-11-18 16:30:23,468 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:30:23,468 - TrainModel - INFO - Train total_loss is -16.275372314453126
+2023-11-18 16:30:23,468 - TrainModel - INFO - Epoch 35/250, learning rate = 0.001000
+2023-11-18 16:30:23,469 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:30:35,505 - TrainModel - INFO - Train nll is -15.10257080078125
+2023-11-18 16:30:35,506 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:30:35,506 - TrainModel - INFO - Train total_loss is -15.10257080078125
+2023-11-18 16:30:35,506 - TrainModel - INFO - Epoch 36/250, learning rate = 0.001000
+2023-11-18 16:30:35,506 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:30:47,671 - TrainModel - INFO - Train nll is -15.846585693359375
+2023-11-18 16:30:47,671 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:30:47,671 - TrainModel - INFO - Train total_loss is -15.846585693359375
+2023-11-18 16:30:47,671 - TrainModel - INFO - Epoch 37/250, learning rate = 0.001000
+2023-11-18 16:30:47,672 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:30:59,699 - TrainModel - INFO - Train nll is -16.993160400390625
+2023-11-18 16:30:59,699 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:30:59,699 - TrainModel - INFO - Train total_loss is -16.993160400390625
+2023-11-18 16:30:59,700 - TrainModel - INFO - Epoch 38/250, learning rate = 0.001000
+2023-11-18 16:30:59,700 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:31:11,715 - TrainModel - INFO - Train nll is -16.28133544921875
+2023-11-18 16:31:11,716 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:31:11,716 - TrainModel - INFO - Train total_loss is -16.28133544921875
+2023-11-18 16:31:11,716 - TrainModel - INFO - Epoch 39/250, learning rate = 0.001000
+2023-11-18 16:31:11,716 - TrainModel - INFO - BN momentum updated to 0.050000
+2023-11-18 16:31:23,791 - TrainModel - INFO - Train nll is -16.47156494140625
+2023-11-18 16:31:23,791 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:31:23,791 - TrainModel - INFO - Train total_loss is -16.47156494140625
+2023-11-18 16:31:23,792 - TrainModel - INFO - Epoch 40/250, learning rate = 0.001000
+2023-11-18 16:31:23,792 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:31:35,342 - TrainModel - INFO - Train nll is -16.33342529296875
+2023-11-18 16:31:35,342 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:31:35,342 - TrainModel - INFO - Train total_loss is -16.33342529296875
+2023-11-18 16:31:35,343 - TrainModel - INFO - Epoch 41/250, learning rate = 0.000500
+2023-11-18 16:31:35,343 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:31:47,063 - TrainModel - INFO - Train nll is -18.559410400390625
+2023-11-18 16:31:47,063 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:31:47,063 - TrainModel - INFO - Train total_loss is -18.559410400390625
+2023-11-18 16:31:47,064 - TrainModel - INFO - Epoch 42/250, learning rate = 0.000500
+2023-11-18 16:31:47,064 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:31:58,894 - TrainModel - INFO - Train nll is -18.86981689453125
+2023-11-18 16:31:58,894 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:31:58,894 - TrainModel - INFO - Train total_loss is -18.86981689453125
+2023-11-18 16:31:58,895 - TrainModel - INFO - Epoch 43/250, learning rate = 0.000500
+2023-11-18 16:31:58,895 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:32:10,913 - TrainModel - INFO - Train nll is -19.18152587890625
+2023-11-18 16:32:10,914 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:32:10,914 - TrainModel - INFO - Train total_loss is -19.18152587890625
+2023-11-18 16:32:10,914 - TrainModel - INFO - Epoch 44/250, learning rate = 0.000500
+2023-11-18 16:32:10,914 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:32:22,978 - TrainModel - INFO - Train nll is -19.143712158203126
+2023-11-18 16:32:22,978 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:32:22,978 - TrainModel - INFO - Train total_loss is -19.143712158203126
+2023-11-18 16:32:22,979 - TrainModel - INFO - Epoch 45/250, learning rate = 0.000500
+2023-11-18 16:32:22,979 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:32:35,106 - TrainModel - INFO - Train nll is -19.178597412109376
+2023-11-18 16:32:35,106 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:32:35,106 - TrainModel - INFO - Train total_loss is -19.178597412109376
+2023-11-18 16:32:35,107 - TrainModel - INFO - Epoch 46/250, learning rate = 0.000500
+2023-11-18 16:32:35,107 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:32:47,194 - TrainModel - INFO - Train nll is -19.15678466796875
+2023-11-18 16:32:47,194 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:32:47,194 - TrainModel - INFO - Train total_loss is -19.15678466796875
+2023-11-18 16:32:47,195 - TrainModel - INFO - Epoch 47/250, learning rate = 0.000500
+2023-11-18 16:32:47,195 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:32:59,266 - TrainModel - INFO - Train nll is -19.20393310546875
+2023-11-18 16:32:59,266 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:32:59,266 - TrainModel - INFO - Train total_loss is -19.20393310546875
+2023-11-18 16:32:59,267 - TrainModel - INFO - Epoch 48/250, learning rate = 0.000500
+2023-11-18 16:32:59,267 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:33:11,345 - TrainModel - INFO - Train nll is -18.91216064453125
+2023-11-18 16:33:11,345 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:33:11,345 - TrainModel - INFO - Train total_loss is -18.91216064453125
+2023-11-18 16:33:11,346 - TrainModel - INFO - Epoch 49/250, learning rate = 0.000500
+2023-11-18 16:33:11,346 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:33:23,371 - TrainModel - INFO - Train nll is -19.042784423828124
+2023-11-18 16:33:23,372 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:33:23,372 - TrainModel - INFO - Train total_loss is -19.042784423828124
+2023-11-18 16:33:23,372 - TrainModel - INFO - Epoch 50/250, learning rate = 0.000500
+2023-11-18 16:33:23,372 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:33:35,509 - TrainModel - INFO - Train nll is -19.0633984375
+2023-11-18 16:33:35,510 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:33:35,510 - TrainModel - INFO - Train total_loss is -19.0633984375
+2023-11-18 16:33:35,510 - TrainModel - INFO - Epoch 51/250, learning rate = 0.000500
+2023-11-18 16:33:35,510 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:33:47,644 - TrainModel - INFO - Train nll is -19.1735009765625
+2023-11-18 16:33:47,644 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:33:47,644 - TrainModel - INFO - Train total_loss is -19.1735009765625
+2023-11-18 16:33:47,645 - TrainModel - INFO - Epoch 52/250, learning rate = 0.000500
+2023-11-18 16:33:47,645 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:33:59,760 - TrainModel - INFO - Train nll is -19.290189208984376
+2023-11-18 16:33:59,760 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:33:59,760 - TrainModel - INFO - Train total_loss is -19.290189208984376
+2023-11-18 16:33:59,761 - TrainModel - INFO - Epoch 53/250, learning rate = 0.000500
+2023-11-18 16:33:59,761 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:34:11,786 - TrainModel - INFO - Train nll is -19.321279296875
+2023-11-18 16:34:11,786 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:34:11,786 - TrainModel - INFO - Train total_loss is -19.321279296875
+2023-11-18 16:34:11,786 - TrainModel - INFO - Epoch 54/250, learning rate = 0.000500
+2023-11-18 16:34:11,786 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:34:23,870 - TrainModel - INFO - Train nll is -19.330059814453126
+2023-11-18 16:34:23,871 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:34:23,871 - TrainModel - INFO - Train total_loss is -19.330059814453126
+2023-11-18 16:34:23,871 - TrainModel - INFO - Epoch 55/250, learning rate = 0.000500
+2023-11-18 16:34:23,871 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:34:36,095 - TrainModel - INFO - Train nll is -19.40175048828125
+2023-11-18 16:34:36,096 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:34:36,096 - TrainModel - INFO - Train total_loss is -19.40175048828125
+2023-11-18 16:34:36,096 - TrainModel - INFO - Epoch 56/250, learning rate = 0.000500
+2023-11-18 16:34:36,096 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:34:48,264 - TrainModel - INFO - Train nll is -19.198057861328124
+2023-11-18 16:34:48,264 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:34:48,264 - TrainModel - INFO - Train total_loss is -19.198057861328124
+2023-11-18 16:34:48,265 - TrainModel - INFO - Epoch 57/250, learning rate = 0.000500
+2023-11-18 16:34:48,265 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:35:00,331 - TrainModel - INFO - Train nll is -19.049710693359376
+2023-11-18 16:35:00,331 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:35:00,331 - TrainModel - INFO - Train total_loss is -19.049710693359376
+2023-11-18 16:35:00,331 - TrainModel - INFO - Epoch 58/250, learning rate = 0.000500
+2023-11-18 16:35:00,332 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:35:12,437 - TrainModel - INFO - Train nll is -19.362008056640626
+2023-11-18 16:35:12,437 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:35:12,437 - TrainModel - INFO - Train total_loss is -19.362008056640626
+2023-11-18 16:35:12,438 - TrainModel - INFO - Epoch 59/250, learning rate = 0.000500
+2023-11-18 16:35:12,438 - TrainModel - INFO - BN momentum updated to 0.025000
+2023-11-18 16:35:24,458 - TrainModel - INFO - Train nll is -19.1543359375
+2023-11-18 16:35:24,458 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:35:24,458 - TrainModel - INFO - Train total_loss is -19.1543359375
+2023-11-18 16:35:24,458 - TrainModel - INFO - Epoch 60/250, learning rate = 0.000500
+2023-11-18 16:35:24,458 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:35:36,540 - TrainModel - INFO - Train nll is -19.154586181640624
+2023-11-18 16:35:36,540 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:35:36,541 - TrainModel - INFO - Train total_loss is -19.154586181640624
+2023-11-18 16:35:36,541 - TrainModel - INFO - Epoch 61/250, learning rate = 0.000500
+2023-11-18 16:35:36,541 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:35:48,537 - TrainModel - INFO - Train nll is -19.4519970703125
+2023-11-18 16:35:48,537 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:35:48,537 - TrainModel - INFO - Train total_loss is -19.4519970703125
+2023-11-18 16:35:48,537 - TrainModel - INFO - Epoch 62/250, learning rate = 0.000500
+2023-11-18 16:35:48,538 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:36:00,645 - TrainModel - INFO - Train nll is -19.45307373046875
+2023-11-18 16:36:00,645 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:36:00,645 - TrainModel - INFO - Train total_loss is -19.45307373046875
+2023-11-18 16:36:00,646 - TrainModel - INFO - Epoch 63/250, learning rate = 0.000500
+2023-11-18 16:36:00,646 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:36:12,676 - TrainModel - INFO - Train nll is -19.866162109375
+2023-11-18 16:36:12,676 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:36:12,676 - TrainModel - INFO - Train total_loss is -19.866162109375
+2023-11-18 16:36:12,677 - TrainModel - INFO - Epoch 64/250, learning rate = 0.000500
+2023-11-18 16:36:12,677 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:36:24,760 - TrainModel - INFO - Train nll is -19.7093896484375
+2023-11-18 16:36:24,760 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:36:24,760 - TrainModel - INFO - Train total_loss is -19.7093896484375
+2023-11-18 16:36:24,761 - TrainModel - INFO - Epoch 65/250, learning rate = 0.000500
+2023-11-18 16:36:24,761 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:36:36,843 - TrainModel - INFO - Train nll is -19.646588134765626
+2023-11-18 16:36:36,843 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:36:36,843 - TrainModel - INFO - Train total_loss is -19.646588134765626
+2023-11-18 16:36:36,844 - TrainModel - INFO - Epoch 66/250, learning rate = 0.000500
+2023-11-18 16:36:36,844 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:36:48,830 - TrainModel - INFO - Train nll is -19.78067138671875
+2023-11-18 16:36:48,831 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:36:48,831 - TrainModel - INFO - Train total_loss is -19.78067138671875
+2023-11-18 16:36:48,831 - TrainModel - INFO - Epoch 67/250, learning rate = 0.000500
+2023-11-18 16:36:48,831 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:37:00,881 - TrainModel - INFO - Train nll is -19.798621826171875
+2023-11-18 16:37:00,882 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:37:00,882 - TrainModel - INFO - Train total_loss is -19.798621826171875
+2023-11-18 16:37:00,882 - TrainModel - INFO - Epoch 68/250, learning rate = 0.000500
+2023-11-18 16:37:00,882 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:37:13,020 - TrainModel - INFO - Train nll is -20.126986083984374
+2023-11-18 16:37:13,020 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:37:13,020 - TrainModel - INFO - Train total_loss is -20.126986083984374
+2023-11-18 16:37:13,021 - TrainModel - INFO - Epoch 69/250, learning rate = 0.000500
+2023-11-18 16:37:13,021 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:37:25,129 - TrainModel - INFO - Train nll is -19.880762939453124
+2023-11-18 16:37:25,129 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:37:25,129 - TrainModel - INFO - Train total_loss is -19.880762939453124
+2023-11-18 16:37:25,130 - TrainModel - INFO - Epoch 70/250, learning rate = 0.000500
+2023-11-18 16:37:25,130 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:37:37,402 - TrainModel - INFO - Train nll is -20.249920654296876
+2023-11-18 16:37:37,402 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:37:37,402 - TrainModel - INFO - Train total_loss is -20.249920654296876
+2023-11-18 16:37:37,403 - TrainModel - INFO - Epoch 71/250, learning rate = 0.000500
+2023-11-18 16:37:37,403 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:37:49,602 - TrainModel - INFO - Train nll is -20.413428955078125
+2023-11-18 16:37:49,602 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:37:49,602 - TrainModel - INFO - Train total_loss is -20.413428955078125
+2023-11-18 16:37:49,603 - TrainModel - INFO - Epoch 72/250, learning rate = 0.000500
+2023-11-18 16:37:49,603 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:38:01,893 - TrainModel - INFO - Train nll is -19.890325927734374
+2023-11-18 16:38:01,894 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:38:01,894 - TrainModel - INFO - Train total_loss is -19.890325927734374
+2023-11-18 16:38:01,894 - TrainModel - INFO - Epoch 73/250, learning rate = 0.000500
+2023-11-18 16:38:01,894 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:38:13,836 - TrainModel - INFO - Train nll is -19.986048583984374
+2023-11-18 16:38:13,837 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:38:13,837 - TrainModel - INFO - Train total_loss is -19.986048583984374
+2023-11-18 16:38:13,837 - TrainModel - INFO - Epoch 74/250, learning rate = 0.000500
+2023-11-18 16:38:13,837 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:38:26,033 - TrainModel - INFO - Train nll is -20.248177490234376
+2023-11-18 16:38:26,033 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:38:26,033 - TrainModel - INFO - Train total_loss is -20.248177490234376
+2023-11-18 16:38:26,033 - TrainModel - INFO - Epoch 75/250, learning rate = 0.000500
+2023-11-18 16:38:26,033 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:38:38,204 - TrainModel - INFO - Train nll is -20.08224609375
+2023-11-18 16:38:38,204 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:38:38,204 - TrainModel - INFO - Train total_loss is -20.08224609375
+2023-11-18 16:38:38,205 - TrainModel - INFO - Epoch 76/250, learning rate = 0.000500
+2023-11-18 16:38:38,205 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:38:50,285 - TrainModel - INFO - Train nll is -19.787996826171874
+2023-11-18 16:38:50,286 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:38:50,286 - TrainModel - INFO - Train total_loss is -19.787996826171874
+2023-11-18 16:38:50,286 - TrainModel - INFO - Epoch 77/250, learning rate = 0.000500
+2023-11-18 16:38:50,287 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:39:02,357 - TrainModel - INFO - Train nll is -20.334033203125
+2023-11-18 16:39:02,358 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:39:02,358 - TrainModel - INFO - Train total_loss is -20.334033203125
+2023-11-18 16:39:02,358 - TrainModel - INFO - Epoch 78/250, learning rate = 0.000500
+2023-11-18 16:39:02,358 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:39:14,410 - TrainModel - INFO - Train nll is -20.246837158203125
+2023-11-18 16:39:14,410 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:39:14,410 - TrainModel - INFO - Train total_loss is -20.246837158203125
+2023-11-18 16:39:14,410 - TrainModel - INFO - Epoch 79/250, learning rate = 0.000500
+2023-11-18 16:39:14,410 - TrainModel - INFO - BN momentum updated to 0.012500
+2023-11-18 16:39:26,463 - TrainModel - INFO - Train nll is -20.26251220703125
+2023-11-18 16:39:26,464 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:39:26,464 - TrainModel - INFO - Train total_loss is -20.26251220703125
+2023-11-18 16:39:26,464 - TrainModel - INFO - Epoch 80/250, learning rate = 0.000500
+2023-11-18 16:39:26,464 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:39:38,609 - TrainModel - INFO - Train nll is -20.4909228515625
+2023-11-18 16:39:38,609 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:39:38,609 - TrainModel - INFO - Train total_loss is -20.4909228515625
+2023-11-18 16:39:38,610 - TrainModel - INFO - Epoch 81/250, learning rate = 0.000250
+2023-11-18 16:39:38,610 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:39:50,821 - TrainModel - INFO - Train nll is -21.13423583984375
+2023-11-18 16:39:50,821 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:39:50,821 - TrainModel - INFO - Train total_loss is -21.13423583984375
+2023-11-18 16:39:50,822 - TrainModel - INFO - Epoch 82/250, learning rate = 0.000250
+2023-11-18 16:39:50,822 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:40:02,954 - TrainModel - INFO - Train nll is -21.10362548828125
+2023-11-18 16:40:02,954 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:40:02,954 - TrainModel - INFO - Train total_loss is -21.10362548828125
+2023-11-18 16:40:02,955 - TrainModel - INFO - Epoch 83/250, learning rate = 0.000250
+2023-11-18 16:40:02,955 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:40:15,036 - TrainModel - INFO - Train nll is -21.59686767578125
+2023-11-18 16:40:15,036 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:40:15,036 - TrainModel - INFO - Train total_loss is -21.59686767578125
+2023-11-18 16:40:15,037 - TrainModel - INFO - Epoch 84/250, learning rate = 0.000250
+2023-11-18 16:40:15,037 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:40:27,037 - TrainModel - INFO - Train nll is -21.2277685546875
+2023-11-18 16:40:27,037 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:40:27,037 - TrainModel - INFO - Train total_loss is -21.2277685546875
+2023-11-18 16:40:27,038 - TrainModel - INFO - Epoch 85/250, learning rate = 0.000250
+2023-11-18 16:40:27,038 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:40:39,066 - TrainModel - INFO - Train nll is -21.501484375
+2023-11-18 16:40:39,066 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:40:39,067 - TrainModel - INFO - Train total_loss is -21.501484375
+2023-11-18 16:40:39,067 - TrainModel - INFO - Epoch 86/250, learning rate = 0.000250
+2023-11-18 16:40:39,067 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:40:51,159 - TrainModel - INFO - Train nll is -21.8312841796875
+2023-11-18 16:40:51,159 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:40:51,159 - TrainModel - INFO - Train total_loss is -21.8312841796875
+2023-11-18 16:40:51,160 - TrainModel - INFO - Epoch 87/250, learning rate = 0.000250
+2023-11-18 16:40:51,160 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:41:03,343 - TrainModel - INFO - Train nll is -21.6956884765625
+2023-11-18 16:41:03,343 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:41:03,343 - TrainModel - INFO - Train total_loss is -21.6956884765625
+2023-11-18 16:41:03,344 - TrainModel - INFO - Epoch 88/250, learning rate = 0.000250
+2023-11-18 16:41:03,344 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:41:15,403 - TrainModel - INFO - Train nll is -22.07438720703125
+2023-11-18 16:41:15,403 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:41:15,403 - TrainModel - INFO - Train total_loss is -22.07438720703125
+2023-11-18 16:41:15,404 - TrainModel - INFO - Epoch 89/250, learning rate = 0.000250
+2023-11-18 16:41:15,404 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:41:27,387 - TrainModel - INFO - Train nll is -21.374248046875
+2023-11-18 16:41:27,388 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:41:27,388 - TrainModel - INFO - Train total_loss is -21.374248046875
+2023-11-18 16:41:27,388 - TrainModel - INFO - Epoch 90/250, learning rate = 0.000250
+2023-11-18 16:41:27,388 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:41:39,565 - TrainModel - INFO - Train nll is -21.49843505859375
+2023-11-18 16:41:39,565 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:41:39,565 - TrainModel - INFO - Train total_loss is -21.49843505859375
+2023-11-18 16:41:39,565 - TrainModel - INFO - Epoch 91/250, learning rate = 0.000250
+2023-11-18 16:41:39,565 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:41:51,791 - TrainModel - INFO - Train nll is -21.89728271484375
+2023-11-18 16:41:51,792 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:41:51,792 - TrainModel - INFO - Train total_loss is -21.89728271484375
+2023-11-18 16:41:51,792 - TrainModel - INFO - Epoch 92/250, learning rate = 0.000250
+2023-11-18 16:41:51,792 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:42:03,884 - TrainModel - INFO - Train nll is -22.076396484375
+2023-11-18 16:42:03,884 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:42:03,884 - TrainModel - INFO - Train total_loss is -22.076396484375
+2023-11-18 16:42:03,885 - TrainModel - INFO - Epoch 93/250, learning rate = 0.000250
+2023-11-18 16:42:03,885 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:42:16,188 - TrainModel - INFO - Train nll is -21.71537109375
+2023-11-18 16:42:16,188 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:42:16,188 - TrainModel - INFO - Train total_loss is -21.71537109375
+2023-11-18 16:42:16,189 - TrainModel - INFO - Epoch 94/250, learning rate = 0.000250
+2023-11-18 16:42:16,189 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:42:28,254 - TrainModel - INFO - Train nll is -21.95195556640625
+2023-11-18 16:42:28,254 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:42:28,254 - TrainModel - INFO - Train total_loss is -21.95195556640625
+2023-11-18 16:42:28,255 - TrainModel - INFO - Epoch 95/250, learning rate = 0.000250
+2023-11-18 16:42:28,255 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:42:40,407 - TrainModel - INFO - Train nll is -22.08156005859375
+2023-11-18 16:42:40,407 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:42:40,407 - TrainModel - INFO - Train total_loss is -22.08156005859375
+2023-11-18 16:42:40,408 - TrainModel - INFO - Epoch 96/250, learning rate = 0.000250
+2023-11-18 16:42:40,408 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:42:52,467 - TrainModel - INFO - Train nll is -21.84910888671875
+2023-11-18 16:42:52,467 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:42:52,467 - TrainModel - INFO - Train total_loss is -21.84910888671875
+2023-11-18 16:42:52,468 - TrainModel - INFO - Epoch 97/250, learning rate = 0.000250
+2023-11-18 16:42:52,468 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:43:04,667 - TrainModel - INFO - Train nll is -22.04892822265625
+2023-11-18 16:43:04,667 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:43:04,667 - TrainModel - INFO - Train total_loss is -22.04892822265625
+2023-11-18 16:43:04,668 - TrainModel - INFO - Epoch 98/250, learning rate = 0.000250
+2023-11-18 16:43:04,668 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:43:17,025 - TrainModel - INFO - Train nll is -22.1245458984375
+2023-11-18 16:43:17,025 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:43:17,025 - TrainModel - INFO - Train total_loss is -22.1245458984375
+2023-11-18 16:43:17,025 - TrainModel - INFO - Epoch 99/250, learning rate = 0.000250
+2023-11-18 16:43:17,025 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:43:29,844 - TrainModel - INFO - Train nll is -22.09943359375
+2023-11-18 16:43:29,844 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:43:29,844 - TrainModel - INFO - Train total_loss is -22.09943359375
+2023-11-18 16:43:29,844 - TrainModel - INFO - Epoch 100/250, learning rate = 0.000250
+2023-11-18 16:43:29,845 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:43:41,990 - TrainModel - INFO - Train nll is -22.19851806640625
+2023-11-18 16:43:41,991 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:43:41,991 - TrainModel - INFO - Train total_loss is -22.19851806640625
+2023-11-18 16:43:41,991 - TrainModel - INFO - Epoch 101/250, learning rate = 0.000250
+2023-11-18 16:43:41,991 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:43:42,072 - TrainModel - INFO - Saving model at epoch 101, path ./glow_train/ckpt/model_000101.pt
+2023-11-18 16:43:54,133 - TrainModel - INFO - Train nll is -21.8653515625
+2023-11-18 16:43:54,133 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:43:54,133 - TrainModel - INFO - Train total_loss is -21.8653515625
+2023-11-18 16:43:54,134 - TrainModel - INFO - Epoch 102/250, learning rate = 0.000250
+2023-11-18 16:43:54,134 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:44:06,286 - TrainModel - INFO - Train nll is -22.2191650390625
+2023-11-18 16:44:06,287 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:44:06,287 - TrainModel - INFO - Train total_loss is -22.2191650390625
+2023-11-18 16:44:06,287 - TrainModel - INFO - Epoch 103/250, learning rate = 0.000250
+2023-11-18 16:44:06,287 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:44:19,132 - TrainModel - INFO - Train nll is -22.33893310546875
+2023-11-18 16:44:19,133 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:44:19,133 - TrainModel - INFO - Train total_loss is -22.33893310546875
+2023-11-18 16:44:19,133 - TrainModel - INFO - Epoch 104/250, learning rate = 0.000250
+2023-11-18 16:44:19,133 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:44:31,586 - TrainModel - INFO - Train nll is -22.297216796875
+2023-11-18 16:44:31,587 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:44:31,587 - TrainModel - INFO - Train total_loss is -22.297216796875
+2023-11-18 16:44:31,587 - TrainModel - INFO - Epoch 105/250, learning rate = 0.000250
+2023-11-18 16:44:31,587 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:44:43,757 - TrainModel - INFO - Train nll is -22.042568359375
+2023-11-18 16:44:43,758 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:44:43,758 - TrainModel - INFO - Train total_loss is -22.042568359375
+2023-11-18 16:44:43,758 - TrainModel - INFO - Epoch 106/250, learning rate = 0.000250
+2023-11-18 16:44:43,758 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:44:55,823 - TrainModel - INFO - Train nll is -22.25511962890625
+2023-11-18 16:44:55,823 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:44:55,823 - TrainModel - INFO - Train total_loss is -22.25511962890625
+2023-11-18 16:44:55,824 - TrainModel - INFO - Epoch 107/250, learning rate = 0.000250
+2023-11-18 16:44:55,824 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:45:07,798 - TrainModel - INFO - Train nll is -22.41076904296875
+2023-11-18 16:45:07,799 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:45:07,799 - TrainModel - INFO - Train total_loss is -22.41076904296875
+2023-11-18 16:45:07,799 - TrainModel - INFO - Epoch 108/250, learning rate = 0.000250
+2023-11-18 16:45:07,799 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:45:19,887 - TrainModel - INFO - Train nll is -22.17127197265625
+2023-11-18 16:45:19,887 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:45:19,887 - TrainModel - INFO - Train total_loss is -22.17127197265625
+2023-11-18 16:45:19,887 - TrainModel - INFO - Epoch 109/250, learning rate = 0.000250
+2023-11-18 16:45:19,887 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:45:32,008 - TrainModel - INFO - Train nll is -22.2285791015625
+2023-11-18 16:45:32,008 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:45:32,008 - TrainModel - INFO - Train total_loss is -22.2285791015625
+2023-11-18 16:45:32,008 - TrainModel - INFO - Epoch 110/250, learning rate = 0.000250
+2023-11-18 16:45:32,008 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:45:44,188 - TrainModel - INFO - Train nll is -22.286845703125
+2023-11-18 16:45:44,189 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:45:44,189 - TrainModel - INFO - Train total_loss is -22.286845703125
+2023-11-18 16:45:44,189 - TrainModel - INFO - Epoch 111/250, learning rate = 0.000250
+2023-11-18 16:45:44,189 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:45:56,381 - TrainModel - INFO - Train nll is -22.369560546875
+2023-11-18 16:45:56,382 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:45:56,382 - TrainModel - INFO - Train total_loss is -22.369560546875
+2023-11-18 16:45:56,382 - TrainModel - INFO - Epoch 112/250, learning rate = 0.000250
+2023-11-18 16:45:56,382 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:46:08,567 - TrainModel - INFO - Train nll is -22.3633154296875
+2023-11-18 16:46:08,568 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:46:08,568 - TrainModel - INFO - Train total_loss is -22.3633154296875
+2023-11-18 16:46:08,568 - TrainModel - INFO - Epoch 113/250, learning rate = 0.000250
+2023-11-18 16:46:08,568 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:46:20,707 - TrainModel - INFO - Train nll is -22.448701171875
+2023-11-18 16:46:20,707 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:46:20,707 - TrainModel - INFO - Train total_loss is -22.448701171875
+2023-11-18 16:46:20,708 - TrainModel - INFO - Epoch 114/250, learning rate = 0.000250
+2023-11-18 16:46:20,708 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:46:32,510 - TrainModel - INFO - Train nll is -22.32518798828125
+2023-11-18 16:46:32,510 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:46:32,510 - TrainModel - INFO - Train total_loss is -22.32518798828125
+2023-11-18 16:46:32,511 - TrainModel - INFO - Epoch 115/250, learning rate = 0.000250
+2023-11-18 16:46:32,511 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:46:44,037 - TrainModel - INFO - Train nll is -22.4299951171875
+2023-11-18 16:46:44,038 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:46:44,038 - TrainModel - INFO - Train total_loss is -22.4299951171875
+2023-11-18 16:46:44,038 - TrainModel - INFO - Epoch 116/250, learning rate = 0.000250
+2023-11-18 16:46:44,038 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:46:55,535 - TrainModel - INFO - Train nll is -22.55493408203125
+2023-11-18 16:46:55,536 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:46:55,536 - TrainModel - INFO - Train total_loss is -22.55493408203125
+2023-11-18 16:46:55,536 - TrainModel - INFO - Epoch 117/250, learning rate = 0.000250
+2023-11-18 16:46:55,536 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:47:07,261 - TrainModel - INFO - Train nll is -22.193095703125
+2023-11-18 16:47:07,261 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:47:07,262 - TrainModel - INFO - Train total_loss is -22.193095703125
+2023-11-18 16:47:07,262 - TrainModel - INFO - Epoch 118/250, learning rate = 0.000250
+2023-11-18 16:47:07,262 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:47:19,002 - TrainModel - INFO - Train nll is -22.86888427734375
+2023-11-18 16:47:19,003 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:47:19,003 - TrainModel - INFO - Train total_loss is -22.86888427734375
+2023-11-18 16:47:19,003 - TrainModel - INFO - Epoch 119/250, learning rate = 0.000250
+2023-11-18 16:47:19,003 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:47:30,562 - TrainModel - INFO - Train nll is -22.57207763671875
+2023-11-18 16:47:30,562 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:47:30,562 - TrainModel - INFO - Train total_loss is -22.57207763671875
+2023-11-18 16:47:30,563 - TrainModel - INFO - Epoch 120/250, learning rate = 0.000250
+2023-11-18 16:47:30,563 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:47:42,027 - TrainModel - INFO - Train nll is -22.4914453125
+2023-11-18 16:47:42,027 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:47:42,027 - TrainModel - INFO - Train total_loss is -22.4914453125
+2023-11-18 16:47:42,028 - TrainModel - INFO - Epoch 121/250, learning rate = 0.000125
+2023-11-18 16:47:42,028 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:47:53,850 - TrainModel - INFO - Train nll is -23.499912109375
+2023-11-18 16:47:53,850 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:47:53,850 - TrainModel - INFO - Train total_loss is -23.499912109375
+2023-11-18 16:47:53,851 - TrainModel - INFO - Epoch 122/250, learning rate = 0.000125
+2023-11-18 16:47:53,851 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:48:05,495 - TrainModel - INFO - Train nll is -23.14628662109375
+2023-11-18 16:48:05,496 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:48:05,496 - TrainModel - INFO - Train total_loss is -23.14628662109375
+2023-11-18 16:48:05,496 - TrainModel - INFO - Epoch 123/250, learning rate = 0.000125
+2023-11-18 16:48:05,496 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:48:16,967 - TrainModel - INFO - Train nll is -23.662861328125
+2023-11-18 16:48:16,967 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:48:16,967 - TrainModel - INFO - Train total_loss is -23.662861328125
+2023-11-18 16:48:16,968 - TrainModel - INFO - Epoch 124/250, learning rate = 0.000125
+2023-11-18 16:48:16,968 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:48:28,479 - TrainModel - INFO - Train nll is -23.73578369140625
+2023-11-18 16:48:28,480 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:48:28,480 - TrainModel - INFO - Train total_loss is -23.73578369140625
+2023-11-18 16:48:28,480 - TrainModel - INFO - Epoch 125/250, learning rate = 0.000125
+2023-11-18 16:48:28,480 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:48:39,926 - TrainModel - INFO - Train nll is -23.3811669921875
+2023-11-18 16:48:39,926 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:48:39,926 - TrainModel - INFO - Train total_loss is -23.3811669921875
+2023-11-18 16:48:39,927 - TrainModel - INFO - Epoch 126/250, learning rate = 0.000125
+2023-11-18 16:48:39,927 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:48:51,391 - TrainModel - INFO - Train nll is -23.33132568359375
+2023-11-18 16:48:51,391 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:48:51,391 - TrainModel - INFO - Train total_loss is -23.33132568359375
+2023-11-18 16:48:51,392 - TrainModel - INFO - Epoch 127/250, learning rate = 0.000125
+2023-11-18 16:48:51,392 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:49:02,858 - TrainModel - INFO - Train nll is -23.287734375
+2023-11-18 16:49:02,858 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:49:02,858 - TrainModel - INFO - Train total_loss is -23.287734375
+2023-11-18 16:49:02,859 - TrainModel - INFO - Epoch 128/250, learning rate = 0.000125
+2023-11-18 16:49:02,859 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:49:14,477 - TrainModel - INFO - Train nll is -23.55775390625
+2023-11-18 16:49:14,478 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:49:14,478 - TrainModel - INFO - Train total_loss is -23.55775390625
+2023-11-18 16:49:14,478 - TrainModel - INFO - Epoch 129/250, learning rate = 0.000125
+2023-11-18 16:49:14,478 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:49:26,156 - TrainModel - INFO - Train nll is -23.79693359375
+2023-11-18 16:49:26,156 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:49:26,156 - TrainModel - INFO - Train total_loss is -23.79693359375
+2023-11-18 16:49:26,157 - TrainModel - INFO - Epoch 130/250, learning rate = 0.000125
+2023-11-18 16:49:26,157 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:49:37,820 - TrainModel - INFO - Train nll is -23.2900439453125
+2023-11-18 16:49:37,821 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:49:37,821 - TrainModel - INFO - Train total_loss is -23.2900439453125
+2023-11-18 16:49:37,821 - TrainModel - INFO - Epoch 131/250, learning rate = 0.000125
+2023-11-18 16:49:37,821 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:49:49,319 - TrainModel - INFO - Train nll is -23.6632421875
+2023-11-18 16:49:49,319 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:49:49,319 - TrainModel - INFO - Train total_loss is -23.6632421875
+2023-11-18 16:49:49,320 - TrainModel - INFO - Epoch 132/250, learning rate = 0.000125
+2023-11-18 16:49:49,320 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:50:00,773 - TrainModel - INFO - Train nll is -23.57822265625
+2023-11-18 16:50:00,774 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:50:00,774 - TrainModel - INFO - Train total_loss is -23.57822265625
+2023-11-18 16:50:00,774 - TrainModel - INFO - Epoch 133/250, learning rate = 0.000125
+2023-11-18 16:50:00,774 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:50:12,222 - TrainModel - INFO - Train nll is -23.71573486328125
+2023-11-18 16:50:12,222 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:50:12,222 - TrainModel - INFO - Train total_loss is -23.71573486328125
+2023-11-18 16:50:12,222 - TrainModel - INFO - Epoch 134/250, learning rate = 0.000125
+2023-11-18 16:50:12,222 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:50:23,718 - TrainModel - INFO - Train nll is -23.5364453125
+2023-11-18 16:50:23,718 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:50:23,718 - TrainModel - INFO - Train total_loss is -23.5364453125
+2023-11-18 16:50:23,719 - TrainModel - INFO - Epoch 135/250, learning rate = 0.000125
+2023-11-18 16:50:23,719 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:50:35,237 - TrainModel - INFO - Train nll is -23.7180224609375
+2023-11-18 16:50:35,237 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:50:35,237 - TrainModel - INFO - Train total_loss is -23.7180224609375
+2023-11-18 16:50:35,238 - TrainModel - INFO - Epoch 136/250, learning rate = 0.000125
+2023-11-18 16:50:35,238 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:50:46,739 - TrainModel - INFO - Train nll is -23.3599267578125
+2023-11-18 16:50:46,740 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:50:46,740 - TrainModel - INFO - Train total_loss is -23.3599267578125
+2023-11-18 16:50:46,740 - TrainModel - INFO - Epoch 137/250, learning rate = 0.000125
+2023-11-18 16:50:46,740 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:50:58,279 - TrainModel - INFO - Train nll is -23.75144775390625
+2023-11-18 16:50:58,279 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:50:58,280 - TrainModel - INFO - Train total_loss is -23.75144775390625
+2023-11-18 16:50:58,280 - TrainModel - INFO - Epoch 138/250, learning rate = 0.000125
+2023-11-18 16:50:58,280 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:51:09,680 - TrainModel - INFO - Train nll is -23.494267578125
+2023-11-18 16:51:09,680 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:51:09,680 - TrainModel - INFO - Train total_loss is -23.494267578125
+2023-11-18 16:51:09,681 - TrainModel - INFO - Epoch 139/250, learning rate = 0.000125
+2023-11-18 16:51:09,681 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:51:21,069 - TrainModel - INFO - Train nll is -23.7383447265625
+2023-11-18 16:51:21,069 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:51:21,069 - TrainModel - INFO - Train total_loss is -23.7383447265625
+2023-11-18 16:51:21,070 - TrainModel - INFO - Epoch 140/250, learning rate = 0.000125
+2023-11-18 16:51:21,070 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:51:32,446 - TrainModel - INFO - Train nll is -23.445
+2023-11-18 16:51:32,447 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:51:32,447 - TrainModel - INFO - Train total_loss is -23.445
+2023-11-18 16:51:32,447 - TrainModel - INFO - Epoch 141/250, learning rate = 0.000125
+2023-11-18 16:51:32,447 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:51:43,934 - TrainModel - INFO - Train nll is -24.0339306640625
+2023-11-18 16:51:43,934 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:51:43,934 - TrainModel - INFO - Train total_loss is -24.0339306640625
+2023-11-18 16:51:43,934 - TrainModel - INFO - Epoch 142/250, learning rate = 0.000125
+2023-11-18 16:51:43,934 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:51:55,300 - TrainModel - INFO - Train nll is -23.6838525390625
+2023-11-18 16:51:55,300 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:51:55,300 - TrainModel - INFO - Train total_loss is -23.6838525390625
+2023-11-18 16:51:55,300 - TrainModel - INFO - Epoch 143/250, learning rate = 0.000125
+2023-11-18 16:51:55,301 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:52:06,723 - TrainModel - INFO - Train nll is -23.721220703125
+2023-11-18 16:52:06,723 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:52:06,723 - TrainModel - INFO - Train total_loss is -23.721220703125
+2023-11-18 16:52:06,724 - TrainModel - INFO - Epoch 144/250, learning rate = 0.000125
+2023-11-18 16:52:06,724 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:52:18,130 - TrainModel - INFO - Train nll is -23.6014501953125
+2023-11-18 16:52:18,131 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:52:18,131 - TrainModel - INFO - Train total_loss is -23.6014501953125
+2023-11-18 16:52:18,131 - TrainModel - INFO - Epoch 145/250, learning rate = 0.000125
+2023-11-18 16:52:18,131 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:52:29,508 - TrainModel - INFO - Train nll is -23.51269287109375
+2023-11-18 16:52:29,509 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:52:29,509 - TrainModel - INFO - Train total_loss is -23.51269287109375
+2023-11-18 16:52:29,509 - TrainModel - INFO - Epoch 146/250, learning rate = 0.000125
+2023-11-18 16:52:29,509 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:52:40,972 - TrainModel - INFO - Train nll is -23.55156494140625
+2023-11-18 16:52:40,972 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:52:40,972 - TrainModel - INFO - Train total_loss is -23.55156494140625
+2023-11-18 16:52:40,973 - TrainModel - INFO - Epoch 147/250, learning rate = 0.000125
+2023-11-18 16:52:40,973 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:52:52,477 - TrainModel - INFO - Train nll is -23.64496337890625
+2023-11-18 16:52:52,477 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:52:52,477 - TrainModel - INFO - Train total_loss is -23.64496337890625
+2023-11-18 16:52:52,478 - TrainModel - INFO - Epoch 148/250, learning rate = 0.000125
+2023-11-18 16:52:52,478 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:53:03,885 - TrainModel - INFO - Train nll is -23.37522216796875
+2023-11-18 16:53:03,885 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:53:03,885 - TrainModel - INFO - Train total_loss is -23.37522216796875
+2023-11-18 16:53:03,886 - TrainModel - INFO - Epoch 149/250, learning rate = 0.000125
+2023-11-18 16:53:03,886 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:53:15,305 - TrainModel - INFO - Train nll is -23.9795068359375
+2023-11-18 16:53:15,305 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:53:15,305 - TrainModel - INFO - Train total_loss is -23.9795068359375
+2023-11-18 16:53:15,305 - TrainModel - INFO - Epoch 150/250, learning rate = 0.000125
+2023-11-18 16:53:15,306 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:53:26,692 - TrainModel - INFO - Train nll is -23.6063427734375
+2023-11-18 16:53:26,693 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:53:26,693 - TrainModel - INFO - Train total_loss is -23.6063427734375
+2023-11-18 16:53:26,693 - TrainModel - INFO - Epoch 151/250, learning rate = 0.000125
+2023-11-18 16:53:26,693 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:53:38,143 - TrainModel - INFO - Train nll is -23.9039306640625
+2023-11-18 16:53:38,143 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:53:38,143 - TrainModel - INFO - Train total_loss is -23.9039306640625
+2023-11-18 16:53:38,144 - TrainModel - INFO - Epoch 152/250, learning rate = 0.000125
+2023-11-18 16:53:38,144 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:53:49,603 - TrainModel - INFO - Train nll is -23.69528076171875
+2023-11-18 16:53:49,603 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:53:49,603 - TrainModel - INFO - Train total_loss is -23.69528076171875
+2023-11-18 16:53:49,603 - TrainModel - INFO - Epoch 153/250, learning rate = 0.000125
+2023-11-18 16:53:49,603 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:54:01,040 - TrainModel - INFO - Train nll is -23.8016650390625
+2023-11-18 16:54:01,040 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:54:01,040 - TrainModel - INFO - Train total_loss is -23.8016650390625
+2023-11-18 16:54:01,041 - TrainModel - INFO - Epoch 154/250, learning rate = 0.000125
+2023-11-18 16:54:01,041 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:54:12,488 - TrainModel - INFO - Train nll is -23.77994873046875
+2023-11-18 16:54:12,488 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:54:12,488 - TrainModel - INFO - Train total_loss is -23.77994873046875
+2023-11-18 16:54:12,489 - TrainModel - INFO - Epoch 155/250, learning rate = 0.000125
+2023-11-18 16:54:12,489 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:54:23,911 - TrainModel - INFO - Train nll is -24.1268017578125
+2023-11-18 16:54:23,911 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:54:23,911 - TrainModel - INFO - Train total_loss is -24.1268017578125
+2023-11-18 16:54:23,912 - TrainModel - INFO - Epoch 156/250, learning rate = 0.000125
+2023-11-18 16:54:23,912 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:54:35,294 - TrainModel - INFO - Train nll is -24.30423583984375
+2023-11-18 16:54:35,294 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:54:35,294 - TrainModel - INFO - Train total_loss is -24.30423583984375
+2023-11-18 16:54:35,294 - TrainModel - INFO - Epoch 157/250, learning rate = 0.000125
+2023-11-18 16:54:35,294 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:54:46,750 - TrainModel - INFO - Train nll is -23.9914599609375
+2023-11-18 16:54:46,750 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:54:46,750 - TrainModel - INFO - Train total_loss is -23.9914599609375
+2023-11-18 16:54:46,751 - TrainModel - INFO - Epoch 158/250, learning rate = 0.000125
+2023-11-18 16:54:46,751 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:54:58,086 - TrainModel - INFO - Train nll is -24.162900390625
+2023-11-18 16:54:58,086 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:54:58,086 - TrainModel - INFO - Train total_loss is -24.162900390625
+2023-11-18 16:54:58,087 - TrainModel - INFO - Epoch 159/250, learning rate = 0.000125
+2023-11-18 16:54:58,087 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:55:09,557 - TrainModel - INFO - Train nll is -24.0220068359375
+2023-11-18 16:55:09,557 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:55:09,557 - TrainModel - INFO - Train total_loss is -24.0220068359375
+2023-11-18 16:55:09,558 - TrainModel - INFO - Epoch 160/250, learning rate = 0.000125
+2023-11-18 16:55:09,558 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:55:20,960 - TrainModel - INFO - Train nll is -24.236064453125
+2023-11-18 16:55:20,960 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:55:20,960 - TrainModel - INFO - Train total_loss is -24.236064453125
+2023-11-18 16:55:20,961 - TrainModel - INFO - Epoch 161/250, learning rate = 0.000063
+2023-11-18 16:55:20,961 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:55:32,426 - TrainModel - INFO - Train nll is -24.468193359375
+2023-11-18 16:55:32,427 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:55:32,427 - TrainModel - INFO - Train total_loss is -24.468193359375
+2023-11-18 16:55:32,427 - TrainModel - INFO - Epoch 162/250, learning rate = 0.000063
+2023-11-18 16:55:32,427 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:55:43,785 - TrainModel - INFO - Train nll is -24.36372314453125
+2023-11-18 16:55:43,785 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:55:43,785 - TrainModel - INFO - Train total_loss is -24.36372314453125
+2023-11-18 16:55:43,786 - TrainModel - INFO - Epoch 163/250, learning rate = 0.000063
+2023-11-18 16:55:43,786 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:55:55,215 - TrainModel - INFO - Train nll is -24.3999951171875
+2023-11-18 16:55:55,216 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:55:55,216 - TrainModel - INFO - Train total_loss is -24.3999951171875
+2023-11-18 16:55:55,216 - TrainModel - INFO - Epoch 164/250, learning rate = 0.000063
+2023-11-18 16:55:55,216 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:56:06,638 - TrainModel - INFO - Train nll is -24.89642333984375
+2023-11-18 16:56:06,638 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:56:06,638 - TrainModel - INFO - Train total_loss is -24.89642333984375
+2023-11-18 16:56:06,639 - TrainModel - INFO - Epoch 165/250, learning rate = 0.000063
+2023-11-18 16:56:06,639 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:56:18,070 - TrainModel - INFO - Train nll is -24.36311767578125
+2023-11-18 16:56:18,070 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:56:18,070 - TrainModel - INFO - Train total_loss is -24.36311767578125
+2023-11-18 16:56:18,070 - TrainModel - INFO - Epoch 166/250, learning rate = 0.000063
+2023-11-18 16:56:18,070 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:56:29,491 - TrainModel - INFO - Train nll is -24.29162109375
+2023-11-18 16:56:29,491 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:56:29,491 - TrainModel - INFO - Train total_loss is -24.29162109375
+2023-11-18 16:56:29,492 - TrainModel - INFO - Epoch 167/250, learning rate = 0.000063
+2023-11-18 16:56:29,492 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:56:40,948 - TrainModel - INFO - Train nll is -24.4655078125
+2023-11-18 16:56:40,948 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:56:40,948 - TrainModel - INFO - Train total_loss is -24.4655078125
+2023-11-18 16:56:40,949 - TrainModel - INFO - Epoch 168/250, learning rate = 0.000063
+2023-11-18 16:56:40,949 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:56:52,391 - TrainModel - INFO - Train nll is -24.58267578125
+2023-11-18 16:56:52,391 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:56:52,391 - TrainModel - INFO - Train total_loss is -24.58267578125
+2023-11-18 16:56:52,391 - TrainModel - INFO - Epoch 169/250, learning rate = 0.000063
+2023-11-18 16:56:52,391 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:57:03,801 - TrainModel - INFO - Train nll is -24.4389453125
+2023-11-18 16:57:03,801 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:57:03,801 - TrainModel - INFO - Train total_loss is -24.4389453125
+2023-11-18 16:57:03,801 - TrainModel - INFO - Epoch 170/250, learning rate = 0.000063
+2023-11-18 16:57:03,801 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:57:15,306 - TrainModel - INFO - Train nll is -24.3414111328125
+2023-11-18 16:57:15,306 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:57:15,306 - TrainModel - INFO - Train total_loss is -24.3414111328125
+2023-11-18 16:57:15,307 - TrainModel - INFO - Epoch 171/250, learning rate = 0.000063
+2023-11-18 16:57:15,307 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:57:26,748 - TrainModel - INFO - Train nll is -24.45036865234375
+2023-11-18 16:57:26,748 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:57:26,748 - TrainModel - INFO - Train total_loss is -24.45036865234375
+2023-11-18 16:57:26,749 - TrainModel - INFO - Epoch 172/250, learning rate = 0.000063
+2023-11-18 16:57:26,749 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:57:38,122 - TrainModel - INFO - Train nll is -24.416923828125
+2023-11-18 16:57:38,123 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:57:38,123 - TrainModel - INFO - Train total_loss is -24.416923828125
+2023-11-18 16:57:38,123 - TrainModel - INFO - Epoch 173/250, learning rate = 0.000063
+2023-11-18 16:57:38,123 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:57:49,500 - TrainModel - INFO - Train nll is -24.53045166015625
+2023-11-18 16:57:49,500 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:57:49,500 - TrainModel - INFO - Train total_loss is -24.53045166015625
+2023-11-18 16:57:49,501 - TrainModel - INFO - Epoch 174/250, learning rate = 0.000063
+2023-11-18 16:57:49,501 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:58:00,896 - TrainModel - INFO - Train nll is -24.85143310546875
+2023-11-18 16:58:00,896 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:58:00,896 - TrainModel - INFO - Train total_loss is -24.85143310546875
+2023-11-18 16:58:00,897 - TrainModel - INFO - Epoch 175/250, learning rate = 0.000063
+2023-11-18 16:58:00,897 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:58:12,287 - TrainModel - INFO - Train nll is -25.067939453125
+2023-11-18 16:58:12,287 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:58:12,287 - TrainModel - INFO - Train total_loss is -25.067939453125
+2023-11-18 16:58:12,288 - TrainModel - INFO - Epoch 176/250, learning rate = 0.000063
+2023-11-18 16:58:12,288 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:58:23,686 - TrainModel - INFO - Train nll is -24.408125
+2023-11-18 16:58:23,686 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:58:23,686 - TrainModel - INFO - Train total_loss is -24.408125
+2023-11-18 16:58:23,687 - TrainModel - INFO - Epoch 177/250, learning rate = 0.000063
+2023-11-18 16:58:23,687 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:58:35,149 - TrainModel - INFO - Train nll is -24.220576171875
+2023-11-18 16:58:35,150 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:58:35,150 - TrainModel - INFO - Train total_loss is -24.220576171875
+2023-11-18 16:58:35,150 - TrainModel - INFO - Epoch 178/250, learning rate = 0.000063
+2023-11-18 16:58:35,150 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:58:46,642 - TrainModel - INFO - Train nll is -24.578125
+2023-11-18 16:58:46,642 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:58:46,642 - TrainModel - INFO - Train total_loss is -24.578125
+2023-11-18 16:58:46,643 - TrainModel - INFO - Epoch 179/250, learning rate = 0.000063
+2023-11-18 16:58:46,643 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:58:58,028 - TrainModel - INFO - Train nll is -24.51719970703125
+2023-11-18 16:58:58,029 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:58:58,029 - TrainModel - INFO - Train total_loss is -24.51719970703125
+2023-11-18 16:58:58,029 - TrainModel - INFO - Epoch 180/250, learning rate = 0.000063
+2023-11-18 16:58:58,029 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:59:09,462 - TrainModel - INFO - Train nll is -24.74717041015625
+2023-11-18 16:59:09,462 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:59:09,462 - TrainModel - INFO - Train total_loss is -24.74717041015625
+2023-11-18 16:59:09,463 - TrainModel - INFO - Epoch 181/250, learning rate = 0.000063
+2023-11-18 16:59:09,463 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:59:20,983 - TrainModel - INFO - Train nll is -24.38316162109375
+2023-11-18 16:59:20,983 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:59:20,983 - TrainModel - INFO - Train total_loss is -24.38316162109375
+2023-11-18 16:59:20,983 - TrainModel - INFO - Epoch 182/250, learning rate = 0.000063
+2023-11-18 16:59:20,983 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:59:32,373 - TrainModel - INFO - Train nll is -24.61601318359375
+2023-11-18 16:59:32,373 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:59:32,373 - TrainModel - INFO - Train total_loss is -24.61601318359375
+2023-11-18 16:59:32,374 - TrainModel - INFO - Epoch 183/250, learning rate = 0.000063
+2023-11-18 16:59:32,374 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:59:43,809 - TrainModel - INFO - Train nll is -24.2973583984375
+2023-11-18 16:59:43,809 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:59:43,809 - TrainModel - INFO - Train total_loss is -24.2973583984375
+2023-11-18 16:59:43,810 - TrainModel - INFO - Epoch 184/250, learning rate = 0.000063
+2023-11-18 16:59:43,810 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 16:59:55,303 - TrainModel - INFO - Train nll is -24.6837451171875
+2023-11-18 16:59:55,304 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 16:59:55,304 - TrainModel - INFO - Train total_loss is -24.6837451171875
+2023-11-18 16:59:55,304 - TrainModel - INFO - Epoch 185/250, learning rate = 0.000063
+2023-11-18 16:59:55,304 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:00:06,685 - TrainModel - INFO - Train nll is -24.780947265625
+2023-11-18 17:00:06,686 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:00:06,686 - TrainModel - INFO - Train total_loss is -24.780947265625
+2023-11-18 17:00:06,686 - TrainModel - INFO - Epoch 186/250, learning rate = 0.000063
+2023-11-18 17:00:06,686 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:00:18,098 - TrainModel - INFO - Train nll is -24.5964404296875
+2023-11-18 17:00:18,098 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:00:18,098 - TrainModel - INFO - Train total_loss is -24.5964404296875
+2023-11-18 17:00:18,099 - TrainModel - INFO - Epoch 187/250, learning rate = 0.000063
+2023-11-18 17:00:18,099 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:00:29,591 - TrainModel - INFO - Train nll is -24.980673828125
+2023-11-18 17:00:29,591 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:00:29,591 - TrainModel - INFO - Train total_loss is -24.980673828125
+2023-11-18 17:00:29,591 - TrainModel - INFO - Epoch 188/250, learning rate = 0.000063
+2023-11-18 17:00:29,592 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:00:41,056 - TrainModel - INFO - Train nll is -24.90299072265625
+2023-11-18 17:00:41,057 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:00:41,057 - TrainModel - INFO - Train total_loss is -24.90299072265625
+2023-11-18 17:00:41,057 - TrainModel - INFO - Epoch 189/250, learning rate = 0.000063
+2023-11-18 17:00:41,057 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:00:52,494 - TrainModel - INFO - Train nll is -24.78770751953125
+2023-11-18 17:00:52,494 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:00:52,494 - TrainModel - INFO - Train total_loss is -24.78770751953125
+2023-11-18 17:00:52,494 - TrainModel - INFO - Epoch 190/250, learning rate = 0.000063
+2023-11-18 17:00:52,495 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:01:03,839 - TrainModel - INFO - Train nll is -24.6944580078125
+2023-11-18 17:01:03,839 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:01:03,839 - TrainModel - INFO - Train total_loss is -24.6944580078125
+2023-11-18 17:01:03,840 - TrainModel - INFO - Epoch 191/250, learning rate = 0.000063
+2023-11-18 17:01:03,840 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:01:15,289 - TrainModel - INFO - Train nll is -24.47195068359375
+2023-11-18 17:01:15,290 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:01:15,290 - TrainModel - INFO - Train total_loss is -24.47195068359375
+2023-11-18 17:01:15,290 - TrainModel - INFO - Epoch 192/250, learning rate = 0.000063
+2023-11-18 17:01:15,290 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:01:26,703 - TrainModel - INFO - Train nll is -24.855068359375
+2023-11-18 17:01:26,703 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:01:26,703 - TrainModel - INFO - Train total_loss is -24.855068359375
+2023-11-18 17:01:26,703 - TrainModel - INFO - Epoch 193/250, learning rate = 0.000063
+2023-11-18 17:01:26,703 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:01:38,191 - TrainModel - INFO - Train nll is -24.68884521484375
+2023-11-18 17:01:38,191 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:01:38,191 - TrainModel - INFO - Train total_loss is -24.68884521484375
+2023-11-18 17:01:38,191 - TrainModel - INFO - Epoch 194/250, learning rate = 0.000063
+2023-11-18 17:01:38,191 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:01:49,594 - TrainModel - INFO - Train nll is -24.52982421875
+2023-11-18 17:01:49,594 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:01:49,594 - TrainModel - INFO - Train total_loss is -24.52982421875
+2023-11-18 17:01:49,595 - TrainModel - INFO - Epoch 195/250, learning rate = 0.000063
+2023-11-18 17:01:49,595 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:02:01,006 - TrainModel - INFO - Train nll is -24.66005615234375
+2023-11-18 17:02:01,006 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:02:01,006 - TrainModel - INFO - Train total_loss is -24.66005615234375
+2023-11-18 17:02:01,007 - TrainModel - INFO - Epoch 196/250, learning rate = 0.000063
+2023-11-18 17:02:01,007 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:02:12,409 - TrainModel - INFO - Train nll is -24.9774365234375
+2023-11-18 17:02:12,409 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:02:12,409 - TrainModel - INFO - Train total_loss is -24.9774365234375
+2023-11-18 17:02:12,410 - TrainModel - INFO - Epoch 197/250, learning rate = 0.000063
+2023-11-18 17:02:12,410 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:02:23,889 - TrainModel - INFO - Train nll is -24.84445068359375
+2023-11-18 17:02:23,889 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:02:23,889 - TrainModel - INFO - Train total_loss is -24.84445068359375
+2023-11-18 17:02:23,890 - TrainModel - INFO - Epoch 198/250, learning rate = 0.000063
+2023-11-18 17:02:23,890 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:02:35,381 - TrainModel - INFO - Train nll is -24.4709912109375
+2023-11-18 17:02:35,381 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:02:35,381 - TrainModel - INFO - Train total_loss is -24.4709912109375
+2023-11-18 17:02:35,381 - TrainModel - INFO - Epoch 199/250, learning rate = 0.000063
+2023-11-18 17:02:35,382 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:02:46,799 - TrainModel - INFO - Train nll is -24.53464111328125
+2023-11-18 17:02:46,799 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:02:46,799 - TrainModel - INFO - Train total_loss is -24.53464111328125
+2023-11-18 17:02:46,800 - TrainModel - INFO - Epoch 200/250, learning rate = 0.000063
+2023-11-18 17:02:46,800 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:02:58,190 - TrainModel - INFO - Train nll is -24.56363037109375
+2023-11-18 17:02:58,190 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:02:58,190 - TrainModel - INFO - Train total_loss is -24.56363037109375
+2023-11-18 17:02:58,191 - TrainModel - INFO - Epoch 201/250, learning rate = 0.000031
+2023-11-18 17:02:58,191 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:02:58,259 - TrainModel - INFO - Saving model at epoch 201, path ./glow_train/ckpt/model_000201.pt
+2023-11-18 17:03:09,684 - TrainModel - INFO - Train nll is -24.7432373046875
+2023-11-18 17:03:09,684 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:03:09,684 - TrainModel - INFO - Train total_loss is -24.7432373046875
+2023-11-18 17:03:09,685 - TrainModel - INFO - Epoch 202/250, learning rate = 0.000031
+2023-11-18 17:03:09,685 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:03:21,117 - TrainModel - INFO - Train nll is -25.016064453125
+2023-11-18 17:03:21,117 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:03:21,118 - TrainModel - INFO - Train total_loss is -25.016064453125
+2023-11-18 17:03:21,118 - TrainModel - INFO - Epoch 203/250, learning rate = 0.000031
+2023-11-18 17:03:21,118 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:03:32,533 - TrainModel - INFO - Train nll is -24.8228662109375
+2023-11-18 17:03:32,533 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:03:32,533 - TrainModel - INFO - Train total_loss is -24.8228662109375
+2023-11-18 17:03:32,533 - TrainModel - INFO - Epoch 204/250, learning rate = 0.000031
+2023-11-18 17:03:32,533 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:03:43,996 - TrainModel - INFO - Train nll is -25.3865771484375
+2023-11-18 17:03:43,996 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:03:43,996 - TrainModel - INFO - Train total_loss is -25.3865771484375
+2023-11-18 17:03:43,997 - TrainModel - INFO - Epoch 205/250, learning rate = 0.000031
+2023-11-18 17:03:43,997 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:03:55,354 - TrainModel - INFO - Train nll is -25.14356689453125
+2023-11-18 17:03:55,354 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:03:55,354 - TrainModel - INFO - Train total_loss is -25.14356689453125
+2023-11-18 17:03:55,354 - TrainModel - INFO - Epoch 206/250, learning rate = 0.000031
+2023-11-18 17:03:55,355 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:04:06,792 - TrainModel - INFO - Train nll is -25.075849609375
+2023-11-18 17:04:06,792 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:04:06,792 - TrainModel - INFO - Train total_loss is -25.075849609375
+2023-11-18 17:04:06,792 - TrainModel - INFO - Epoch 207/250, learning rate = 0.000031
+2023-11-18 17:04:06,792 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:04:18,211 - TrainModel - INFO - Train nll is -24.9208203125
+2023-11-18 17:04:18,211 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:04:18,211 - TrainModel - INFO - Train total_loss is -24.9208203125
+2023-11-18 17:04:18,211 - TrainModel - INFO - Epoch 208/250, learning rate = 0.000031
+2023-11-18 17:04:18,211 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:04:29,598 - TrainModel - INFO - Train nll is -24.9560693359375
+2023-11-18 17:04:29,598 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:04:29,598 - TrainModel - INFO - Train total_loss is -24.9560693359375
+2023-11-18 17:04:29,599 - TrainModel - INFO - Epoch 209/250, learning rate = 0.000031
+2023-11-18 17:04:29,599 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:04:41,077 - TrainModel - INFO - Train nll is -25.07473876953125
+2023-11-18 17:04:41,077 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:04:41,077 - TrainModel - INFO - Train total_loss is -25.07473876953125
+2023-11-18 17:04:41,078 - TrainModel - INFO - Epoch 210/250, learning rate = 0.000031
+2023-11-18 17:04:41,078 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:04:52,504 - TrainModel - INFO - Train nll is -24.66802001953125
+2023-11-18 17:04:52,505 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:04:52,505 - TrainModel - INFO - Train total_loss is -24.66802001953125
+2023-11-18 17:04:52,505 - TrainModel - INFO - Epoch 211/250, learning rate = 0.000031
+2023-11-18 17:04:52,506 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:05:03,823 - TrainModel - INFO - Train nll is -24.9717724609375
+2023-11-18 17:05:03,823 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:05:03,824 - TrainModel - INFO - Train total_loss is -24.9717724609375
+2023-11-18 17:05:03,824 - TrainModel - INFO - Epoch 212/250, learning rate = 0.000031
+2023-11-18 17:05:03,824 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:05:15,238 - TrainModel - INFO - Train nll is -24.9519287109375
+2023-11-18 17:05:15,238 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:05:15,238 - TrainModel - INFO - Train total_loss is -24.9519287109375
+2023-11-18 17:05:15,239 - TrainModel - INFO - Epoch 213/250, learning rate = 0.000031
+2023-11-18 17:05:15,239 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:05:26,630 - TrainModel - INFO - Train nll is -25.03472412109375
+2023-11-18 17:05:26,631 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:05:26,631 - TrainModel - INFO - Train total_loss is -25.03472412109375
+2023-11-18 17:05:26,631 - TrainModel - INFO - Epoch 214/250, learning rate = 0.000031
+2023-11-18 17:05:26,631 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:05:37,998 - TrainModel - INFO - Train nll is -24.845400390625
+2023-11-18 17:05:37,998 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:05:37,998 - TrainModel - INFO - Train total_loss is -24.845400390625
+2023-11-18 17:05:37,998 - TrainModel - INFO - Epoch 215/250, learning rate = 0.000031
+2023-11-18 17:05:37,998 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:05:49,504 - TrainModel - INFO - Train nll is -25.1348291015625
+2023-11-18 17:05:49,505 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:05:49,505 - TrainModel - INFO - Train total_loss is -25.1348291015625
+2023-11-18 17:05:49,505 - TrainModel - INFO - Epoch 216/250, learning rate = 0.000031
+2023-11-18 17:05:49,505 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:06:00,881 - TrainModel - INFO - Train nll is -24.76642578125
+2023-11-18 17:06:00,881 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:06:00,881 - TrainModel - INFO - Train total_loss is -24.76642578125
+2023-11-18 17:06:00,882 - TrainModel - INFO - Epoch 217/250, learning rate = 0.000031
+2023-11-18 17:06:00,882 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:06:12,315 - TrainModel - INFO - Train nll is -25.0514990234375
+2023-11-18 17:06:12,315 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:06:12,315 - TrainModel - INFO - Train total_loss is -25.0514990234375
+2023-11-18 17:06:12,316 - TrainModel - INFO - Epoch 218/250, learning rate = 0.000031
+2023-11-18 17:06:12,316 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:06:23,670 - TrainModel - INFO - Train nll is -24.94003662109375
+2023-11-18 17:06:23,670 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:06:23,670 - TrainModel - INFO - Train total_loss is -24.94003662109375
+2023-11-18 17:06:23,670 - TrainModel - INFO - Epoch 219/250, learning rate = 0.000031
+2023-11-18 17:06:23,670 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:06:35,117 - TrainModel - INFO - Train nll is -24.8980517578125
+2023-11-18 17:06:35,117 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:06:35,117 - TrainModel - INFO - Train total_loss is -24.8980517578125
+2023-11-18 17:06:35,117 - TrainModel - INFO - Epoch 220/250, learning rate = 0.000031
+2023-11-18 17:06:35,117 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:06:46,499 - TrainModel - INFO - Train nll is -24.857548828125
+2023-11-18 17:06:46,499 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:06:46,499 - TrainModel - INFO - Train total_loss is -24.857548828125
+2023-11-18 17:06:46,500 - TrainModel - INFO - Epoch 221/250, learning rate = 0.000031
+2023-11-18 17:06:46,500 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:06:57,947 - TrainModel - INFO - Train nll is -24.6778662109375
+2023-11-18 17:06:57,947 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:06:57,947 - TrainModel - INFO - Train total_loss is -24.6778662109375
+2023-11-18 17:06:57,948 - TrainModel - INFO - Epoch 222/250, learning rate = 0.000031
+2023-11-18 17:06:57,948 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:07:09,289 - TrainModel - INFO - Train nll is -24.9428369140625
+2023-11-18 17:07:09,289 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:07:09,290 - TrainModel - INFO - Train total_loss is -24.9428369140625
+2023-11-18 17:07:09,290 - TrainModel - INFO - Epoch 223/250, learning rate = 0.000031
+2023-11-18 17:07:09,290 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:07:20,676 - TrainModel - INFO - Train nll is -24.59994873046875
+2023-11-18 17:07:20,676 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:07:20,676 - TrainModel - INFO - Train total_loss is -24.59994873046875
+2023-11-18 17:07:20,677 - TrainModel - INFO - Epoch 224/250, learning rate = 0.000031
+2023-11-18 17:07:20,677 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:07:32,073 - TrainModel - INFO - Train nll is -24.97745361328125
+2023-11-18 17:07:32,073 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:07:32,073 - TrainModel - INFO - Train total_loss is -24.97745361328125
+2023-11-18 17:07:32,074 - TrainModel - INFO - Epoch 225/250, learning rate = 0.000031
+2023-11-18 17:07:32,074 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:07:43,455 - TrainModel - INFO - Train nll is -24.90638427734375
+2023-11-18 17:07:43,455 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:07:43,455 - TrainModel - INFO - Train total_loss is -24.90638427734375
+2023-11-18 17:07:43,456 - TrainModel - INFO - Epoch 226/250, learning rate = 0.000031
+2023-11-18 17:07:43,456 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:07:54,908 - TrainModel - INFO - Train nll is -25.04872802734375
+2023-11-18 17:07:54,908 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:07:54,908 - TrainModel - INFO - Train total_loss is -25.04872802734375
+2023-11-18 17:07:54,908 - TrainModel - INFO - Epoch 227/250, learning rate = 0.000031
+2023-11-18 17:07:54,908 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:08:06,281 - TrainModel - INFO - Train nll is -24.74597412109375
+2023-11-18 17:08:06,281 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:08:06,281 - TrainModel - INFO - Train total_loss is -24.74597412109375
+2023-11-18 17:08:06,282 - TrainModel - INFO - Epoch 228/250, learning rate = 0.000031
+2023-11-18 17:08:06,282 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:08:17,671 - TrainModel - INFO - Train nll is -25.25242919921875
+2023-11-18 17:08:17,671 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:08:17,671 - TrainModel - INFO - Train total_loss is -25.25242919921875
+2023-11-18 17:08:17,672 - TrainModel - INFO - Epoch 229/250, learning rate = 0.000031
+2023-11-18 17:08:17,672 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:08:29,154 - TrainModel - INFO - Train nll is -25.5217822265625
+2023-11-18 17:08:29,154 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:08:29,154 - TrainModel - INFO - Train total_loss is -25.5217822265625
+2023-11-18 17:08:29,155 - TrainModel - INFO - Epoch 230/250, learning rate = 0.000031
+2023-11-18 17:08:29,155 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:08:40,571 - TrainModel - INFO - Train nll is -24.84967041015625
+2023-11-18 17:08:40,571 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:08:40,572 - TrainModel - INFO - Train total_loss is -24.84967041015625
+2023-11-18 17:08:40,572 - TrainModel - INFO - Epoch 231/250, learning rate = 0.000031
+2023-11-18 17:08:40,572 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:08:52,038 - TrainModel - INFO - Train nll is -25.1508837890625
+2023-11-18 17:08:52,038 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:08:52,038 - TrainModel - INFO - Train total_loss is -25.1508837890625
+2023-11-18 17:08:52,038 - TrainModel - INFO - Epoch 232/250, learning rate = 0.000031
+2023-11-18 17:08:52,038 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:09:03,513 - TrainModel - INFO - Train nll is -25.029150390625
+2023-11-18 17:09:03,513 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:09:03,513 - TrainModel - INFO - Train total_loss is -25.029150390625
+2023-11-18 17:09:03,514 - TrainModel - INFO - Epoch 233/250, learning rate = 0.000031
+2023-11-18 17:09:03,514 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:09:14,927 - TrainModel - INFO - Train nll is -25.2149462890625
+2023-11-18 17:09:14,928 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:09:14,928 - TrainModel - INFO - Train total_loss is -25.2149462890625
+2023-11-18 17:09:14,928 - TrainModel - INFO - Epoch 234/250, learning rate = 0.000031
+2023-11-18 17:09:14,928 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:09:26,359 - TrainModel - INFO - Train nll is -25.05224853515625
+2023-11-18 17:09:26,359 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:09:26,359 - TrainModel - INFO - Train total_loss is -25.05224853515625
+2023-11-18 17:09:26,359 - TrainModel - INFO - Epoch 235/250, learning rate = 0.000031
+2023-11-18 17:09:26,359 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:09:37,728 - TrainModel - INFO - Train nll is -25.25562255859375
+2023-11-18 17:09:37,728 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:09:37,728 - TrainModel - INFO - Train total_loss is -25.25562255859375
+2023-11-18 17:09:37,729 - TrainModel - INFO - Epoch 236/250, learning rate = 0.000031
+2023-11-18 17:09:37,729 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:09:49,109 - TrainModel - INFO - Train nll is -24.88332763671875
+2023-11-18 17:09:49,109 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:09:49,109 - TrainModel - INFO - Train total_loss is -24.88332763671875
+2023-11-18 17:09:49,110 - TrainModel - INFO - Epoch 237/250, learning rate = 0.000031
+2023-11-18 17:09:49,110 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:10:00,519 - TrainModel - INFO - Train nll is -25.33907958984375
+2023-11-18 17:10:00,519 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:10:00,519 - TrainModel - INFO - Train total_loss is -25.33907958984375
+2023-11-18 17:10:00,520 - TrainModel - INFO - Epoch 238/250, learning rate = 0.000031
+2023-11-18 17:10:00,520 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:10:11,968 - TrainModel - INFO - Train nll is -24.9315087890625
+2023-11-18 17:10:11,968 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:10:11,968 - TrainModel - INFO - Train total_loss is -24.9315087890625
+2023-11-18 17:10:11,968 - TrainModel - INFO - Epoch 239/250, learning rate = 0.000031
+2023-11-18 17:10:11,968 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:10:23,400 - TrainModel - INFO - Train nll is -25.38412109375
+2023-11-18 17:10:23,400 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:10:23,400 - TrainModel - INFO - Train total_loss is -25.38412109375
+2023-11-18 17:10:23,400 - TrainModel - INFO - Epoch 240/250, learning rate = 0.000031
+2023-11-18 17:10:23,400 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:10:34,748 - TrainModel - INFO - Train nll is -25.42757568359375
+2023-11-18 17:10:34,748 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:10:34,748 - TrainModel - INFO - Train total_loss is -25.42757568359375
+2023-11-18 17:10:34,749 - TrainModel - INFO - Epoch 241/250, learning rate = 0.000016
+2023-11-18 17:10:34,749 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:10:46,116 - TrainModel - INFO - Train nll is -25.4044921875
+2023-11-18 17:10:46,116 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:10:46,116 - TrainModel - INFO - Train total_loss is -25.4044921875
+2023-11-18 17:10:46,117 - TrainModel - INFO - Epoch 242/250, learning rate = 0.000016
+2023-11-18 17:10:46,117 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:10:57,543 - TrainModel - INFO - Train nll is -25.13170166015625
+2023-11-18 17:10:57,544 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:10:57,544 - TrainModel - INFO - Train total_loss is -25.13170166015625
+2023-11-18 17:10:57,544 - TrainModel - INFO - Epoch 243/250, learning rate = 0.000016
+2023-11-18 17:10:57,544 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:11:09,021 - TrainModel - INFO - Train nll is -25.5609912109375
+2023-11-18 17:11:09,022 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:11:09,022 - TrainModel - INFO - Train total_loss is -25.5609912109375
+2023-11-18 17:11:09,022 - TrainModel - INFO - Epoch 244/250, learning rate = 0.000016
+2023-11-18 17:11:09,022 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:11:20,420 - TrainModel - INFO - Train nll is -25.3630126953125
+2023-11-18 17:11:20,420 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:11:20,420 - TrainModel - INFO - Train total_loss is -25.3630126953125
+2023-11-18 17:11:20,420 - TrainModel - INFO - Epoch 245/250, learning rate = 0.000016
+2023-11-18 17:11:20,420 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:11:31,823 - TrainModel - INFO - Train nll is -25.1000732421875
+2023-11-18 17:11:31,823 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:11:31,823 - TrainModel - INFO - Train total_loss is -25.1000732421875
+2023-11-18 17:11:31,824 - TrainModel - INFO - Epoch 246/250, learning rate = 0.000016
+2023-11-18 17:11:31,824 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:11:43,233 - TrainModel - INFO - Train nll is -25.09400390625
+2023-11-18 17:11:43,234 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:11:43,234 - TrainModel - INFO - Train total_loss is -25.09400390625
+2023-11-18 17:11:43,234 - TrainModel - INFO - Epoch 247/250, learning rate = 0.000016
+2023-11-18 17:11:43,234 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:11:54,736 - TrainModel - INFO - Train nll is -25.5736083984375
+2023-11-18 17:11:54,736 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:11:54,736 - TrainModel - INFO - Train total_loss is -25.5736083984375
+2023-11-18 17:11:54,736 - TrainModel - INFO - Epoch 248/250, learning rate = 0.000016
+2023-11-18 17:11:54,736 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:12:06,221 - TrainModel - INFO - Train nll is -25.4437109375
+2023-11-18 17:12:06,222 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:12:06,222 - TrainModel - INFO - Train total_loss is -25.4437109375
+2023-11-18 17:12:06,222 - TrainModel - INFO - Epoch 249/250, learning rate = 0.000016
+2023-11-18 17:12:06,222 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:12:17,640 - TrainModel - INFO - Train nll is -25.259423828125
+2023-11-18 17:12:17,640 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:12:17,640 - TrainModel - INFO - Train total_loss is -25.259423828125
+2023-11-18 17:12:17,641 - TrainModel - INFO - Epoch 250/250, learning rate = 0.000016
+2023-11-18 17:12:17,641 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:12:29,101 - TrainModel - INFO - Train nll is -25.2977392578125
+2023-11-18 17:12:29,101 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:12:29,101 - TrainModel - INFO - Train total_loss is -25.2977392578125
+2023-11-18 17:12:29,101 - TrainModel - INFO - Epoch 251/250, learning rate = 0.000016
+2023-11-18 17:12:29,101 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:12:40,480 - TrainModel - INFO - Train nll is -25.2834912109375
+2023-11-18 17:12:40,480 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:12:40,480 - TrainModel - INFO - Train total_loss is -25.2834912109375
+2023-11-18 17:12:40,480 - TrainModel - INFO - Epoch 252/250, learning rate = 0.000016
+2023-11-18 17:12:40,480 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:12:51,989 - TrainModel - INFO - Train nll is -25.19097900390625
+2023-11-18 17:12:51,989 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:12:51,989 - TrainModel - INFO - Train total_loss is -25.19097900390625
+2023-11-18 17:12:51,989 - TrainModel - INFO - Epoch 253/250, learning rate = 0.000016
+2023-11-18 17:12:51,989 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:13:03,333 - TrainModel - INFO - Train nll is -25.05179931640625
+2023-11-18 17:13:03,333 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:13:03,333 - TrainModel - INFO - Train total_loss is -25.05179931640625
+2023-11-18 17:13:03,333 - TrainModel - INFO - Epoch 254/250, learning rate = 0.000016
+2023-11-18 17:13:03,334 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:13:14,775 - TrainModel - INFO - Train nll is -25.02288330078125
+2023-11-18 17:13:14,775 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:13:14,775 - TrainModel - INFO - Train total_loss is -25.02288330078125
+2023-11-18 17:13:14,776 - TrainModel - INFO - Epoch 255/250, learning rate = 0.000016
+2023-11-18 17:13:14,776 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:13:26,156 - TrainModel - INFO - Train nll is -25.6740771484375
+2023-11-18 17:13:26,156 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:13:26,156 - TrainModel - INFO - Train total_loss is -25.6740771484375
+2023-11-18 17:13:26,157 - TrainModel - INFO - Epoch 256/250, learning rate = 0.000016
+2023-11-18 17:13:26,157 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:13:37,643 - TrainModel - INFO - Train nll is -25.2922021484375
+2023-11-18 17:13:37,643 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:13:37,644 - TrainModel - INFO - Train total_loss is -25.2922021484375
+2023-11-18 17:13:37,644 - TrainModel - INFO - Epoch 257/250, learning rate = 0.000016
+2023-11-18 17:13:37,644 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:13:49,069 - TrainModel - INFO - Train nll is -25.1444140625
+2023-11-18 17:13:49,069 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:13:49,069 - TrainModel - INFO - Train total_loss is -25.1444140625
+2023-11-18 17:13:49,070 - TrainModel - INFO - Epoch 258/250, learning rate = 0.000016
+2023-11-18 17:13:49,070 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:14:00,439 - TrainModel - INFO - Train nll is -24.856455078125
+2023-11-18 17:14:00,439 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:14:00,439 - TrainModel - INFO - Train total_loss is -24.856455078125
+2023-11-18 17:14:00,440 - TrainModel - INFO - Epoch 259/250, learning rate = 0.000016
+2023-11-18 17:14:00,440 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:14:11,796 - TrainModel - INFO - Train nll is -25.222939453125
+2023-11-18 17:14:11,797 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:14:11,797 - TrainModel - INFO - Train total_loss is -25.222939453125
+2023-11-18 17:14:11,797 - TrainModel - INFO - Epoch 260/250, learning rate = 0.000016
+2023-11-18 17:14:11,797 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:14:23,240 - TrainModel - INFO - Train nll is -25.66059814453125
+2023-11-18 17:14:23,240 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:14:23,240 - TrainModel - INFO - Train total_loss is -25.66059814453125
+2023-11-18 17:14:23,241 - TrainModel - INFO - Epoch 261/250, learning rate = 0.000016
+2023-11-18 17:14:23,241 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:14:34,666 - TrainModel - INFO - Train nll is -25.09507568359375
+2023-11-18 17:14:34,666 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:14:34,666 - TrainModel - INFO - Train total_loss is -25.09507568359375
+2023-11-18 17:14:34,667 - TrainModel - INFO - Epoch 262/250, learning rate = 0.000016
+2023-11-18 17:14:34,667 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:14:46,089 - TrainModel - INFO - Train nll is -25.56658935546875
+2023-11-18 17:14:46,089 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:14:46,089 - TrainModel - INFO - Train total_loss is -25.56658935546875
+2023-11-18 17:14:46,089 - TrainModel - INFO - Epoch 263/250, learning rate = 0.000016
+2023-11-18 17:14:46,090 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:14:57,464 - TrainModel - INFO - Train nll is -25.41972900390625
+2023-11-18 17:14:57,464 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:14:57,464 - TrainModel - INFO - Train total_loss is -25.41972900390625
+2023-11-18 17:14:57,465 - TrainModel - INFO - Epoch 264/250, learning rate = 0.000016
+2023-11-18 17:14:57,465 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:15:08,830 - TrainModel - INFO - Train nll is -25.57044189453125
+2023-11-18 17:15:08,830 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:15:08,830 - TrainModel - INFO - Train total_loss is -25.57044189453125
+2023-11-18 17:15:08,830 - TrainModel - INFO - Epoch 265/250, learning rate = 0.000016
+2023-11-18 17:15:08,831 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:15:20,217 - TrainModel - INFO - Train nll is -25.35082763671875
+2023-11-18 17:15:20,217 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:15:20,217 - TrainModel - INFO - Train total_loss is -25.35082763671875
+2023-11-18 17:15:20,218 - TrainModel - INFO - Epoch 266/250, learning rate = 0.000016
+2023-11-18 17:15:20,218 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:15:31,632 - TrainModel - INFO - Train nll is -25.3930029296875
+2023-11-18 17:15:31,632 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:15:31,632 - TrainModel - INFO - Train total_loss is -25.3930029296875
+2023-11-18 17:15:31,633 - TrainModel - INFO - Epoch 267/250, learning rate = 0.000016
+2023-11-18 17:15:31,633 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:15:43,115 - TrainModel - INFO - Train nll is -25.3498828125
+2023-11-18 17:15:43,115 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:15:43,115 - TrainModel - INFO - Train total_loss is -25.3498828125
+2023-11-18 17:15:43,116 - TrainModel - INFO - Epoch 268/250, learning rate = 0.000016
+2023-11-18 17:15:43,116 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:15:54,508 - TrainModel - INFO - Train nll is -25.29744873046875
+2023-11-18 17:15:54,508 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:15:54,508 - TrainModel - INFO - Train total_loss is -25.29744873046875
+2023-11-18 17:15:54,508 - TrainModel - INFO - Epoch 269/250, learning rate = 0.000016
+2023-11-18 17:15:54,508 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:16:05,913 - TrainModel - INFO - Train nll is -25.33253173828125
+2023-11-18 17:16:05,913 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:16:05,913 - TrainModel - INFO - Train total_loss is -25.33253173828125
+2023-11-18 17:16:05,913 - TrainModel - INFO - Epoch 270/250, learning rate = 0.000016
+2023-11-18 17:16:05,913 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:16:17,449 - TrainModel - INFO - Train nll is -25.505712890625
+2023-11-18 17:16:17,449 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:16:17,449 - TrainModel - INFO - Train total_loss is -25.505712890625
+2023-11-18 17:16:17,450 - TrainModel - INFO - Epoch 271/250, learning rate = 0.000016
+2023-11-18 17:16:17,450 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:16:28,852 - TrainModel - INFO - Train nll is -25.42103271484375
+2023-11-18 17:16:28,852 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:16:28,852 - TrainModel - INFO - Train total_loss is -25.42103271484375
+2023-11-18 17:16:28,853 - TrainModel - INFO - Epoch 272/250, learning rate = 0.000016
+2023-11-18 17:16:28,853 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:16:40,551 - TrainModel - INFO - Train nll is -25.51674560546875
+2023-11-18 17:16:40,551 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:16:40,551 - TrainModel - INFO - Train total_loss is -25.51674560546875
+2023-11-18 17:16:40,552 - TrainModel - INFO - Epoch 273/250, learning rate = 0.000016
+2023-11-18 17:16:40,552 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:16:52,131 - TrainModel - INFO - Train nll is -25.38720458984375
+2023-11-18 17:16:52,131 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:16:52,131 - TrainModel - INFO - Train total_loss is -25.38720458984375
+2023-11-18 17:16:52,131 - TrainModel - INFO - Epoch 274/250, learning rate = 0.000016
+2023-11-18 17:16:52,131 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:17:03,937 - TrainModel - INFO - Train nll is -25.40333251953125
+2023-11-18 17:17:03,937 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:17:03,937 - TrainModel - INFO - Train total_loss is -25.40333251953125
+2023-11-18 17:17:03,938 - TrainModel - INFO - Epoch 275/250, learning rate = 0.000016
+2023-11-18 17:17:03,938 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:17:15,635 - TrainModel - INFO - Train nll is -25.56614501953125
+2023-11-18 17:17:15,635 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:17:15,635 - TrainModel - INFO - Train total_loss is -25.56614501953125
+2023-11-18 17:17:15,636 - TrainModel - INFO - Epoch 276/250, learning rate = 0.000016
+2023-11-18 17:17:15,636 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:17:27,283 - TrainModel - INFO - Train nll is -25.18974365234375
+2023-11-18 17:17:27,284 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:17:27,284 - TrainModel - INFO - Train total_loss is -25.18974365234375
+2023-11-18 17:17:27,284 - TrainModel - INFO - Epoch 277/250, learning rate = 0.000016
+2023-11-18 17:17:27,284 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:17:38,775 - TrainModel - INFO - Train nll is -25.694814453125
+2023-11-18 17:17:38,775 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:17:38,775 - TrainModel - INFO - Train total_loss is -25.694814453125
+2023-11-18 17:17:38,775 - TrainModel - INFO - Epoch 278/250, learning rate = 0.000016
+2023-11-18 17:17:38,775 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:17:50,265 - TrainModel - INFO - Train nll is -25.6693115234375
+2023-11-18 17:17:50,266 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:17:50,266 - TrainModel - INFO - Train total_loss is -25.6693115234375
+2023-11-18 17:17:50,266 - TrainModel - INFO - Epoch 279/250, learning rate = 0.000016
+2023-11-18 17:17:50,266 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:18:01,687 - TrainModel - INFO - Train nll is -25.147666015625
+2023-11-18 17:18:01,687 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:18:01,687 - TrainModel - INFO - Train total_loss is -25.147666015625
+2023-11-18 17:18:01,688 - TrainModel - INFO - Epoch 280/250, learning rate = 0.000016
+2023-11-18 17:18:01,688 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:18:13,067 - TrainModel - INFO - Train nll is -24.95935302734375
+2023-11-18 17:18:13,067 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:18:13,067 - TrainModel - INFO - Train total_loss is -24.95935302734375
+2023-11-18 17:18:13,068 - TrainModel - INFO - Epoch 281/250, learning rate = 0.000008
+2023-11-18 17:18:13,068 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:18:24,583 - TrainModel - INFO - Train nll is -25.28830078125
+2023-11-18 17:18:24,583 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:18:24,583 - TrainModel - INFO - Train total_loss is -25.28830078125
+2023-11-18 17:18:24,583 - TrainModel - INFO - Epoch 282/250, learning rate = 0.000008
+2023-11-18 17:18:24,583 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:18:36,239 - TrainModel - INFO - Train nll is -25.40530517578125
+2023-11-18 17:18:36,239 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:18:36,239 - TrainModel - INFO - Train total_loss is -25.40530517578125
+2023-11-18 17:18:36,240 - TrainModel - INFO - Epoch 283/250, learning rate = 0.000008
+2023-11-18 17:18:36,240 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:18:47,774 - TrainModel - INFO - Train nll is -25.79780517578125
+2023-11-18 17:18:47,774 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:18:47,774 - TrainModel - INFO - Train total_loss is -25.79780517578125
+2023-11-18 17:18:47,775 - TrainModel - INFO - Epoch 284/250, learning rate = 0.000008
+2023-11-18 17:18:47,775 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:18:59,311 - TrainModel - INFO - Train nll is -25.292197265625
+2023-11-18 17:18:59,311 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:18:59,311 - TrainModel - INFO - Train total_loss is -25.292197265625
+2023-11-18 17:18:59,312 - TrainModel - INFO - Epoch 285/250, learning rate = 0.000008
+2023-11-18 17:18:59,312 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:19:10,966 - TrainModel - INFO - Train nll is -25.5410009765625
+2023-11-18 17:19:10,966 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:19:10,966 - TrainModel - INFO - Train total_loss is -25.5410009765625
+2023-11-18 17:19:10,967 - TrainModel - INFO - Epoch 286/250, learning rate = 0.000008
+2023-11-18 17:19:10,967 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:19:22,456 - TrainModel - INFO - Train nll is -25.470234375
+2023-11-18 17:19:22,456 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:19:22,456 - TrainModel - INFO - Train total_loss is -25.470234375
+2023-11-18 17:19:22,457 - TrainModel - INFO - Epoch 287/250, learning rate = 0.000008
+2023-11-18 17:19:22,457 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:19:33,915 - TrainModel - INFO - Train nll is -24.90912109375
+2023-11-18 17:19:33,915 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:19:33,915 - TrainModel - INFO - Train total_loss is -24.90912109375
+2023-11-18 17:19:33,916 - TrainModel - INFO - Epoch 288/250, learning rate = 0.000008
+2023-11-18 17:19:33,916 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:19:45,527 - TrainModel - INFO - Train nll is -25.56152587890625
+2023-11-18 17:19:45,527 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:19:45,527 - TrainModel - INFO - Train total_loss is -25.56152587890625
+2023-11-18 17:19:45,527 - TrainModel - INFO - Epoch 289/250, learning rate = 0.000008
+2023-11-18 17:19:45,527 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:19:57,495 - TrainModel - INFO - Train nll is -25.35633056640625
+2023-11-18 17:19:57,496 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:19:57,496 - TrainModel - INFO - Train total_loss is -25.35633056640625
+2023-11-18 17:19:57,496 - TrainModel - INFO - Epoch 290/250, learning rate = 0.000008
+2023-11-18 17:19:57,496 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:20:09,184 - TrainModel - INFO - Train nll is -25.1177197265625
+2023-11-18 17:20:09,185 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:20:09,185 - TrainModel - INFO - Train total_loss is -25.1177197265625
+2023-11-18 17:20:09,185 - TrainModel - INFO - Epoch 291/250, learning rate = 0.000008
+2023-11-18 17:20:09,185 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:20:20,665 - TrainModel - INFO - Train nll is -25.65965087890625
+2023-11-18 17:20:20,665 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:20:20,665 - TrainModel - INFO - Train total_loss is -25.65965087890625
+2023-11-18 17:20:20,666 - TrainModel - INFO - Epoch 292/250, learning rate = 0.000008
+2023-11-18 17:20:20,666 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:20:32,137 - TrainModel - INFO - Train nll is -25.45027099609375
+2023-11-18 17:20:32,137 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:20:32,137 - TrainModel - INFO - Train total_loss is -25.45027099609375
+2023-11-18 17:20:32,138 - TrainModel - INFO - Epoch 293/250, learning rate = 0.000008
+2023-11-18 17:20:32,138 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:20:43,706 - TrainModel - INFO - Train nll is -25.3097265625
+2023-11-18 17:20:43,707 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:20:43,707 - TrainModel - INFO - Train total_loss is -25.3097265625
+2023-11-18 17:20:43,707 - TrainModel - INFO - Epoch 294/250, learning rate = 0.000008
+2023-11-18 17:20:43,707 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:20:55,549 - TrainModel - INFO - Train nll is -25.40079833984375
+2023-11-18 17:20:55,549 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:20:55,549 - TrainModel - INFO - Train total_loss is -25.40079833984375
+2023-11-18 17:20:55,549 - TrainModel - INFO - Epoch 295/250, learning rate = 0.000008
+2023-11-18 17:20:55,549 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:21:06,873 - TrainModel - INFO - Train nll is -25.619755859375
+2023-11-18 17:21:06,873 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:21:06,873 - TrainModel - INFO - Train total_loss is -25.619755859375
+2023-11-18 17:21:06,873 - TrainModel - INFO - Epoch 296/250, learning rate = 0.000008
+2023-11-18 17:21:06,873 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:21:18,418 - TrainModel - INFO - Train nll is -25.28840087890625
+2023-11-18 17:21:18,419 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:21:18,419 - TrainModel - INFO - Train total_loss is -25.28840087890625
+2023-11-18 17:21:18,419 - TrainModel - INFO - Epoch 297/250, learning rate = 0.000008
+2023-11-18 17:21:18,419 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:21:29,890 - TrainModel - INFO - Train nll is -25.68392578125
+2023-11-18 17:21:29,890 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:21:29,890 - TrainModel - INFO - Train total_loss is -25.68392578125
+2023-11-18 17:21:29,891 - TrainModel - INFO - Epoch 298/250, learning rate = 0.000008
+2023-11-18 17:21:29,891 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:21:41,510 - TrainModel - INFO - Train nll is -25.23885009765625
+2023-11-18 17:21:41,511 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:21:41,511 - TrainModel - INFO - Train total_loss is -25.23885009765625
+2023-11-18 17:21:41,511 - TrainModel - INFO - Epoch 299/250, learning rate = 0.000008
+2023-11-18 17:21:41,511 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:21:53,086 - TrainModel - INFO - Train nll is -25.53914306640625
+2023-11-18 17:21:53,086 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:21:53,086 - TrainModel - INFO - Train total_loss is -25.53914306640625
+2023-11-18 17:21:53,087 - TrainModel - INFO - Epoch 300/250, learning rate = 0.000008
+2023-11-18 17:21:53,087 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:22:04,516 - TrainModel - INFO - Train nll is -25.36674072265625
+2023-11-18 17:22:04,516 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:22:04,516 - TrainModel - INFO - Train total_loss is -25.36674072265625
+2023-11-18 17:22:04,517 - TrainModel - INFO - Epoch 301/250, learning rate = 0.000008
+2023-11-18 17:22:04,517 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:22:04,588 - TrainModel - INFO - Saving model at epoch 301, path ./glow_train/ckpt/model_000301.pt
+2023-11-18 17:22:16,383 - TrainModel - INFO - Train nll is -25.61540283203125
+2023-11-18 17:22:16,384 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:22:16,384 - TrainModel - INFO - Train total_loss is -25.61540283203125
+2023-11-18 17:22:16,384 - TrainModel - INFO - Epoch 302/250, learning rate = 0.000008
+2023-11-18 17:22:16,384 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:22:28,001 - TrainModel - INFO - Train nll is -25.27083251953125
+2023-11-18 17:22:28,001 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:22:28,001 - TrainModel - INFO - Train total_loss is -25.27083251953125
+2023-11-18 17:22:28,002 - TrainModel - INFO - Epoch 303/250, learning rate = 0.000008
+2023-11-18 17:22:28,002 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:22:40,595 - TrainModel - INFO - Train nll is -25.50232177734375
+2023-11-18 17:22:40,595 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:22:40,595 - TrainModel - INFO - Train total_loss is -25.50232177734375
+2023-11-18 17:22:40,596 - TrainModel - INFO - Epoch 304/250, learning rate = 0.000008
+2023-11-18 17:22:40,596 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:22:53,215 - TrainModel - INFO - Train nll is -25.87912841796875
+2023-11-18 17:22:53,216 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:22:53,216 - TrainModel - INFO - Train total_loss is -25.87912841796875
+2023-11-18 17:22:53,216 - TrainModel - INFO - Epoch 305/250, learning rate = 0.000008
+2023-11-18 17:22:53,216 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:23:04,841 - TrainModel - INFO - Train nll is -25.0471630859375
+2023-11-18 17:23:04,841 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:23:04,841 - TrainModel - INFO - Train total_loss is -25.0471630859375
+2023-11-18 17:23:04,841 - TrainModel - INFO - Epoch 306/250, learning rate = 0.000008
+2023-11-18 17:23:04,841 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:23:16,338 - TrainModel - INFO - Train nll is -25.67331787109375
+2023-11-18 17:23:16,338 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:23:16,338 - TrainModel - INFO - Train total_loss is -25.67331787109375
+2023-11-18 17:23:16,339 - TrainModel - INFO - Epoch 307/250, learning rate = 0.000008
+2023-11-18 17:23:16,339 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:23:27,813 - TrainModel - INFO - Train nll is -25.2993408203125
+2023-11-18 17:23:27,813 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:23:27,813 - TrainModel - INFO - Train total_loss is -25.2993408203125
+2023-11-18 17:23:27,814 - TrainModel - INFO - Epoch 308/250, learning rate = 0.000008
+2023-11-18 17:23:27,814 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:23:39,238 - TrainModel - INFO - Train nll is -25.27884521484375
+2023-11-18 17:23:39,239 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:23:39,239 - TrainModel - INFO - Train total_loss is -25.27884521484375
+2023-11-18 17:23:39,239 - TrainModel - INFO - Epoch 309/250, learning rate = 0.000008
+2023-11-18 17:23:39,239 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:23:50,732 - TrainModel - INFO - Train nll is -25.49469970703125
+2023-11-18 17:23:50,732 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:23:50,732 - TrainModel - INFO - Train total_loss is -25.49469970703125
+2023-11-18 17:23:50,733 - TrainModel - INFO - Epoch 310/250, learning rate = 0.000008
+2023-11-18 17:23:50,733 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:24:02,192 - TrainModel - INFO - Train nll is -25.607548828125
+2023-11-18 17:24:02,193 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:24:02,193 - TrainModel - INFO - Train total_loss is -25.607548828125
+2023-11-18 17:24:02,193 - TrainModel - INFO - Epoch 311/250, learning rate = 0.000008
+2023-11-18 17:24:02,193 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:24:13,587 - TrainModel - INFO - Train nll is -25.69045654296875
+2023-11-18 17:24:13,588 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:24:13,588 - TrainModel - INFO - Train total_loss is -25.69045654296875
+2023-11-18 17:24:13,588 - TrainModel - INFO - Epoch 312/250, learning rate = 0.000008
+2023-11-18 17:24:13,588 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:24:25,029 - TrainModel - INFO - Train nll is -25.42430908203125
+2023-11-18 17:24:25,029 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:24:25,029 - TrainModel - INFO - Train total_loss is -25.42430908203125
+2023-11-18 17:24:25,030 - TrainModel - INFO - Epoch 313/250, learning rate = 0.000008
+2023-11-18 17:24:25,030 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:24:36,447 - TrainModel - INFO - Train nll is -25.532197265625
+2023-11-18 17:24:36,447 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:24:36,447 - TrainModel - INFO - Train total_loss is -25.532197265625
+2023-11-18 17:24:36,448 - TrainModel - INFO - Epoch 314/250, learning rate = 0.000008
+2023-11-18 17:24:36,448 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:24:47,883 - TrainModel - INFO - Train nll is -25.3582763671875
+2023-11-18 17:24:47,884 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:24:47,884 - TrainModel - INFO - Train total_loss is -25.3582763671875
+2023-11-18 17:24:47,884 - TrainModel - INFO - Epoch 315/250, learning rate = 0.000008
+2023-11-18 17:24:47,884 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:24:59,353 - TrainModel - INFO - Train nll is -25.49376220703125
+2023-11-18 17:24:59,353 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:24:59,353 - TrainModel - INFO - Train total_loss is -25.49376220703125
+2023-11-18 17:24:59,353 - TrainModel - INFO - Epoch 316/250, learning rate = 0.000008
+2023-11-18 17:24:59,353 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:25:10,755 - TrainModel - INFO - Train nll is -25.8983447265625
+2023-11-18 17:25:10,756 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:25:10,756 - TrainModel - INFO - Train total_loss is -25.8983447265625
+2023-11-18 17:25:10,756 - TrainModel - INFO - Epoch 317/250, learning rate = 0.000008
+2023-11-18 17:25:10,756 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:25:22,165 - TrainModel - INFO - Train nll is -25.52295654296875
+2023-11-18 17:25:22,165 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:25:22,165 - TrainModel - INFO - Train total_loss is -25.52295654296875
+2023-11-18 17:25:22,166 - TrainModel - INFO - Epoch 318/250, learning rate = 0.000008
+2023-11-18 17:25:22,166 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:25:33,574 - TrainModel - INFO - Train nll is -25.3483740234375
+2023-11-18 17:25:33,574 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:25:33,574 - TrainModel - INFO - Train total_loss is -25.3483740234375
+2023-11-18 17:25:33,574 - TrainModel - INFO - Epoch 319/250, learning rate = 0.000008
+2023-11-18 17:25:33,574 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:25:45,086 - TrainModel - INFO - Train nll is -25.6581201171875
+2023-11-18 17:25:45,086 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:25:45,086 - TrainModel - INFO - Train total_loss is -25.6581201171875
+2023-11-18 17:25:45,087 - TrainModel - INFO - Epoch 320/250, learning rate = 0.000008
+2023-11-18 17:25:45,087 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:25:56,561 - TrainModel - INFO - Train nll is -25.52017333984375
+2023-11-18 17:25:56,561 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:25:56,561 - TrainModel - INFO - Train total_loss is -25.52017333984375
+2023-11-18 17:25:56,562 - TrainModel - INFO - Epoch 321/250, learning rate = 0.000008
+2023-11-18 17:25:56,562 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:26:07,994 - TrainModel - INFO - Train nll is -25.36316162109375
+2023-11-18 17:26:07,994 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:26:07,994 - TrainModel - INFO - Train total_loss is -25.36316162109375
+2023-11-18 17:26:07,995 - TrainModel - INFO - Epoch 322/250, learning rate = 0.000008
+2023-11-18 17:26:07,995 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:26:19,386 - TrainModel - INFO - Train nll is -25.42610595703125
+2023-11-18 17:26:19,386 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:26:19,386 - TrainModel - INFO - Train total_loss is -25.42610595703125
+2023-11-18 17:26:19,387 - TrainModel - INFO - Epoch 323/250, learning rate = 0.000008
+2023-11-18 17:26:19,387 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:26:30,958 - TrainModel - INFO - Train nll is -25.6555224609375
+2023-11-18 17:26:30,959 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:26:30,959 - TrainModel - INFO - Train total_loss is -25.6555224609375
+2023-11-18 17:26:30,959 - TrainModel - INFO - Epoch 324/250, learning rate = 0.000008
+2023-11-18 17:26:30,959 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:26:42,730 - TrainModel - INFO - Train nll is -25.51476318359375
+2023-11-18 17:26:42,730 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:26:42,730 - TrainModel - INFO - Train total_loss is -25.51476318359375
+2023-11-18 17:26:42,731 - TrainModel - INFO - Epoch 325/250, learning rate = 0.000008
+2023-11-18 17:26:42,731 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:26:55,714 - TrainModel - INFO - Train nll is -25.41863037109375
+2023-11-18 17:26:55,714 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:26:55,714 - TrainModel - INFO - Train total_loss is -25.41863037109375
+2023-11-18 17:26:55,714 - TrainModel - INFO - Epoch 326/250, learning rate = 0.000008
+2023-11-18 17:26:55,714 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:27:08,047 - TrainModel - INFO - Train nll is -25.310478515625
+2023-11-18 17:27:08,047 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:27:08,047 - TrainModel - INFO - Train total_loss is -25.310478515625
+2023-11-18 17:27:08,047 - TrainModel - INFO - Epoch 327/250, learning rate = 0.000008
+2023-11-18 17:27:08,048 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:27:19,717 - TrainModel - INFO - Train nll is -25.3016943359375
+2023-11-18 17:27:19,717 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:27:19,717 - TrainModel - INFO - Train total_loss is -25.3016943359375
+2023-11-18 17:27:19,718 - TrainModel - INFO - Epoch 328/250, learning rate = 0.000008
+2023-11-18 17:27:19,718 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:27:31,989 - TrainModel - INFO - Train nll is -24.91963134765625
+2023-11-18 17:27:31,989 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:27:31,989 - TrainModel - INFO - Train total_loss is -24.91963134765625
+2023-11-18 17:27:31,990 - TrainModel - INFO - Epoch 329/250, learning rate = 0.000008
+2023-11-18 17:27:31,990 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:27:43,638 - TrainModel - INFO - Train nll is -25.32494140625
+2023-11-18 17:27:43,638 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:27:43,638 - TrainModel - INFO - Train total_loss is -25.32494140625
+2023-11-18 17:27:43,639 - TrainModel - INFO - Epoch 330/250, learning rate = 0.000008
+2023-11-18 17:27:43,639 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:27:55,250 - TrainModel - INFO - Train nll is -25.3137744140625
+2023-11-18 17:27:55,250 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:27:55,250 - TrainModel - INFO - Train total_loss is -25.3137744140625
+2023-11-18 17:27:55,250 - TrainModel - INFO - Epoch 331/250, learning rate = 0.000008
+2023-11-18 17:27:55,251 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:28:06,948 - TrainModel - INFO - Train nll is -25.56855224609375
+2023-11-18 17:28:06,948 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:28:06,948 - TrainModel - INFO - Train total_loss is -25.56855224609375
+2023-11-18 17:28:06,949 - TrainModel - INFO - Epoch 332/250, learning rate = 0.000008
+2023-11-18 17:28:06,949 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:28:18,986 - TrainModel - INFO - Train nll is -25.30274658203125
+2023-11-18 17:28:18,986 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:28:18,986 - TrainModel - INFO - Train total_loss is -25.30274658203125
+2023-11-18 17:28:18,987 - TrainModel - INFO - Epoch 333/250, learning rate = 0.000008
+2023-11-18 17:28:18,987 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:28:31,049 - TrainModel - INFO - Train nll is -25.61957275390625
+2023-11-18 17:28:31,049 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:28:31,049 - TrainModel - INFO - Train total_loss is -25.61957275390625
+2023-11-18 17:28:31,050 - TrainModel - INFO - Epoch 334/250, learning rate = 0.000008
+2023-11-18 17:28:31,050 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:28:43,097 - TrainModel - INFO - Train nll is -25.57415771484375
+2023-11-18 17:28:43,097 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:28:43,097 - TrainModel - INFO - Train total_loss is -25.57415771484375
+2023-11-18 17:28:43,097 - TrainModel - INFO - Epoch 335/250, learning rate = 0.000008
+2023-11-18 17:28:43,097 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:28:55,144 - TrainModel - INFO - Train nll is -25.25312255859375
+2023-11-18 17:28:55,144 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:28:55,144 - TrainModel - INFO - Train total_loss is -25.25312255859375
+2023-11-18 17:28:55,145 - TrainModel - INFO - Epoch 336/250, learning rate = 0.000008
+2023-11-18 17:28:55,145 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:29:07,138 - TrainModel - INFO - Train nll is -25.573515625
+2023-11-18 17:29:07,138 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:29:07,138 - TrainModel - INFO - Train total_loss is -25.573515625
+2023-11-18 17:29:07,139 - TrainModel - INFO - Epoch 337/250, learning rate = 0.000008
+2023-11-18 17:29:07,139 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:29:19,159 - TrainModel - INFO - Train nll is -25.231171875
+2023-11-18 17:29:19,160 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:29:19,160 - TrainModel - INFO - Train total_loss is -25.231171875
+2023-11-18 17:29:19,160 - TrainModel - INFO - Epoch 338/250, learning rate = 0.000008
+2023-11-18 17:29:19,160 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:29:31,366 - TrainModel - INFO - Train nll is -25.61228515625
+2023-11-18 17:29:31,366 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:29:31,366 - TrainModel - INFO - Train total_loss is -25.61228515625
+2023-11-18 17:29:31,366 - TrainModel - INFO - Epoch 339/250, learning rate = 0.000008
+2023-11-18 17:29:31,366 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:29:43,397 - TrainModel - INFO - Train nll is -26.03994140625
+2023-11-18 17:29:43,397 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:29:43,397 - TrainModel - INFO - Train total_loss is -26.03994140625
+2023-11-18 17:29:43,397 - TrainModel - INFO - Epoch 340/250, learning rate = 0.000008
+2023-11-18 17:29:43,397 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:29:55,433 - TrainModel - INFO - Train nll is -25.639140625
+2023-11-18 17:29:55,433 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:29:55,433 - TrainModel - INFO - Train total_loss is -25.639140625
+2023-11-18 17:29:55,434 - TrainModel - INFO - Epoch 341/250, learning rate = 0.000008
+2023-11-18 17:29:55,434 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:30:07,469 - TrainModel - INFO - Train nll is -25.6550390625
+2023-11-18 17:30:07,469 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:30:07,469 - TrainModel - INFO - Train total_loss is -25.6550390625
+2023-11-18 17:30:07,469 - TrainModel - INFO - Epoch 342/250, learning rate = 0.000008
+2023-11-18 17:30:07,469 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:30:19,488 - TrainModel - INFO - Train nll is -25.23825927734375
+2023-11-18 17:30:19,489 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:30:19,489 - TrainModel - INFO - Train total_loss is -25.23825927734375
+2023-11-18 17:30:19,489 - TrainModel - INFO - Epoch 343/250, learning rate = 0.000008
+2023-11-18 17:30:19,489 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:30:31,582 - TrainModel - INFO - Train nll is -25.67209716796875
+2023-11-18 17:30:31,582 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:30:31,582 - TrainModel - INFO - Train total_loss is -25.67209716796875
+2023-11-18 17:30:31,582 - TrainModel - INFO - Epoch 344/250, learning rate = 0.000008
+2023-11-18 17:30:31,583 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:30:43,594 - TrainModel - INFO - Train nll is -25.79839599609375
+2023-11-18 17:30:43,594 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:30:43,594 - TrainModel - INFO - Train total_loss is -25.79839599609375
+2023-11-18 17:30:43,595 - TrainModel - INFO - Epoch 345/250, learning rate = 0.000008
+2023-11-18 17:30:43,595 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:30:55,645 - TrainModel - INFO - Train nll is -25.6037744140625
+2023-11-18 17:30:55,645 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:30:55,645 - TrainModel - INFO - Train total_loss is -25.6037744140625
+2023-11-18 17:30:55,645 - TrainModel - INFO - Epoch 346/250, learning rate = 0.000008
+2023-11-18 17:30:55,645 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:31:07,745 - TrainModel - INFO - Train nll is -25.7896826171875
+2023-11-18 17:31:07,745 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:31:07,745 - TrainModel - INFO - Train total_loss is -25.7896826171875
+2023-11-18 17:31:07,746 - TrainModel - INFO - Epoch 347/250, learning rate = 0.000008
+2023-11-18 17:31:07,746 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:31:19,780 - TrainModel - INFO - Train nll is -25.45534423828125
+2023-11-18 17:31:19,781 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:31:19,781 - TrainModel - INFO - Train total_loss is -25.45534423828125
+2023-11-18 17:31:19,781 - TrainModel - INFO - Epoch 348/250, learning rate = 0.000008
+2023-11-18 17:31:19,781 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:31:31,785 - TrainModel - INFO - Train nll is -25.4496826171875
+2023-11-18 17:31:31,785 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:31:31,785 - TrainModel - INFO - Train total_loss is -25.4496826171875
+2023-11-18 17:31:31,786 - TrainModel - INFO - Epoch 349/250, learning rate = 0.000008
+2023-11-18 17:31:31,786 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:31:43,809 - TrainModel - INFO - Train nll is -25.59668701171875
+2023-11-18 17:31:43,809 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:31:43,809 - TrainModel - INFO - Train total_loss is -25.59668701171875
+2023-11-18 17:31:43,810 - TrainModel - INFO - Epoch 350/250, learning rate = 0.000008
+2023-11-18 17:31:43,810 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:31:55,845 - TrainModel - INFO - Train nll is -25.18395263671875
+2023-11-18 17:31:55,845 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:31:55,845 - TrainModel - INFO - Train total_loss is -25.18395263671875
+2023-11-18 17:31:55,846 - TrainModel - INFO - Epoch 351/250, learning rate = 0.000008
+2023-11-18 17:31:55,846 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:32:07,921 - TrainModel - INFO - Train nll is -25.19719482421875
+2023-11-18 17:32:07,921 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:32:07,921 - TrainModel - INFO - Train total_loss is -25.19719482421875
+2023-11-18 17:32:07,922 - TrainModel - INFO - Epoch 352/250, learning rate = 0.000008
+2023-11-18 17:32:07,922 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:32:19,976 - TrainModel - INFO - Train nll is -25.40720458984375
+2023-11-18 17:32:19,976 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:32:19,976 - TrainModel - INFO - Train total_loss is -25.40720458984375
+2023-11-18 17:32:19,977 - TrainModel - INFO - Epoch 353/250, learning rate = 0.000008
+2023-11-18 17:32:19,977 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:32:31,978 - TrainModel - INFO - Train nll is -25.14763427734375
+2023-11-18 17:32:31,978 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:32:31,978 - TrainModel - INFO - Train total_loss is -25.14763427734375
+2023-11-18 17:32:31,978 - TrainModel - INFO - Epoch 354/250, learning rate = 0.000008
+2023-11-18 17:32:31,978 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:32:44,010 - TrainModel - INFO - Train nll is -25.45404052734375
+2023-11-18 17:32:44,010 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:32:44,010 - TrainModel - INFO - Train total_loss is -25.45404052734375
+2023-11-18 17:32:44,011 - TrainModel - INFO - Epoch 355/250, learning rate = 0.000008
+2023-11-18 17:32:44,011 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:32:56,021 - TrainModel - INFO - Train nll is -25.5823388671875
+2023-11-18 17:32:56,022 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:32:56,022 - TrainModel - INFO - Train total_loss is -25.5823388671875
+2023-11-18 17:32:56,022 - TrainModel - INFO - Epoch 356/250, learning rate = 0.000008
+2023-11-18 17:32:56,022 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:33:08,090 - TrainModel - INFO - Train nll is -25.50214599609375
+2023-11-18 17:33:08,091 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:33:08,091 - TrainModel - INFO - Train total_loss is -25.50214599609375
+2023-11-18 17:33:08,091 - TrainModel - INFO - Epoch 357/250, learning rate = 0.000008
+2023-11-18 17:33:08,091 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:33:20,079 - TrainModel - INFO - Train nll is -25.71367431640625
+2023-11-18 17:33:20,079 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:33:20,079 - TrainModel - INFO - Train total_loss is -25.71367431640625
+2023-11-18 17:33:20,079 - TrainModel - INFO - Epoch 358/250, learning rate = 0.000008
+2023-11-18 17:33:20,079 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:33:32,172 - TrainModel - INFO - Train nll is -25.25032470703125
+2023-11-18 17:33:32,173 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:33:32,173 - TrainModel - INFO - Train total_loss is -25.25032470703125
+2023-11-18 17:33:32,173 - TrainModel - INFO - Epoch 359/250, learning rate = 0.000008
+2023-11-18 17:33:32,173 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:33:44,226 - TrainModel - INFO - Train nll is -25.4083935546875
+2023-11-18 17:33:44,227 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:33:44,227 - TrainModel - INFO - Train total_loss is -25.4083935546875
+2023-11-18 17:33:44,227 - TrainModel - INFO - Epoch 360/250, learning rate = 0.000008
+2023-11-18 17:33:44,227 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:33:56,249 - TrainModel - INFO - Train nll is -25.63121337890625
+2023-11-18 17:33:56,250 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:33:56,250 - TrainModel - INFO - Train total_loss is -25.63121337890625
+2023-11-18 17:33:56,250 - TrainModel - INFO - Epoch 361/250, learning rate = 0.000008
+2023-11-18 17:33:56,250 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:34:08,238 - TrainModel - INFO - Train nll is -25.913603515625
+2023-11-18 17:34:08,238 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:34:08,238 - TrainModel - INFO - Train total_loss is -25.913603515625
+2023-11-18 17:34:08,239 - TrainModel - INFO - Epoch 362/250, learning rate = 0.000008
+2023-11-18 17:34:08,239 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:34:20,317 - TrainModel - INFO - Train nll is -25.7917626953125
+2023-11-18 17:34:20,318 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:34:20,318 - TrainModel - INFO - Train total_loss is -25.7917626953125
+2023-11-18 17:34:20,318 - TrainModel - INFO - Epoch 363/250, learning rate = 0.000008
+2023-11-18 17:34:20,318 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:34:32,347 - TrainModel - INFO - Train nll is -25.632333984375
+2023-11-18 17:34:32,347 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:34:32,347 - TrainModel - INFO - Train total_loss is -25.632333984375
+2023-11-18 17:34:32,347 - TrainModel - INFO - Epoch 364/250, learning rate = 0.000008
+2023-11-18 17:34:32,347 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:34:44,223 - TrainModel - INFO - Train nll is -25.6797119140625
+2023-11-18 17:34:44,224 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:34:44,224 - TrainModel - INFO - Train total_loss is -25.6797119140625
+2023-11-18 17:34:44,224 - TrainModel - INFO - Epoch 365/250, learning rate = 0.000008
+2023-11-18 17:34:44,224 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:34:56,120 - TrainModel - INFO - Train nll is -25.52671875
+2023-11-18 17:34:56,121 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:34:56,121 - TrainModel - INFO - Train total_loss is -25.52671875
+2023-11-18 17:34:56,122 - TrainModel - INFO - Epoch 366/250, learning rate = 0.000008
+2023-11-18 17:34:56,122 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:35:07,722 - TrainModel - INFO - Train nll is -25.6667333984375
+2023-11-18 17:35:07,722 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:35:07,722 - TrainModel - INFO - Train total_loss is -25.6667333984375
+2023-11-18 17:35:07,723 - TrainModel - INFO - Epoch 367/250, learning rate = 0.000008
+2023-11-18 17:35:07,723 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:35:19,193 - TrainModel - INFO - Train nll is -25.51095947265625
+2023-11-18 17:35:19,194 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:35:19,194 - TrainModel - INFO - Train total_loss is -25.51095947265625
+2023-11-18 17:35:19,194 - TrainModel - INFO - Epoch 368/250, learning rate = 0.000008
+2023-11-18 17:35:19,194 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:35:30,671 - TrainModel - INFO - Train nll is -25.65112060546875
+2023-11-18 17:35:30,671 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:35:30,671 - TrainModel - INFO - Train total_loss is -25.65112060546875
+2023-11-18 17:35:30,671 - TrainModel - INFO - Epoch 369/250, learning rate = 0.000008
+2023-11-18 17:35:30,671 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:35:42,160 - TrainModel - INFO - Train nll is -25.8184814453125
+2023-11-18 17:35:42,160 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:35:42,161 - TrainModel - INFO - Train total_loss is -25.8184814453125
+2023-11-18 17:35:42,161 - TrainModel - INFO - Epoch 370/250, learning rate = 0.000008
+2023-11-18 17:35:42,161 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:35:53,568 - TrainModel - INFO - Train nll is -25.85151123046875
+2023-11-18 17:35:53,568 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:35:53,568 - TrainModel - INFO - Train total_loss is -25.85151123046875
+2023-11-18 17:35:53,569 - TrainModel - INFO - Epoch 371/250, learning rate = 0.000008
+2023-11-18 17:35:53,569 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:36:04,990 - TrainModel - INFO - Train nll is -25.43525390625
+2023-11-18 17:36:04,991 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:36:04,991 - TrainModel - INFO - Train total_loss is -25.43525390625
+2023-11-18 17:36:04,991 - TrainModel - INFO - Epoch 372/250, learning rate = 0.000008
+2023-11-18 17:36:04,991 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:36:16,508 - TrainModel - INFO - Train nll is -25.57014404296875
+2023-11-18 17:36:16,508 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:36:16,508 - TrainModel - INFO - Train total_loss is -25.57014404296875
+2023-11-18 17:36:16,509 - TrainModel - INFO - Epoch 373/250, learning rate = 0.000008
+2023-11-18 17:36:16,509 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:36:27,975 - TrainModel - INFO - Train nll is -25.2094091796875
+2023-11-18 17:36:27,975 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:36:27,975 - TrainModel - INFO - Train total_loss is -25.2094091796875
+2023-11-18 17:36:27,976 - TrainModel - INFO - Epoch 374/250, learning rate = 0.000008
+2023-11-18 17:36:27,976 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:36:39,333 - TrainModel - INFO - Train nll is -25.55388427734375
+2023-11-18 17:36:39,334 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:36:39,334 - TrainModel - INFO - Train total_loss is -25.55388427734375
+2023-11-18 17:36:39,334 - TrainModel - INFO - Epoch 375/250, learning rate = 0.000008
+2023-11-18 17:36:39,334 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:36:50,765 - TrainModel - INFO - Train nll is -25.5635205078125
+2023-11-18 17:36:50,766 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:36:50,766 - TrainModel - INFO - Train total_loss is -25.5635205078125
+2023-11-18 17:36:50,766 - TrainModel - INFO - Epoch 376/250, learning rate = 0.000008
+2023-11-18 17:36:50,766 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:37:02,190 - TrainModel - INFO - Train nll is -25.58069091796875
+2023-11-18 17:37:02,190 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:37:02,190 - TrainModel - INFO - Train total_loss is -25.58069091796875
+2023-11-18 17:37:02,191 - TrainModel - INFO - Epoch 377/250, learning rate = 0.000008
+2023-11-18 17:37:02,191 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:37:13,622 - TrainModel - INFO - Train nll is -25.5403515625
+2023-11-18 17:37:13,623 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:37:13,623 - TrainModel - INFO - Train total_loss is -25.5403515625
+2023-11-18 17:37:13,623 - TrainModel - INFO - Epoch 378/250, learning rate = 0.000008
+2023-11-18 17:37:13,624 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:37:25,021 - TrainModel - INFO - Train nll is -25.49375
+2023-11-18 17:37:25,021 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:37:25,021 - TrainModel - INFO - Train total_loss is -25.49375
+2023-11-18 17:37:25,022 - TrainModel - INFO - Epoch 379/250, learning rate = 0.000008
+2023-11-18 17:37:25,022 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:37:36,477 - TrainModel - INFO - Train nll is -25.58940185546875
+2023-11-18 17:37:36,477 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:37:36,477 - TrainModel - INFO - Train total_loss is -25.58940185546875
+2023-11-18 17:37:36,478 - TrainModel - INFO - Epoch 380/250, learning rate = 0.000008
+2023-11-18 17:37:36,478 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:37:47,980 - TrainModel - INFO - Train nll is -25.38533935546875
+2023-11-18 17:37:47,980 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:37:47,980 - TrainModel - INFO - Train total_loss is -25.38533935546875
+2023-11-18 17:37:47,981 - TrainModel - INFO - Epoch 381/250, learning rate = 0.000008
+2023-11-18 17:37:47,981 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:37:59,927 - TrainModel - INFO - Train nll is -25.86315673828125
+2023-11-18 17:37:59,928 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:37:59,928 - TrainModel - INFO - Train total_loss is -25.86315673828125
+2023-11-18 17:37:59,928 - TrainModel - INFO - Epoch 382/250, learning rate = 0.000008
+2023-11-18 17:37:59,928 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:38:11,319 - TrainModel - INFO - Train nll is -25.75126708984375
+2023-11-18 17:38:11,319 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:38:11,319 - TrainModel - INFO - Train total_loss is -25.75126708984375
+2023-11-18 17:38:11,320 - TrainModel - INFO - Epoch 383/250, learning rate = 0.000008
+2023-11-18 17:38:11,320 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:38:22,855 - TrainModel - INFO - Train nll is -25.60095458984375
+2023-11-18 17:38:22,856 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:38:22,856 - TrainModel - INFO - Train total_loss is -25.60095458984375
+2023-11-18 17:38:22,856 - TrainModel - INFO - Epoch 384/250, learning rate = 0.000008
+2023-11-18 17:38:22,856 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:38:34,698 - TrainModel - INFO - Train nll is -25.4169970703125
+2023-11-18 17:38:34,698 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:38:34,698 - TrainModel - INFO - Train total_loss is -25.4169970703125
+2023-11-18 17:38:34,699 - TrainModel - INFO - Epoch 385/250, learning rate = 0.000008
+2023-11-18 17:38:34,699 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:38:46,272 - TrainModel - INFO - Train nll is -25.34911865234375
+2023-11-18 17:38:46,272 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:38:46,272 - TrainModel - INFO - Train total_loss is -25.34911865234375
+2023-11-18 17:38:46,273 - TrainModel - INFO - Epoch 386/250, learning rate = 0.000008
+2023-11-18 17:38:46,273 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:38:57,698 - TrainModel - INFO - Train nll is -25.51745849609375
+2023-11-18 17:38:57,698 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:38:57,698 - TrainModel - INFO - Train total_loss is -25.51745849609375
+2023-11-18 17:38:57,698 - TrainModel - INFO - Epoch 387/250, learning rate = 0.000008
+2023-11-18 17:38:57,699 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:39:09,866 - TrainModel - INFO - Train nll is -25.74027587890625
+2023-11-18 17:39:09,866 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:39:09,866 - TrainModel - INFO - Train total_loss is -25.74027587890625
+2023-11-18 17:39:09,867 - TrainModel - INFO - Epoch 388/250, learning rate = 0.000008
+2023-11-18 17:39:09,867 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:39:21,756 - TrainModel - INFO - Train nll is -25.5097607421875
+2023-11-18 17:39:21,756 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:39:21,756 - TrainModel - INFO - Train total_loss is -25.5097607421875
+2023-11-18 17:39:21,757 - TrainModel - INFO - Epoch 389/250, learning rate = 0.000008
+2023-11-18 17:39:21,757 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:39:33,364 - TrainModel - INFO - Train nll is -25.14517822265625
+2023-11-18 17:39:33,364 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:39:33,364 - TrainModel - INFO - Train total_loss is -25.14517822265625
+2023-11-18 17:39:33,364 - TrainModel - INFO - Epoch 390/250, learning rate = 0.000008
+2023-11-18 17:39:33,364 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:39:44,868 - TrainModel - INFO - Train nll is -25.90572509765625
+2023-11-18 17:39:44,868 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:39:44,868 - TrainModel - INFO - Train total_loss is -25.90572509765625
+2023-11-18 17:39:44,868 - TrainModel - INFO - Epoch 391/250, learning rate = 0.000008
+2023-11-18 17:39:44,868 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:39:56,380 - TrainModel - INFO - Train nll is -25.5853857421875
+2023-11-18 17:39:56,380 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:39:56,380 - TrainModel - INFO - Train total_loss is -25.5853857421875
+2023-11-18 17:39:56,381 - TrainModel - INFO - Epoch 392/250, learning rate = 0.000008
+2023-11-18 17:39:56,381 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:40:08,014 - TrainModel - INFO - Train nll is -25.29159423828125
+2023-11-18 17:40:08,014 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:40:08,014 - TrainModel - INFO - Train total_loss is -25.29159423828125
+2023-11-18 17:40:08,014 - TrainModel - INFO - Epoch 393/250, learning rate = 0.000008
+2023-11-18 17:40:08,015 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:40:19,545 - TrainModel - INFO - Train nll is -25.6737548828125
+2023-11-18 17:40:19,546 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:40:19,546 - TrainModel - INFO - Train total_loss is -25.6737548828125
+2023-11-18 17:40:19,546 - TrainModel - INFO - Epoch 394/250, learning rate = 0.000008
+2023-11-18 17:40:19,546 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:40:32,329 - TrainModel - INFO - Train nll is -25.155322265625
+2023-11-18 17:40:32,329 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:40:32,329 - TrainModel - INFO - Train total_loss is -25.155322265625
+2023-11-18 17:40:32,329 - TrainModel - INFO - Epoch 395/250, learning rate = 0.000008
+2023-11-18 17:40:32,329 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:40:44,235 - TrainModel - INFO - Train nll is -25.34439697265625
+2023-11-18 17:40:44,235 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:40:44,235 - TrainModel - INFO - Train total_loss is -25.34439697265625
+2023-11-18 17:40:44,236 - TrainModel - INFO - Epoch 396/250, learning rate = 0.000008
+2023-11-18 17:40:44,236 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:40:55,812 - TrainModel - INFO - Train nll is -25.84273681640625
+2023-11-18 17:40:55,813 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:40:55,813 - TrainModel - INFO - Train total_loss is -25.84273681640625
+2023-11-18 17:40:55,813 - TrainModel - INFO - Epoch 397/250, learning rate = 0.000008
+2023-11-18 17:40:55,813 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:41:07,338 - TrainModel - INFO - Train nll is -25.572177734375
+2023-11-18 17:41:07,338 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:41:07,338 - TrainModel - INFO - Train total_loss is -25.572177734375
+2023-11-18 17:41:07,338 - TrainModel - INFO - Epoch 398/250, learning rate = 0.000008
+2023-11-18 17:41:07,338 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:41:18,865 - TrainModel - INFO - Train nll is -25.49824951171875
+2023-11-18 17:41:18,865 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:41:18,865 - TrainModel - INFO - Train total_loss is -25.49824951171875
+2023-11-18 17:41:18,866 - TrainModel - INFO - Epoch 399/250, learning rate = 0.000008
+2023-11-18 17:41:18,866 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:41:30,436 - TrainModel - INFO - Train nll is -25.47989501953125
+2023-11-18 17:41:30,437 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:41:30,437 - TrainModel - INFO - Train total_loss is -25.47989501953125
+2023-11-18 17:41:30,437 - TrainModel - INFO - Epoch 400/250, learning rate = 0.000008
+2023-11-18 17:41:30,437 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:41:41,935 - TrainModel - INFO - Train nll is -25.2888134765625
+2023-11-18 17:41:41,936 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:41:41,936 - TrainModel - INFO - Train total_loss is -25.2888134765625
+2023-11-18 17:41:41,936 - TrainModel - INFO - Epoch 401/250, learning rate = 0.000008
+2023-11-18 17:41:41,936 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:41:42,010 - TrainModel - INFO - Saving model at epoch 401, path ./glow_train/ckpt/model_000401.pt
+2023-11-18 17:41:53,486 - TrainModel - INFO - Train nll is -25.49501708984375
+2023-11-18 17:41:53,486 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:41:53,486 - TrainModel - INFO - Train total_loss is -25.49501708984375
+2023-11-18 17:41:53,487 - TrainModel - INFO - Epoch 402/250, learning rate = 0.000008
+2023-11-18 17:41:53,487 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:42:05,041 - TrainModel - INFO - Train nll is -25.42095458984375
+2023-11-18 17:42:05,042 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:42:05,042 - TrainModel - INFO - Train total_loss is -25.42095458984375
+2023-11-18 17:42:05,042 - TrainModel - INFO - Epoch 403/250, learning rate = 0.000008
+2023-11-18 17:42:05,042 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:42:17,338 - TrainModel - INFO - Train nll is -25.61523193359375
+2023-11-18 17:42:17,339 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:42:17,339 - TrainModel - INFO - Train total_loss is -25.61523193359375
+2023-11-18 17:42:17,339 - TrainModel - INFO - Epoch 404/250, learning rate = 0.000008
+2023-11-18 17:42:17,339 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:42:28,931 - TrainModel - INFO - Train nll is -25.55097900390625
+2023-11-18 17:42:28,932 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:42:28,932 - TrainModel - INFO - Train total_loss is -25.55097900390625
+2023-11-18 17:42:28,932 - TrainModel - INFO - Epoch 405/250, learning rate = 0.000008
+2023-11-18 17:42:28,932 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:42:40,434 - TrainModel - INFO - Train nll is -25.6733349609375
+2023-11-18 17:42:40,434 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:42:40,434 - TrainModel - INFO - Train total_loss is -25.6733349609375
+2023-11-18 17:42:40,435 - TrainModel - INFO - Epoch 406/250, learning rate = 0.000008
+2023-11-18 17:42:40,435 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:42:52,869 - TrainModel - INFO - Train nll is -25.4832421875
+2023-11-18 17:42:52,869 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:42:52,869 - TrainModel - INFO - Train total_loss is -25.4832421875
+2023-11-18 17:42:52,870 - TrainModel - INFO - Epoch 407/250, learning rate = 0.000008
+2023-11-18 17:42:52,870 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 17:43:04,633 - TrainModel - INFO - Train nll is -25.21743408203125
+2023-11-18 17:43:04,634 - TrainModel - INFO - Train cmap_loss is 0.0
+2023-11-18 17:43:04,634 - TrainModel - INFO - Train total_loss is -25.21743408203125
+2023-11-18 17:43:04,635 - TrainModel - INFO - Epoch 408/250, learning rate = 0.000008
+2023-11-18 17:43:04,635 - TrainModel - INFO - BN momentum updated to 0.010000
+2023-11-18 18:45:22,830 - TrainModel - INFO - Resume from epoch 401
+2023-11-18 18:45:22,952 - TrainModel - INFO - Saving model at epoch 401, path ./glow_train/ckpt/model_000401.pt

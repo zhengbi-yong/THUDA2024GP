@@ -1,0 +1,8 @@
+# 训练GraspIPDF
+python ./network/train.py --config-name ipdf_config --exp-dir ./ipdf_train
+
+# 训练GraspGlow
+python ./network/train.py --config-name glow_config --exp-dir ./glow_train
+
+# 训练ContactNet
+python ./network/train.py --config-name cm_net_config --exp-dir ./cm_net_train

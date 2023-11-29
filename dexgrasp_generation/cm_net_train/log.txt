@@ -1,0 +1,6 @@
+2023-11-06 20:52:06,642 - TrainModel - INFO - Initialize from 0
+2023-11-06 20:52:23,368 - TrainModel - INFO - Saving model at epoch 1, path ./cm_net_train/ckpt/model_000001.pt
+2023-11-18 18:46:24,271 - TrainModel - INFO - Resume from epoch 1
+2023-11-18 18:46:35,237 - TrainModel - INFO - Saving model at epoch 1, path ./cm_net_train/ckpt/model_000001.pt
+2023-11-19 10:58:03,190 - TrainModel - INFO - Resume from epoch 1
+2023-11-19 10:58:11,505 - TrainModel - INFO - Saving model at epoch 1, path ./cm_net_train/ckpt/model_000001.pt
