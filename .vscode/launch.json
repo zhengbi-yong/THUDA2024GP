@@ -1,0 +1,20 @@
+{
+  // 使用 IntelliSense 了解相关属性。
+  // 悬停以查看现有属性的描述。
+  // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "python",
+      "request": "launch",
+      "name": "Python: Debug Script",
+      "program": "${workspaceFolder}/grasp_generation/scripts/generate_leaphand_grasps.py",
+      "args": ["--all", "--result_path", "../data/leaphand_graspdata"],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}/grasp_generation",
+      "env": {
+        "CUDA_VISIBLE_DEVICES": "0"
+      }
+    }
+  ]
+}

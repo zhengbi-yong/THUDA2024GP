@@ -15,7 +15,7 @@ import plotly.graph_objects as go
 import torch
 import transforms3d
 import trimesh as tm
-from utils.leaphand_model import LeapHandModel
+from utils.leaphand_model import LEAPHandModel
 
 torch.manual_seed(1)
 
@@ -26,12 +26,10 @@ if __name__ == "__main__":
 
     # hand model
 
-    hand_model = LeapHandModel(
-        urdf_path="leaphand/robot.urdf",
-        mesh_path="leaphand",
-        contact_points_path="leaphand/contact_points.json",
-        penetration_points_path="leaphand/penetration_points.json",
-        n_surface_points=2000,
+    hand_model = LEAPHandModel(
+        urdf_path="/home/sisyphus/Allegro/DexGraspNet/grasp_generation/leaphand/leaphand_right.urdf",
+        contact_points_path="/home/sisyphus/Allegro/DexGraspNet/grasp_generation/leaphand/contact_points.json",
+        n_surface_points=1000,
         device=device,
     )
     joint_angles = torch.tensor(
