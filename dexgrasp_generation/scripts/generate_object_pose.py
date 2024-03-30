@@ -6,13 +6,19 @@ Description: Generate object pose, random free-fall, use SAPIEN
 
 import os
 
-os.chdir(os.path.dirname(os.path.dirname(__file__)))
-
+# os.chdir(os.path.dirname(os.path.dirname(__file__)))
+# 获取脚本所在目录的路径
+script_dir = os.path.dirname(os.path.abspath(__file__))
+# print(f"当前工作目录：{script_dir}")
+# 改变当前工作目录到脚本所在目录的父目录
+os.chdir(os.path.dirname(script_dir))
+data_dir = os.path.join(os.path.dirname(script_dir), "data/DFCData/meshes")
 import argparse
-import numpy as np
-import transforms3d
 from multiprocessing import Pool
+
+import numpy as np
 import sapien.core as sapien
+import transforms3d
 from tqdm import tqdm
 
 
@@ -20,7 +26,9 @@ def generate_object_pose(_):
 
     args, object_code = _
 
-    if not args.overwrite and os.path.exists(os.path.join(args.data_root_path, object_code, 'poses.npy')):
+    if not args.overwrite and os.path.exists(
+        os.path.join(args.data_root_path, object_code, "poses.npy")
+    ):
         return
 
     # set simulator
@@ -37,15 +45,25 @@ def generate_object_pose(_):
 
     # load object
 
-    if os.path.exists(os.path.join(args.data_root_path, object_code, 'coacd', 'coacd.urdf')) and not os.path.exists(os.path.join(args.data_root_path, object_code, 'coacd', 'coacd_convex_piece_63.obj')):
+    if os.path.exists(
+        os.path.join(args.data_root_path, object_code, "coacd", "coacd.urdf")
+    ) and not os.path.exists(
+        os.path.join(
+            args.data_root_path, object_code, "coacd", "coacd_convex_piece_63.obj"
+        )
+    ):
         loader = scene.create_urdf_loader()
         loader.fix_root_link = False
-        object_actor = loader.load(os.path.join(args.data_root_path, object_code, 'coacd', 'coacd.urdf'))
-        object_actor.set_name(name='object')
+        object_actor = loader.load(
+            os.path.join(args.data_root_path, object_code, "coacd", "coacd.urdf")
+        )
+        object_actor.set_name(name="object")
     else:
         builder = scene.create_actor_builder()
-        builder.add_collision_from_file(os.path.join(args.data_root_path, object_code, 'coacd', 'decomposed.obj'))
-        object_actor = builder.build(name='object')
+        builder.add_collision_from_file(
+            os.path.join(args.data_root_path, object_code, "coacd", "decomposed.obj")
+        )
+        object_actor = builder.build(name="object")
 
     # generate object pose
     pose_matrices = []
@@ -54,7 +72,9 @@ def generate_object_pose(_):
         translation = np.zeros(3)
         translation[2] = 1 + np.random.rand()
         rotation_euler = 2 * np.pi * np.random.rand(3)
-        rotation_quaternion = transforms3d.euler.euler2quat(*rotation_euler, axes='sxyz')
+        rotation_quaternion = transforms3d.euler.euler2quat(
+            *rotation_euler, axes="sxyz"
+        )
         try:
             object_actor.set_root_pose(sapien.Pose(translation, rotation_quaternion))
         except AttributeError:
@@ -67,25 +87,33 @@ def generate_object_pose(_):
 
     # save results
 
-    np.save(os.path.join(args.data_root_path, object_code, 'poses.npy'), pose_matrices)
-    
+    np.save(os.path.join(args.data_root_path, object_code, "poses.npy"), pose_matrices)
+
     # remove convex hull
-    if os.path.exists(os.path.join(args.data_root_path, object_code, 'coacd', 'decomposed.obj.convex.stl')):
-        os.remove(os.path.join(args.data_root_path, object_code, 'coacd', 'decomposed.obj.convex.stl'))
+    if os.path.exists(
+        os.path.join(
+            args.data_root_path, object_code, "coacd", "decomposed.obj.convex.stl"
+        )
+    ):
+        os.remove(
+            os.path.join(
+                args.data_root_path, object_code, "coacd", "decomposed.obj.convex.stl"
+            )
+        )
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     # experiment settings
-    parser.add_argument('--data_root_path', type=str, default='../data/DFCData/meshes')
-    parser.add_argument('--seed', type=int, default=0)
-    parser.add_argument('--n_samples', type=int, default=10)
-    parser.add_argument('--overwrite', type=bool, default=True)
-    parser.add_argument('--n_cpu', type=int, default=16)
+    parser.add_argument("--data_root_path", type=str, default=data_dir)
+    parser.add_argument("--seed", type=int, default=0)
+    parser.add_argument("--n_samples", type=int, default=10)
+    parser.add_argument("--overwrite", type=bool, default=True)
+    parser.add_argument("--n_cpu", type=int, default=16)
     # simulator settings
-    parser.add_argument('--sim_steps', type=int, default=1000)
-    parser.add_argument('--time_step', type=float, default=1 / 100)
-    parser.add_argument('--restitution', type=float, default=0.01)
+    parser.add_argument("--sim_steps", type=int, default=1000)
+    parser.add_argument("--time_step", type=float, default=1 / 100)
+    parser.add_argument("--restitution", type=float, default=0.01)
 
     args = parser.parse_args()
 
@@ -102,4 +130,11 @@ if __name__ == '__main__':
         param_list = []
         for object_code in object_code_list:
             param_list.append((args, object_code))
-        list(tqdm(p.imap(generate_object_pose, param_list), desc='generating', total=len(param_list), miniters=1))
+        list(
+            tqdm(
+                p.imap(generate_object_pose, param_list),
+                desc="generating",
+                total=len(param_list),
+                miniters=1,
+            )
+        )

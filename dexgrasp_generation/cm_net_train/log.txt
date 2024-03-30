@@ -4,3 +4,97 @@
 2023-11-18 18:46:35,237 - TrainModel - INFO - Saving model at epoch 1, path ./cm_net_train/ckpt/model_000001.pt
 2023-11-19 10:58:03,190 - TrainModel - INFO - Resume from epoch 1
 2023-11-19 10:58:11,505 - TrainModel - INFO - Saving model at epoch 1, path ./cm_net_train/ckpt/model_000001.pt
+2024-03-29 21:46:37,222 - TrainModel - INFO - Resume from epoch 1
+2024-03-29 21:48:38,901 - TrainModel - INFO - Train contact_map is 0.9655719225919699
+2024-03-29 21:48:38,902 - TrainModel - INFO - Train total_loss is 0.9655719225919699
+2024-03-29 21:48:38,902 - TrainModel - INFO - Epoch 2/250, learning rate = 0.001000
+2024-03-29 21:48:38,902 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 21:51:12,856 - TrainModel - INFO - Train contact_map is 0.8315916442871094
+2024-03-29 21:51:12,856 - TrainModel - INFO - Train total_loss is 0.8315916442871094
+2024-03-29 21:51:12,856 - TrainModel - INFO - Epoch 3/250, learning rate = 0.001000
+2024-03-29 21:51:12,857 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 21:53:46,825 - TrainModel - INFO - Train contact_map is 0.7933680725097656
+2024-03-29 21:53:46,825 - TrainModel - INFO - Train total_loss is 0.7933680725097656
+2024-03-29 21:53:46,825 - TrainModel - INFO - Epoch 4/250, learning rate = 0.001000
+2024-03-29 21:53:46,825 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 21:56:20,805 - TrainModel - INFO - Train contact_map is 0.7604816436767579
+2024-03-29 21:56:20,805 - TrainModel - INFO - Train total_loss is 0.7604816436767579
+2024-03-29 21:56:20,806 - TrainModel - INFO - Epoch 5/250, learning rate = 0.001000
+2024-03-29 21:56:20,806 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 21:58:56,065 - TrainModel - INFO - Train contact_map is 0.7431519317626953
+2024-03-29 21:58:56,065 - TrainModel - INFO - Train total_loss is 0.7431519317626953
+2024-03-29 21:58:56,066 - TrainModel - INFO - Epoch 6/250, learning rate = 0.001000
+2024-03-29 21:58:56,066 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 22:01:35,141 - TrainModel - INFO - Train contact_map is 0.7237373352050781
+2024-03-29 22:01:35,141 - TrainModel - INFO - Train total_loss is 0.7237373352050781
+2024-03-29 22:01:35,142 - TrainModel - INFO - Epoch 7/250, learning rate = 0.001000
+2024-03-29 22:01:35,142 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 22:04:12,399 - TrainModel - INFO - Train contact_map is 0.71133056640625
+2024-03-29 22:04:12,400 - TrainModel - INFO - Train total_loss is 0.71133056640625
+2024-03-29 22:04:12,400 - TrainModel - INFO - Epoch 8/250, learning rate = 0.001000
+2024-03-29 22:04:12,400 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 22:06:51,136 - TrainModel - INFO - Train contact_map is 0.7053971099853515
+2024-03-29 22:06:51,136 - TrainModel - INFO - Train total_loss is 0.7053971099853515
+2024-03-29 22:06:51,136 - TrainModel - INFO - Epoch 9/250, learning rate = 0.001000
+2024-03-29 22:06:51,136 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 22:09:30,335 - TrainModel - INFO - Train contact_map is 0.6888772583007813
+2024-03-29 22:09:30,335 - TrainModel - INFO - Train total_loss is 0.6888772583007813
+2024-03-29 22:09:30,335 - TrainModel - INFO - Epoch 10/250, learning rate = 0.001000
+2024-03-29 22:09:30,335 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 22:12:10,579 - TrainModel - INFO - Train contact_map is 0.6799850463867188
+2024-03-29 22:12:10,579 - TrainModel - INFO - Train total_loss is 0.6799850463867188
+2024-03-29 22:12:10,580 - TrainModel - INFO - Epoch 11/250, learning rate = 0.001000
+2024-03-29 22:12:10,580 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 22:14:52,447 - TrainModel - INFO - Train contact_map is 0.677584228515625
+2024-03-29 22:14:52,447 - TrainModel - INFO - Train total_loss is 0.677584228515625
+2024-03-29 22:14:52,448 - TrainModel - INFO - Epoch 12/250, learning rate = 0.001000
+2024-03-29 22:14:52,448 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 22:17:32,016 - TrainModel - INFO - Train contact_map is 0.6643634796142578
+2024-03-29 22:17:32,016 - TrainModel - INFO - Train total_loss is 0.6643634796142578
+2024-03-29 22:17:32,017 - TrainModel - INFO - Epoch 13/250, learning rate = 0.001000
+2024-03-29 22:17:32,017 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 22:20:13,681 - TrainModel - INFO - Train contact_map is 0.6641129302978516
+2024-03-29 22:20:13,681 - TrainModel - INFO - Train total_loss is 0.6641129302978516
+2024-03-29 22:20:13,681 - TrainModel - INFO - Epoch 14/250, learning rate = 0.001000
+2024-03-29 22:20:13,681 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 22:22:57,775 - TrainModel - INFO - Train contact_map is 0.6521340942382813
+2024-03-29 22:22:57,775 - TrainModel - INFO - Train total_loss is 0.6521340942382813
+2024-03-29 22:22:57,776 - TrainModel - INFO - Epoch 15/250, learning rate = 0.001000
+2024-03-29 22:22:57,776 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 22:25:38,469 - TrainModel - INFO - Train contact_map is 0.6429855346679687
+2024-03-29 22:25:38,469 - TrainModel - INFO - Train total_loss is 0.6429855346679687
+2024-03-29 22:25:38,469 - TrainModel - INFO - Epoch 16/250, learning rate = 0.001000
+2024-03-29 22:25:38,470 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 22:28:17,597 - TrainModel - INFO - Train contact_map is 0.6482299041748046
+2024-03-29 22:28:17,598 - TrainModel - INFO - Train total_loss is 0.6482299041748046
+2024-03-29 22:28:17,598 - TrainModel - INFO - Epoch 17/250, learning rate = 0.001000
+2024-03-29 22:28:17,598 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 22:30:57,924 - TrainModel - INFO - Train contact_map is 0.6485494995117187
+2024-03-29 22:30:57,924 - TrainModel - INFO - Train total_loss is 0.6485494995117187
+2024-03-29 22:30:57,925 - TrainModel - INFO - Epoch 18/250, learning rate = 0.001000
+2024-03-29 22:30:57,925 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 22:33:39,370 - TrainModel - INFO - Train contact_map is 0.6418815612792969
+2024-03-29 22:33:39,370 - TrainModel - INFO - Train total_loss is 0.6418815612792969
+2024-03-29 22:33:39,371 - TrainModel - INFO - Epoch 19/250, learning rate = 0.001000
+2024-03-29 22:33:39,371 - TrainModel - INFO - BN momentum updated to 0.100000
+2024-03-29 22:36:20,023 - TrainModel - INFO - Train contact_map is 0.635928840637207
+2024-03-29 22:36:20,023 - TrainModel - INFO - Train total_loss is 0.635928840637207
+2024-03-29 22:36:20,024 - TrainModel - INFO - Epoch 20/250, learning rate = 0.001000
+2024-03-29 22:36:20,024 - TrainModel - INFO - BN momentum updated to 0.050000
+2024-03-29 22:38:54,896 - TrainModel - INFO - Train contact_map is 0.6297354888916016
+2024-03-29 22:38:54,896 - TrainModel - INFO - Train total_loss is 0.6297354888916016
+2024-03-29 22:38:54,896 - TrainModel - INFO - Epoch 21/250, learning rate = 0.001000
+2024-03-29 22:38:54,896 - TrainModel - INFO - BN momentum updated to 0.050000
+2024-03-29 22:41:29,013 - TrainModel - INFO - Train contact_map is 0.6317750549316407
+2024-03-29 22:41:29,013 - TrainModel - INFO - Train total_loss is 0.6317750549316407
+2024-03-29 22:41:29,014 - TrainModel - INFO - Epoch 22/250, learning rate = 0.001000
+2024-03-29 22:41:29,014 - TrainModel - INFO - BN momentum updated to 0.050000
+2024-03-29 22:44:04,465 - TrainModel - INFO - Train contact_map is 0.6318586730957031
+2024-03-29 22:44:04,465 - TrainModel - INFO - Train total_loss is 0.6318586730957031
+2024-03-29 22:44:04,466 - TrainModel - INFO - Epoch 23/250, learning rate = 0.001000
+2024-03-29 22:44:04,466 - TrainModel - INFO - BN momentum updated to 0.050000
+2024-03-29 22:46:39,761 - TrainModel - INFO - Train contact_map is 0.6237528991699218
+2024-03-29 22:46:39,762 - TrainModel - INFO - Train total_loss is 0.6237528991699218
+2024-03-29 22:46:39,762 - TrainModel - INFO - Epoch 24/250, learning rate = 0.001000
+2024-03-29 22:46:39,762 - TrainModel - INFO - BN momentum updated to 0.050000
+2024-03-29 22:46:50,742 - TrainModel - INFO - Saving model at epoch 24, path ./cm_net_train/ckpt/model_000024.pt

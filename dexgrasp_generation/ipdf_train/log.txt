@@ -2072,3 +2072,5 @@
 2023-11-14 20:59:18,321 - TrainModel - INFO - Saving model at epoch 412, path ./ipdf_train/ckpt/model_000412.pt
 2023-11-14 20:59:44,395 - TrainModel - INFO - Resume from epoch 412
 2023-11-14 20:59:44,420 - TrainModel - INFO - Saving model at epoch 412, path ./ipdf_train/ckpt/model_000412.pt
+2024-03-29 21:15:09,019 - TrainModel - INFO - Resume from epoch 412
+2024-03-29 21:15:09,042 - TrainModel - INFO - Saving model at epoch 412, path ./ipdf_train/ckpt/model_000412.pt

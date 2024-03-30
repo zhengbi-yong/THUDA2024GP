@@ -2043,3 +2043,7 @@
 2023-11-18 17:43:04,635 - TrainModel - INFO - BN momentum updated to 0.010000
 2023-11-18 18:45:22,830 - TrainModel - INFO - Resume from epoch 401
 2023-11-18 18:45:22,952 - TrainModel - INFO - Saving model at epoch 401, path ./glow_train/ckpt/model_000401.pt
+2024-03-11 15:26:39,046 - TrainModel - INFO - Resume from epoch 401
+2024-03-11 15:26:39,150 - TrainModel - INFO - Saving model at epoch 401, path ./glow_train/ckpt/model_000401.pt
+2024-03-29 21:45:32,108 - TrainModel - INFO - Resume from epoch 401
+2024-03-29 21:45:32,221 - TrainModel - INFO - Saving model at epoch 401, path ./glow_train/ckpt/model_000401.pt

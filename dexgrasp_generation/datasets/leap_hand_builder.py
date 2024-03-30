@@ -4,29 +4,27 @@ import numpy as np
 import pytorch_kinematics as pk
 import torch
 import trimesh
-import urdf_parser_py.urdf as urdf
 from pytorch3d.structures import Meshes, join_meshes_as_batch
 
 
 class LeapHandBuilder:
-    # 定义手部各关节名称
     joint_names = [
-        "joint0",
-        "joint1",
-        "joint2",
-        "joint3",
-        "joint4",
-        "joint5",
-        "joint6",
-        "joint7",
-        "joint8",
-        "joint9",
-        "joint10",
-        "joint11",
-        "joint12",
-        "joint13",
-        "joint14",
-        "joint15",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
     ]
     mesh_filenames = [
         "dip.stl",
@@ -42,17 +40,7 @@ class LeapHandBuilder:
     def __init__(
         self, urdf_path="data/leap_hand/robot.urdf", mesh_dir="data/leap_hand/meshes"
     ):
-        print("开始构建LEAP Hand")
-        print(f"当前工作目录：{os.getcwd()}")
-        print(f"URDF绝对路径：{os.path.abspath(urdf_path)}")
-        urdf_path = (
-            "/home/sisyphus/UniDexGrasp/dexgrasp_generation/data/leap_hand/robot.urdf"
-        )
-        print(f"URDF_path：{urdf_path}")
-        # self.chain = pk.build_serial_chain_from_urdf(open(urdf_path).read()).to(
-        #     dtype=torch.float
-        # )
-
+        print(f"LeapHandBuilder接收到的urdf_path: {urdf_path}")
         self.chain = pk.build_serial_chain_from_urdf(
             open(urdf_path).read(), end_link_name="fingertip"
         ).to(dtype=torch.float)
@@ -62,23 +50,39 @@ class LeapHandBuilder:
 
     def _build_meshes(self):
         device = "cpu"
-        # 遍历URDF文件中的所有链接，加载相应的网格
-        for link in self.chain.links:
-            # 获取链接名和网格文件名
-            link_name = link.link.name
-            mesh_filename = link.link.visual[0].geometry.filename
-            full_mesh_path = os.path.join(self.mesh_dir, mesh_filename)
-            print(f"文件路径：{full_mesh_path}")
+        self._build_meshes_recurse(self.chain._root, device)
 
-            # 加载网格文件
-            link_mesh = trimesh.load(full_mesh_path, process=False)
-            vertices = torch.tensor(
-                link_mesh.vertices, dtype=torch.float, device=device
-            )
-            faces = torch.tensor(link_mesh.faces, dtype=torch.long, device=device)
+    def _build_meshes_recurse(self, root_frame, device):
+        for child in root_frame.children:
+            if child.name in LeapHandBuilder.joint_names:
+                # 假设网格文件名与关节名称有一定的对应关系，或者有其他逻辑来确定具体的网格文件名
+                mesh_filename = self._get_mesh_filename_for_joint(child.name)
+                print(f"关节名称：{child.name}，网格文件名：{mesh_filename}")
+                if mesh_filename:
+                    full_mesh_path = os.path.join(self.mesh_dir, mesh_filename)
+                    print(f"文件路径：{full_mesh_path}")
 
-            # 存储网格信息
-            self.mesh[link_name] = {"vertices": vertices, "faces": faces}
+                    # 加载网格文件
+                    link_mesh = trimesh.load(full_mesh_path, process=False)
+                    vertices = torch.tensor(
+                        link_mesh.vertices, dtype=torch.float, device=device
+                    )
+                    faces = torch.tensor(
+                        link_mesh.faces, dtype=torch.long, device=device
+                    )
+
+                    # 存储网格信息
+                    self.mesh[child.name] = {"vertices": vertices, "faces": faces}
+
+                self._build_meshes_recurse(child, device)
+
+    def _get_mesh_filename_for_joint(self, joint_name):
+        # 这里需要实现逻辑来根据关节名称选择正确的网格文件名
+        # 以下是一个简化的示例，具体实现可能会更复杂
+        return {
+            "joint0": "dip.stl",
+            # 添加其它关节名称到网格文件名的映射
+        }.get(joint_name)
 
     def qpos_to_qpos_dict(self, qpos, hand_qpos_names=None):
         if hand_qpos_names is None:
@@ -86,9 +90,11 @@ class LeapHandBuilder:
         assert len(qpos) == len(hand_qpos_names)
         return dict(zip(hand_qpos_names, qpos))
 
-    def qpos_dict_to_qpos(self, qpos_dict, hand_qpos_names=None):
-        if hand_qpos_names is None:
-            hand_qpos_names = LeapHandBuilder.joint_names
+    def qpos_dict_to_qpos(self, qpos_dict):
+        hand_qpos_names = [f"{i}" for i in range(16)]  # Assuming 16 joints
+        missing_joints = [name for name in hand_qpos_names if name not in qpos_dict]
+        if missing_joints:
+            raise ValueError(f"Missing joint data for: {missing_joints}")
         return np.array([qpos_dict[name] for name in hand_qpos_names])
 
     def get_hand_mesh(

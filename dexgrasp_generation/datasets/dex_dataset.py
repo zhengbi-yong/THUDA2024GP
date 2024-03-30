@@ -96,7 +96,9 @@ class DFCDataset(Dataset):
             )
             print(f"传递给LeapHandBuilder的urdf_path: {self.hand_urdf_path}")
 
-            self.hand_builder = LeapHandBuilder(self.hand_mesh_dir, self.hand_urdf_path)
+            self.hand_builder = LeapHandBuilder(
+                urdf_path=self.hand_urdf_path, mesh_dir=self.hand_mesh_dir
+            )
 
         else:
             # use Adroit

@@ -1,8 +1,20 @@
 # 训练GraspIPDF
-python ./network/train.py --config-name ipdf_config --exp-dir ./ipdf_train
+python ./network/train.py --config-name ipdf_config_leap --exp-dir ./ipdf_train4
 
 # 训练GraspGlow
 python ./network/train.py --config-name glow_config --exp-dir ./glow_train
 
 # 训练ContactNet
 python ./network/train.py --config-name cm_net_config --exp-dir ./cm_net_train
+
+# 读取npy数据
+python ./scripts/reader_npy.py --path /home/sisyphus/UniDexGrasp/dexgrasp_generation/data/DFCData/meshes/core/bottle-1a7ba1f4c892e2da30711cdbdbc73924 --filename poses.npy
+
+# 读取LEAPnpy数据
+python ./scripts/reader_npy.py --path /home/sisyphus/UniDexGrasp/dexgrasp_generation/data/DFCDataLEAP/ --filename core-bottle-10dff3c43200a7a7119862dbccbaa609.npy
+
+# 读取npz数据
+python ./scripts/reader_npz.py --path /home/sisyphus/UniDexGrasp/dexgrasp_generation/data/DFCData/poses/core/bottle-1a7ba1f4c892e2da30711cdbdbc73924 --filename 00000.npz
+
+# 创建符号链接
+ln -s /home/sisyphus/GP/GP-DexGraspNet/data/leaphand_graspdata_version1_debug01_20240305 /home/sisyphus/UniDexGrasp/dexgrasp_generation/data/DFCDataLEAP
