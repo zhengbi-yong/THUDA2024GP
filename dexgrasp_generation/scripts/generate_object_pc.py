@@ -63,6 +63,7 @@ def sample_projected(_):
     object_path = os.path.join(
         args.data_root_path, object_code, "coacd", "decomposed.obj"
     )
+    # print(f"object code:{object_code}")
 
     # set simulator
 

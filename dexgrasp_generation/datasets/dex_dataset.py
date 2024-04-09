@@ -299,8 +299,11 @@ class DFCDataset(Dataset):
         """
         file_list = []
         for category in categories:
+            print(f"Checking category: {category}")
             for split in splits:
+                print(f"Checking split: {split}")
                 for instance in splits_data[category][split]:
+                    print(f"Checking instance: {instance}")
                     file_dir_path = pjoin(
                         root_dir,
                         self.dataset_cfg["dataset_dir"],
@@ -308,6 +311,7 @@ class DFCDataset(Dataset):
                         category,
                         instance,
                     )
+                    print(f"Looking in directory: {file_dir_path}")
                     files = list(
                         filter(
                             lambda file: file[0] != "." and (file.endswith(".npz")),

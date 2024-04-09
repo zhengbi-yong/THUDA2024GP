@@ -37,17 +37,26 @@ def sample_projected(_):
 
     engine = sapien.Engine()
     engine.set_log_level("critical")
-    renderer = sapien.VulkanRenderer(offscreen_only=True)
+    # renderer = sapien.VulkanRenderer(offscreen_only=True)
+    renderer = sapien.SapienRenderer(offscreen_only=True)
     engine.set_renderer(renderer)
 
     scene = engine.create_scene()
 
     rscene = scene.get_renderer_scene()
-    rscene.set_ambient_light([0.5, 0.5, 0.5])
-    rscene.add_directional_light([0, 1, -1], [0.5, 0.5, 0.5], shadow=True)
-    rscene.add_point_light([1, 2, 2], [1, 1, 1], shadow=True)
-    rscene.add_point_light([1, -2, 2], [1, 1, 1], shadow=True)
-    rscene.add_point_light([-1, 0, 1], [1, 1, 1], shadow=True)
+    if hasattr(rscene, "set_ambient_light"):
+        rscene.set_ambient_light([0.5, 0.5, 0.5])
+    if hasattr(rscene, "add_directional_light"):
+        rscene.add_directional_light([0, 1, -1], [0.5, 0.5, 0.5], shadow=True)
+    if hasattr(rscene, "add_point_light"):
+        rscene.add_point_light([1, 2, 2], [1, 1, 1], shadow=True)
+        rscene.add_point_light([1, -2, 2], [1, 1, 1], shadow=True)
+        rscene.add_point_light([-1, 0, 1], [1, 1, 1], shadow=True)
+    # rscene.set_ambient_light([0.5, 0.5, 0.5])
+    # rscene.add_directional_light([0, 1, -1], [0.5, 0.5, 0.5], shadow=True)
+    # rscene.add_point_light([1, 2, 2], [1, 1, 1], shadow=True)
+    # rscene.add_point_light([1, -2, 2], [1, 1, 1], shadow=True)
+    # rscene.add_point_light([-1, 0, 1], [1, 1, 1], shadow=True)
 
     builder = scene.create_actor_builder()
     builder.add_visual_from_file(

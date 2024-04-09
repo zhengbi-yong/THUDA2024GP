@@ -22,6 +22,7 @@ def main():
 
     # 修改这里，添加 allow_pickle=True
     with np.load(full_path, allow_pickle=True) as data:
+        print("Origin Data:", data)
         print("Arrays in the .npz file:", data.files)
         for file in data.files:
             print(f"Array '{file}':")
