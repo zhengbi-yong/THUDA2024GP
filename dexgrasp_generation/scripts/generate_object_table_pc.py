@@ -37,8 +37,8 @@ def sample_projected(_):
 
     engine = sapien.Engine()
     engine.set_log_level("critical")
-    # renderer = sapien.VulkanRenderer(offscreen_only=True)
-    renderer = sapien.SapienRenderer(offscreen_only=True)
+    renderer = sapien.VulkanRenderer(offscreen_only=True)
+    # renderer = sapien.SapienRenderer(offscreen_only=True)
     engine.set_renderer(renderer)
 
     scene = engine.create_scene()

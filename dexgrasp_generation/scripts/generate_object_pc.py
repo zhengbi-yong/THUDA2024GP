@@ -70,7 +70,7 @@ def sample_projected(_):
     engine = sapien.Engine()
     engine.set_log_level("critical")
     # renderer = sapien.SapienRenderer(offscreen_only=True)
-    renderer = sapien.SapienRenderer()
+    renderer = sapien.VulkanRenderer()
     engine.set_renderer(renderer)
 
     scene = engine.create_scene()

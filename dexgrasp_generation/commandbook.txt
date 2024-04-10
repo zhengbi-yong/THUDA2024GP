@@ -1,4 +1,6 @@
+# 使用1.1.1版本的Sapien
 # 基于LEAP训练GraspIPDF
+export KMP_DUPLICATE_LIB_OK=TRUE
 python ./network/train.py --config-name ipdf_config_leap --exp-dir ./ipdf_debug
 
 # 训练GraspGlow
