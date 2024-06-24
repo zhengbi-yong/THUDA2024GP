@@ -1,0 +1,11 @@
+sudo /home/sisyphus/anaconda3/envs/leapsim/bin/python /home/sisyphus/LEAP_Hand_API/python/actiontest.py
+
+sudo /home/sisyphus/anaconda3/envs/leapsim/bin/python /home/sisyphus/LEAP_Hand_API/python/main.py
+
+sudo /home/sisyphus/anaconda3/envs/leapsim/bin/python /home/sisyphus/LEAP_Hand_API/python/keyboardcontrol.py
+
+sudo /home/sisyphus/anaconda3/envs/leapsim/bin/python /home/sisyphus/LEAP_Hand_API/python/trajectory.py
+
+[2.8363304 3.8426218 4.6801753 3.4790685 3.362486  3.911651  4.7538066
+ 3.4913402 3.2336316 4.624952  4.466952  3.575709  3.580311  4.419399
+ 4.094195  4.1678257]
